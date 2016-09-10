@@ -12,6 +12,11 @@ layout: default
       {{content}}
     </section>
     <footer class="post-footer">
+
+<!-- Added post date -->
+<p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+<!-- end added post date -->
+
       <section class="share">
         <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
           Share on
@@ -40,8 +45,8 @@ layout: default
               {% endif %}
             </span>
           </p>
-          <hr>
-          <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
+          <!-- <hr>
+           <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p> -->
         </section>
       </div>
       {{/post}}
