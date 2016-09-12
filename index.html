@@ -17,10 +17,17 @@ layout: default
             <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
           </header>
 
+
           <section class="post-excerpt" itemprop="description">
-             <p>{{ post.excerpt | strip_html | truncatewords: 1000 }}</p> 
+          <p>{{ post.content | remove: '<p>' | remove: '</p>' }}</p>
           </section>
-    
+
+
+          <!-- post excerpt -->  
+          <!-- <section class="post-excerpt" itemprop="description"> -->  
+          <!--   <p>{{ post.excerpt | strip_html | truncatewords: 1000 }}</p>  -->  
+          <!-- </section> -->  
+          
 
           <div class="post-meta">
             <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>

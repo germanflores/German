@@ -31,22 +31,19 @@ layout: default
           <div class="author-image"></div>
           <h4>{{ site.name }}</h4>
           <p class="bio">{{site.bio}}</p>
-
-          <p>
-            <span>
+            <p>
+              <span>
               {% if site.github_username %}
                 {% include icon-github.html username=site.github_username %}
               {% endif %}
-            </span>
-<br />
-            <span>
+              </span>
+                <br />
+              <span>
               {% if site.twitter_username %}
                 {% include icon-twitter.html username=site.twitter_username %}
               {% endif %}
             </span>
-          </p>
-          <!-- <hr>
-           <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p> -->
+            </p>
         </section>
       </div>
       {{/post}}

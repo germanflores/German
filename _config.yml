@@ -31,3 +31,5 @@ kramdown:
 
 gems:
   - jekyll-paginate
+
+excerpt_separator: ""
