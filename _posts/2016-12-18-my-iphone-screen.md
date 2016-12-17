@@ -5,9 +5,11 @@ title: iphone home screen
 ---
 This is my iphone screens these days.
 
-<amp-img width="600" height="300" layout="responsive" src="/assets/images/2016-12-17-iphone-home-screen-1.jpg"></amp-img>
 
-<amp-img width="600" height="300" layout="responsive" src="/assets/images/2016-12-17-iphone-home-screen-2.jpg"></amp-img>
+<amp-img width="300" height="600" layout="responsive" src="/assets/images/2016-12-17-iphone-home-screen-1.jpg"></amp-img>
+
+<amp-img width="300" height="600" layout="responsive" src="/assets/images/2016-12-17-iphone-home-screen-2.jpg"></amp-img>
+
 
 My favorite apps for home are:
 * Inbox
