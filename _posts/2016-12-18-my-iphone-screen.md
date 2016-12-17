@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: iphone home screen
 
 ---
@@ -12,6 +12,7 @@ This is my iphone screens these days
 
 
 My favorite apps for home are:
+
 * Inbox
 * Fantastical
 * Feedly
@@ -26,6 +27,7 @@ My favorite apps for home are:
 * Simple
 
 My favorite apps for work are:
+
 * Slack
 * Mail
 * Calendar
