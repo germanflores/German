@@ -8,8 +8,7 @@
 # Site settings
 title: german flores
 email: 
-description: >
-  Description here
+description: German Flores Scrum Master, Team Development at Leapfrog Online. Chicago Illinois
 logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://germanflores.com" # the base hostname & protocol for your site
