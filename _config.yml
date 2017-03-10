@@ -15,8 +15,7 @@ url: "http://germanflores.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'german flores'
-bio: >
-  I help organizations implement effective practices to manage work and grow people. I support teams at Leapfrog Online Direct Marketing. My opinions only.
+bio: I help organizations implement effective practices to manage work and grow people. I support teams at Leapfrog Online Direct Marketing. My opinions only.
 author_image: "/assets/images/author.jpg"
 twitter_username: germanflores
 github_username:  germanflores
