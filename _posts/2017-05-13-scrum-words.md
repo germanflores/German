@@ -1,0 +1,24 @@
+---
+layout: post
+title: The Way I talk about Scrum
+
+---
+
+<amp-img width="4032" height="3024" layout="responsive" src="/assets/images/2017-05-13-words.jpg"></amp-img>
+
+The last few years in the Scrum Master role my perspective about Scrum related words has changed. Here are a few words that I’m trying to change in my vocabulary when I’m teaching others about Agile philosophies and the Scrum framework.
+
+## Iteration
+Instead of Sprint I prefer *iteration*. Sounds and reads more sustainable. Teams iterate on work every two weeks.
+
+## Forecasting
+Instead of Planning I prefer *forecasting*. Sounds realistic. The team forecast work they believe they can deliver over the next two weeks. Things change, a forecast changes.
+
+## Meetings
+Instead of rituals, e.g. Scrum rituals I prefer *Team Meetings*. Ritual sounds too religious, cultish.
+
+## Sustainable
+When a team is in a bad situation I ask myself, is this sustainable.
+
+## Backlog Refinement
+Instead Backlog Grooming I've been using *Backlog Refinement* and *Backlog Discovery*. Every week the team refines the backlog or they discover and ideate about features or problems that exist at the Epic level.
