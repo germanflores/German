@@ -10,7 +10,7 @@ title: german flores
 email: 
 description: German Flores Scrum Master, Team Development at Leapfrog Online. Chicago Illinois
 logo: "/assets/images/logo.png"
-baseurl: "http://germanflores.com/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://germanflores.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
