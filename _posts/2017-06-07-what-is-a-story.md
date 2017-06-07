@@ -30,6 +30,7 @@ The title should describe an activity. Let the story name be the starting point 
 
 `As a <person/role>, I want <goal>, so that <reason>.`
 
+
 Stories provide us with the person or the role that is making a request, the feature or requirement the business wants, and the problem solved. Stories should encapsulate what the business wants and why it is of value.
 
 ### Acceptance Criteria
