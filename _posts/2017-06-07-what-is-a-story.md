@@ -28,7 +28,7 @@ The title should describe an activity. Let the story name be the starting point 
 
 ### Story
 
-> As a <person/role>, I want <goal>, so that <reason>.”
+`As a <person/role>, I want <goal>, so that <reason>.`
 
 Stories provide us with the person or the role that is making a request, the feature or requirement the business wants, and the problem solved. Stories should encapsulate what the business wants and why it is of value.
 
@@ -54,10 +54,9 @@ Some of our teams prefer implementation details for additional details or guid
 
 ## When We Do Not Write Stories
 
-When the work is either too small or does not fit into the story format, in those cases, we write Chores/Tasks. 
+When the work is either too small or does not fit into the story format, in those cases, we write Chores/Tasks.
 
-**Task Format**
-> “As a <>, I want <>, so that <>.”
+`“As a <>, I want <>, so that <>.`
 
 We write chores/tasks because it is work that needs prioritization and visibility and to add to an iteration. It may be a stepping stone to get a story to “done,” or it could be a cleanup task that needs attention.
 
