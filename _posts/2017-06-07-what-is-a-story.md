@@ -57,8 +57,10 @@ Some of our teams prefer implementation details for additional details or guid
 
 When the work is either too small or does not fit into the story format, in those cases, we write Chores/Tasks.
 
+
 `“As a <>, I want <>, so that <>.`
-<br />
+
+
 We write chores/tasks because it is work that needs prioritization and visibility and to add to an iteration. It may be a stepping stone to get a story to “done,” or it could be a cleanup task that needs attention.
 
 ### Chores/Tasks Characteristics
