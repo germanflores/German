@@ -1,60 +1,45 @@
 ---
 layout: default
 ---
+<header class="masthead">
+  <h1 class="masthead-title">
+    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+  </h1>
+  <nav class="masthead-nav">
+	{% assign sorted_pages = site.pages | sort: "order" %}
+	{% for page in sorted_pages %}
+		{% if page.title %}
+			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+		{% endif %}
+	{% endfor %}
 
-<main class="content" role="main">
-
-  <header class="blog-header">
-      <!-- <h1 class="blog-title">{{ site.title }}</h1> -->
-      <!-- <h2 class="blog-description">{{ site.description }}</h2> -->
-  </header>
-
-  <div class="cf frame">
-    {% for post in paginator.posts %}
-      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-        <div class="article-item">
-          <header class="post-header">
-            <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-          </header>
-
-
-          <section class="post-excerpt" itemprop="description">
-          <p>{{ post.content | remove: '<p>' | remove: '</p>' }}</p>
-          </section>
-
-
-          <!-- post excerpt -->  
-          <!-- <section class="post-excerpt" itemprop="description"> -->  
-          <!--   <p>{{ post.excerpt | strip_html | truncatewords: 1000 }}</p>  -->  
-          <!-- </section> -->  
-          
-
-          <div class="post-meta">
-            <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-          </div>
-        </div>
-      </article>
-    {% endfor %}
-  </div>
-
-  <nav class="pagination" role="navigation">
-    {% if paginator.next_page %}
-      <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Older posts</a>
-    {% else %}
-      <a class="newer-posts disabled">&larr; Older posts</a>
-    {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.previous_page %}
-      {% if paginator.page == 2 %}
-        <a class="older-posts" href="{{ site.baseurl }}/">Newer posts &rarr;</a>
-      {% else %}
-        <a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer posts &rarr;</a>
-      {% endif %}
-    {% else %}
-      <a class="older-posts disabled">Newer posts &rarr;</a>
-    {% endif %}
+	<a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
   </nav>
+</header>
+<div class="content list h-feed">
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% else %}
+{% for post in paginator.posts %}
+  <div class="list-item h-entry">
+	{% if post.microblog == false %}
+		<h1 class="home-title">{{ post.title }}</h1>
+	{% endif %}
+    <div class="content post e-content">
+      {{ post.content }}
+    </div>
+    <div class="list-post-date">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="u-url"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></a>
+    </div>
+  </div>
+{% endfor %}
+{% endif %}
+</div>
 
-</main>
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
 
-{% include footer.html %}
+<footer class="site-footer">
+	<p class="text">{{ site.description }}</p>
+</footer>
