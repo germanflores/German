@@ -6,19 +6,251 @@
 	"items": [
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/03/31/test.html",
-	      	
-			"content_html": "<p>Test</p>\n",
-			"date_published": "2018-03-31T10:30:00-05:00",
-			"url": "http://germanflores.com/2018/03/31/test.html"
-		},
-		
-		{
 			"id": "http://germanflores.micro.blog/2018/03/30/195507.html",
 	      	
 			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/7166885991.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-03-30T14:55:00-05:00",
 			"url": "http://germanflores.com/2018/03/30/195507.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/03/30/waves.html",
+	      	
+			"title": "Waves",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2018-03-30-lake-michigan-waves.jpg\"></amp-img>n</p>\n",
+			"date_published": "2018-03-30T00:00:00-05:00",
+			"url": "http://germanflores.com/2018/03/30/waves.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/02/14/winter.html",
+	      	
+			"title": "Winter",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2018-02-14-lake-michigan-winter.jpg\"></amp-img>n</p>\n",
+			"date_published": "2018-02-14T00:00:00-06:00",
+			"url": "http://germanflores.com/2018/02/14/winter.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/12/08/car-amp-team.html",
+	      	
+			"title": "Car &amp; Team Analogies",
+			
+			"content_html": "<blockquote><p>n  </p>\n<p>“Your engine light came on for a reason, and these things do not fix themselves. Often engine lights come on because something in the engine failed at least three times”, the mechanic replied. “Just because the light is off does not mean that the problem has fixed itself.” &#8211; Ken Doyle</p>\n<p>n</p></blockquote>\n<p>n</p>\n",
+			"date_published": "2017-12-08T00:00:00-06:00",
+			"url": "http://germanflores.com/2017/12/08/car-amp-team.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/12/04/060000.html",
+	      	
+			"title": "This Is the Time",
+			
+			"content_html": "<p><amp-img width=\"3868\" height=\"2899\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-12-04-lake-michigan.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-12-04T00:00:00-06:00",
+			"url": "http://germanflores.com/2017/12/04/060000.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/11/19/this-is-the.html",
+	      	
+			"title": "This Is the Time",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-11-19-lake-michigan.jpg\"></amp-img>nn</p>\n<p>I have a job, stable family life, health. This is the time to think ahead, put the effort in, work on the big thing.</p>\n<p>n</p>\n",
+			"date_published": "2017-11-19T00:00:00-06:00",
+			"url": "http://germanflores.com/2017/11/19/this-is-the.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/11/13/lake-michigan.html",
+	      	
+			"title": "Lake Michigan",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-11-13-lake-michigan.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-11-13T00:00:00-06:00",
+			"url": "http://germanflores.com/2017/11/13/lake-michigan.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/11/02/not-convinced-i.html",
+	      	
+			"title": "Not Convinced I Should Attend",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-11-02-chicago-river.jpg\"></amp-img>nn</p>\n<p>Today I received a meeting request that did not convince me that I should attend. This is how I responded before accepting the meeting:</p>\n<p>nn</p>\n<p>Could you help me understand why we need to meet? The title of the meeting does not help me</p>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li>What questions do you have?</li>\n<p>n  </p>\n<li>Why do we need to meet?</li>\n<p>n  </p>\n<li>What problem are we meeting to solve?</li>\n<p>n  </p>\n<li>How should I prepare for this conversation?</li>\n<p>n  </p>\n<li>What is the agenda?</li>\n<p>n  </p>\n<li>What decision are we meeting to make?</li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul>\n",
+			"date_published": "2017-11-02T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/11/02/not-convinced-i.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/10/30/morning-in-lake.html",
+	      	
+			"title": "Morning in Lake Michigan",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-10-26-lake-michigan.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-10-30T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/10/30/morning-in-lake.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/10/19/small-software-development.html",
+	      	
+			"title": "Small Software Development Teams",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-10-19-team-doughnuts.jpg\"></amp-img>nn</p>\n<p>Besides a lower capacity there other downsides to small (e.g. three) engineering teams.</p>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li><strong>Coverage</strong>, e.g., Depending on the work they are doing and applications they support there is a risk of not having enough folks to provide support during a crisis while continuing iteration development, then add someone being out sick, and someone on vacation and velocity and morale tank. You can mitigate by staggering vacations but not much you can do about people being sick or bugs</li>\n<p>n  </p>\n<li><strong>People moving on</strong>. The proverbial getting hit by a bus situation where someone in the team leaves, and now you are down to only two people</li>\n<p>n  </p>\n<li><strong>Onboarding efficiencies</strong>. Supporting the onboarding of a new engineer is much easier and takes less time when you an optimal sized team</li>\n<p>n  </p>\n<li><strong>Engineering progression</strong>. It is likely that there will be more instances in a larger team for folks to develop their leadership skills than in a smaller team. The larger the team, the more capacity, i.e., more variation of work, which in turn exposes engineers to more types of problems to solve</li>\n<p>n  </p>\n<li><strong>Scale</strong>. If we are staffing our teams with the three roles: Development, Product Owner, and Scrum Master having a group of only three means that the Product Owner role and Scrum Master role will have additional time. Not a downside, just an adjustment for the smaller group</li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul>\n",
+			"date_published": "2017-10-19T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/10/19/small-software-development.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/10/14/050000.html",
+	      	
+			"title": "Lake Michigan",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/lake-michigan-2017-10-14.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-10-14T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/10/14/050000.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/09/15/gotham.html",
+	      	
+			"title": "Gotham",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-09-15-gotham.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-09-15T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/09/15/gotham.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/08/07/retrospective-starters.html",
+	      	
+			"title": "Retrospective Starters",
+			
+			"content_html": "<p><amp-img width=\"3758\" height=\"2818\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-08-07-retrospective-starters.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-08-07T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/08/07/retrospective-starters.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/06/23/do-not-follow.html",
+	      	
+			"title": "Do Not Follow",
+			
+			"content_html": "<p><amp-img width=\"3758\" height=\"2818\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-06-23-do-not-follow.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-06-23T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/06/23/do-not-follow.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/06/11/trees.html",
+	      	
+			"title": "Trees",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/trees-2017-06-11.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-06-11T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/06/11/trees.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/06/10/workplace-fiction.html",
+	      	
+			"title": "Workplace Fiction",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/workplace-fiction-2017-06-10.jpg\"></amp-img>nn</p>\n<blockquote><p>n  </p>\n<p>Fiction can help us here, this time in its form, not its content. It can help us to clarify our own thoughts, help us test our ideas before we build them, and help our teams stay focused on the things that matter.</p>\n<p>n</p></blockquote>\n<p>nn</p>\n<h2 id=\"resources\">Resources</h2>\n<p>n</p>\n<ul>n  &lt;/p&gt;\n<li><a href=\"https://medium.com/hackerpreneur-magazine/science-fiction-and-design-866178c1739e\">(Science) Fiction and Design</a></li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul>\n",
+			"date_published": "2017-06-10T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/06/10/workplace-fiction.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/06/07/what-is-a.html",
+	      	
+			"title": "What Is a Story",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"/assets/images/stories-2017-06-07.jpg\"></amp-img>nn</p>\n<p>On a previous post titled Why We Write Stories I took a light-hearted approach to the value we get from writing stories, in this post I want to write about why we write stories, the components of a story, when we don’t write stories, and how we use stories in our Scrum implementation at Leapfrog.</p>\n<p>nn</p>\n<h2 id=\"components-of-a-story\">Components of a Story</h2>\n<p>nn</p>\n<h3 id=\"why-we-write-stories\">Why We Write Stories</h3>\n<p>nn</p>\n<p>Let’s start with “why” we write stories.</p>\n<p>nn</p>\n<p>Stories are a ‘simple’ format to articulate and communicate requests for work; they can also be a placeholder for people to have conversations about work.</p>\n<p>nn</p>\n<p>Stories also provide a common language for folks to align and have an agreed definition of done. They mitigate sticky situations of “that is not what I asked for” or “I forgot to add this to the request.”</p>\n<p>nn</p>\n<blockquote><p>n  </p>\n<p>Acting Agile does not mean evergreen or daily changing requirements, it means building and delivering software incrementally, reflecting, and learning.</p>\n<p>n</p></blockquote>\n<p>nn</p>\n<p>Stories help the team gain a shared understanding of the work and reach a shared definition of “done.” Stories are foundational in estimating and when the team plans work.</p>\n<p>nn</p>\n<h3 id=\"story-titles\">Story Titles</h3>\n<p>nn</p>\n<p>The title should describe an activity. Let the story name be the starting point for determining what “done” looks like. Ideally, the story title should describe actual behavior by a person in the system.</p>\n<p>nn</p>\n<h3 id=\"story\">Story</h3>\n<p>nn</p>\n<p><code class=\"highlighter-rouge\">As a &lt;person/role&gt;, I want &lt;goal&gt;, so that &lt;reason&gt;.</code></p>\n<p>nn</p>\n<p>Stories provide us with the person or the role that is making a request, the feature or requirement the business wants, and the problem solved. Stories should encapsulate what the business wants and why it is of value.</p>\n<p>nn</p>\n<h3 id=\"acceptance-criteria\">Acceptance Criteria</h3>\n<p>nn</p>\n<p>A story is not “done” unless the Acceptance Criteria is met, or the team and Product Owner have agreed that the criteria have changed since the commitment to the story.</p>\n<p>nn</p>\n<h4 id=\"acceptance-criteria-characteristics\">Acceptance Criteria Characteristics</h4>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li>Set of statements, each with a clear pass/fail result</li>\n<p>n  </p>\n<li>There is no partial acceptance: either a criterion is met, or it is not</li>\n<p>n  </p>\n<li>They must be actionable</li>\n<p>n  </p>\n<li>Criteria should be independent of the implementation</li>\n<p>n  </p>\n<li>Helps the team deliver</li>\n<p>n  </p>\n<li>Helps the team build or implement QA tests</li>\n<p>n  </p>\n<li>Helps the Product Owner perform User Acceptance Testing</li>\n<p>n  </p>\n<li>They are not the technical details or steps for completing a story</li>\n<p>n  </p>\n<li>They are not the equivalent of how the story will progress through User Acceptance Testing</li>\n<p>n&lt;/ul&gt;\n<p>nn</p>\n<h3 id=\"implementation-details\">Implementation Details</h3>\n<p>nn</p>\n<p>Some of our teams prefer implementation details for additional details or guidance on delivering the work, but these are always defined and written by the development team. Sometimes they are non-obvious system complications, a sequence of events needed to complete the story or comments from the discussion of the story that the development team needs for reference during development.</p>\n<p>nn</p>\n<h2 id=\"when-we-do-not-write-stories\">When We Do Not Write Stories</h2>\n<p>nn</p>\n<p>When the work is either too small or does not fit into the story format, in those cases, we write Chores/Tasks.</p>\n<p>nn</p>\n<p><code class=\"highlighter-rouge\">“As a &lt;&gt;, I want &lt;&gt;, so that &lt;&gt;.</code></p>\n<p>nn</p>\n<p>We write chores/tasks because it is work that needs prioritization and visibility and to add to an iteration. It may be a stepping stone to get a story to “done,” or it could be a cleanup task that needs attention.</p>\n<p>nn</p>\n<h3 id=\"chorestasks-characteristics\">Chores/Tasks Characteristics</h3>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li>Chores/Tasks can include acceptance criteria for clarity</li>\n<p>n  </p>\n<li>Receive zero story point value</li>\n<p>n  </p>\n<li>Typically used for documentation or straight forward work</li>\n<p>n&lt;/ul&gt;\n<p>nn</p>\n<h2 id=\"how-we-use-stories-in-the-technology-team\">How We Use Stories in the Technology Team</h2>\n<p>nn</p>\n<p>We use stories to break down work into demonstrable pieces of work that we can then estimate and plan for our teams to deliver valuable software to the business.</p>\n<p>n</p>\n</p></ul></p></ul>\n",
+			"date_published": "2017-06-07T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/06/07/what-is-a.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/05/27/when-i-watch.html",
+	      	
+			"title": "When I Watch Youtube Videos With The Kids",
+			
+			"content_html": "<p><amp-img width=\"1600\" height=\"1200\" layout=\"responsive\" src=\"/assets/images/chicago-Oct-2010-6.jpg\"></amp-img>nn</p>\n<p>I watch these and I thought you might like them:</p>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li><a href=\"https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q\">Great Big Story</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw\">I Like To Make Stuff</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA\">Life Where I’m From</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q\">Tasty</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A\">Nat and Friends</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A\">Numberphile</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ\">Wendover Productions</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UC-3SbfTPJsL8fJAPKiVqBLg\">Deep Look</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ\">Practical Engineering</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA\">Primitive Technology</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCvGMGQC8gNkd4gwxSbABIlw\">Quirkology</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UC9XMqG5uOWHXjUUH6sXeGCA\">ScienceC</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA\">SpaceX</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA\">Tested</a></li>\n<p>n  </p>\n<li><a href=\"https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw\">WIRED</a></li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul>\n",
+			"date_published": "2017-05-27T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/05/27/when-i-watch.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/05/19/what-does-the.html",
+	      	
+			"title": "What Does The Scrum Master Role Do in a Team?",
+			
+			"content_html": "<p><amp-img width=\"4224\" height=\"2376\" layout=\"responsive\" src=\"/assets/images/2017-05-19-scrum-master-in-a-team.jpg\"></amp-img>nn</p>\n<p>What do folks in the Scrum Master role do in Leapfrog Technology Teams?</p>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li>We ensure and facilitate the Scrum. When I say to ensure, we ensure that Stands, Story Writing &amp; Estimation, Retrospective, and Planning sessions happen and are effective and efficient. We have recent evidence that when teams operate with parts of the Scrum framework, they deliver software.</li>\n<p>n  </p>\n<li>Champion and protect the team. We know that when teams have good working conditions and focus they are happier.</li>\n<p>n  </p>\n<li>Surface situations in the team to team leads or leadership. Sometimes I ask is that a thing? Sometimes it is a thing, and sometimes it is not a thing.</li>\n<p>n  </p>\n<li>We care about delivery during the sprint. We ideally find and share with the team opportunities to work efficiently.</li>\n<p>n&lt;/ul&gt;\n<p>nn</p>\n<p>There’s a lot more depending on your experience and level of the role, but the above is a beginning expectation.</p>\n<p>n</p>\n</p></ul>\n",
+			"date_published": "2017-05-19T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/05/19/what-does-the.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/05/13/the-way-i.html",
+	      	
+			"title": "The Way I talk about Scrum",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"/assets/images/2017-05-13-words.jpg\"></amp-img>nn</p>\n<p>The last few years in the Scrum Master role my perspective about Scrum related words has changed. Here are a few words that I’m trying to change in my vocabulary when I’m teaching others about Agile philosophies and the Scrum framework.</p>\n<p>nn</p>\n<h2 id=\"iteration\">Iteration</h2>\n<p>n</p>\n<p>Instead of Sprint I prefer <em>iteration</em>. Sounds and reads more sustainable. Teams iterate on work every two weeks.</p>\n<p>nn</p>\n<h2 id=\"forecasting\">Forecasting</h2>\n<p>n</p>\n<p>Instead of Planning I prefer <em>forecasting</em>. Sounds realistic. The team forecast work they believe they can deliver over the next two weeks. Things change, a forecast changes.</p>\n<p>nn</p>\n<h2 id=\"meetings\">Meetings</h2>\n<p>n</p>\n<p>Instead of rituals, e.g. Scrum rituals I prefer <em>Team Meetings</em>. Ritual sounds too religious, cultish.</p>\n<p>nn</p>\n<h2 id=\"sustainable\">Sustainable</h2>\n<p>n</p>\n<p>When a team is in a bad situation I ask myself, is this sustainable.</p>\n<p>nn</p>\n<h2 id=\"backlog-refinement\">Backlog Refinement</h2>\n<p>n</p>\n<p>Instead Backlog Grooming I’ve been using <em>Backlog Refinement</em> and <em>Backlog Discovery</em>. Every week the team refines the backlog or they discover and ideate about features or problems that exist at the Epic level.</p>\n<p>n</p>\n",
+			"date_published": "2017-05-13T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/05/13/the-way-i.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/05/12/minding-the-team.html",
+	      	
+			"title": "Minding the Team Expectations for Folks in the Scrum Master Role",
+			
+			"content_html": "<p><amp-img width=\"3967\" height=\"2231\" layout=\"responsive\" src=\"/assets/images/2017-05-12-inwards.png\"></amp-img>nn</p>\n<p>For folks new to the Scrum Masters role, I am not expecting expert knowledge on Technology, Scrum, or Software Development.</p>\n<p>nn</p>\n<p>I am expecting:</p>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li>Follow through</li>\n<p>n  </p>\n<li>Work ethic</li>\n<p>n  </p>\n<li>Effort</li>\n<p>n  </p>\n<li>Attitude</li>\n<p>n  </p>\n<li>Passion</li>\n<p>n  </p>\n<li>Being coachable</li>\n<p>n  </p>\n<li>Doing extra</li>\n<p>n  </p>\n<li>Being prepared</li>\n<p>n  </p>\n<li>Curiosity</li>\n<p>n  </p>\n<li>Not to procrastinate and to ask when unclear</li>\n<p>n  </p>\n<li>Being authentic so we can make progress and talk about the areas that you need growth on</li>\n<p>n&lt;/ul&gt;\n<p>nn</p>\n<p>Across-the-board, the Technology Team I work for, exhibits these behaviors which in turn sets the expectation for how I operate and inspires me to be the best in the role. This cycle of expectations across roles is what keeps me engaged, challenged, and coming back to the job every day.</p>\n<p>nn</p>\n<p>I set these expectations because I care, I care for the person growing in the role and I care for the teams they support. If I don’t care mediocrity seeps in.</p>\n<p>n</p>\n</p></ul>\n",
+			"date_published": "2017-05-12T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/05/12/minding-the-team.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/05/10/why-we-write.html",
+	      	
+			"title": "Why We Write Stories",
+			
+			"content_html": "<p><amp-img width=\"3967\" height=\"2231\" layout=\"responsive\" src=\"/assets/images/2017-05-10-stories.png\"></amp-img>nn</p>\n<p>In the Leapfrog Technology Team, we use the Scrum framework method to deliver software. The Scrum framework has an artifact called “Stories” sometimes also referred to as “User Stories” too. Stories represent work, the “what” and the “why.”</p>\n<p>nn</p>\n<h2 id=\"we-write-stories\">We Write Stories</h2>\n<p>n</p>\n<ul>n  &lt;/p&gt;\n<li>To articulate and communicate requests for work</li>\n<p>n  </p>\n<li>To be transparent about what we are working on</li>\n<p>n  </p>\n<li>To ensure people asking the work and people doing the work are aligned</li>\n<p>n  </p>\n<li>As a placeholder for people to have conversations</li>\n<p>n  </p>\n<li>To mitigate building the wrong <em>thing</em></li>\n<p>n  </p>\n<li>To break work down into deliverable pieces and identify dependencies</li>\n<p>n  </p>\n<li>To have discipline around capturing the <em>what</em> and <em>why</em></li>\n<p>n  </p>\n<li>Self-discipline. Don’t take on too much. Deliver one thing at a time</li>\n<p>n  </p>\n<li>So the team is aligned with the work and help in case someone is sick</li>\n<p>n  </p>\n<li>Keep track and understand how much effort we are spending on initiatives</li>\n<p>n  </p>\n<li>Define what the team will deliver every two weeks</li>\n<p>n  </p>\n<li>To have useful Stands aligned on stories the team is working on</li>\n<p>n  </p>\n<li>To reflect on the work we produced in team Retrospectives</li>\n<p>n&lt;/ul&gt;\n<p>nn</p>\n<h2 id=\"we-do-not-write-stories\">We Do Not Write Stories</h2>\n<p>n</p>\n<ul>n  &lt;/p&gt;\n<li>For when having a conversation and agreement is faster and easier than writing a story</li>\n<p>n  </p>\n<li>For process sake</li>\n<p>n  </p>\n<li>Because Workfront is fun to use</li>\n<p>n  </p>\n<li>To compete with other teams</li>\n<p>n  </p>\n<li>To show managers we are busy</li>\n<p>n  </p>\n<li>To manage people</li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul></p></ul>\n",
+			"date_published": "2017-05-10T00:00:00-05:00",
+			"url": "http://germanflores.com/2017/05/10/why-we-write.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/03/03/cynefin-framework.html",
+	      	
+			"title": "CYNEFIN Framework",
+			
+			"content_html": "<p><amp-twitter width=\"390\" height=\"50\" layout=\"responsive\" data-tweetid=\"836121947541028864\"></amp-twitter></p>\n",
+			"date_published": "2017-03-03T00:00:00-06:00",
+			"url": "http://germanflores.com/2017/03/03/cynefin-framework.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/02/17/water.html",
+	      	
+			"title": "Water",
+			
+			"content_html": "<p><amp-img width=\"600\" height=\"300\" layout=\"responsive\" src=\"/assets/images/water-2017-02-17.jpg\"></amp-img>n</p>\n",
+			"date_published": "2017-02-17T00:00:00-06:00",
+			"url": "http://germanflores.com/2017/02/17/water.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2017/01/27/gender-neutral-restrooms.html",
+	      	
+			"title": "Gender Neutral Restrooms",
+			
+			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"/assets/images/2017-01-27-gender-neutral-restroom.jpg\"></amp-img></p>\n",
+			"date_published": "2017-01-27T00:00:00-06:00",
+			"url": "http://germanflores.com/2017/01/27/gender-neutral-restrooms.html"
 		}
 		
 	]
