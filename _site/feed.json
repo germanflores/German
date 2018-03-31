@@ -1,0 +1,25 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "German Flores",
+	"home_page_url": "http://germanflores.com/",
+	"feed_url": "http://germanflores.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/03/31/test.html",
+	      	
+			"content_html": "<p>Test</p>\n",
+			"date_published": "2018-03-31T10:30:00-05:00",
+			"url": "http://germanflores.com/2018/03/31/test.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/03/30/195507.html",
+	      	
+			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/7166885991.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-30T14:55:00-05:00",
+			"url": "http://germanflores.com/2018/03/30/195507.html"
+		}
+		
+	]
+}
