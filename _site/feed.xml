@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>German Flores</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/germanflores&quot;&gt;@germanflores on Micro.blog&lt;/a&gt;.</description>
+    <link>http://germanflores.com/</link>
+    <pubDate>Sat, 31 Mar 2018 10:49:38 -0500</pubDate>
+    <lastBuildDate>Sat, 31 Mar 2018 10:49:38 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Test&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Mar 2018 10:30:00 -0500</pubDate>
+        <link>http://germanflores.com/2018/03/31/test.html</link>
+        <guid isPermaLink="true">http://germanflores.micro.blog/2018/03/31/test.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;img src=&quot;http://germanflores.com/uploads/2018/7166885991.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Mar 2018 14:55:00 -0500</pubDate>
+        <link>http://germanflores.com/2018/03/30/195507.html</link>
+        <guid isPermaLink="true">http://germanflores.micro.blog/2018/03/30/195507.html</guid>
+      </item>
+    
+  </channel>
+</rss>
