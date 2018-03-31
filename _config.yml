@@ -1,33 +1,49 @@
-# Welcome to Amplified for Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-# Site settings
-title: german flores
-email:
-description: German Flores Scrum Master, Team Development at Leapfrog Online. Chicago Illinois
-logo: "/assets/images/logo.png"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://germanflores.com" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+# - markdown: kramdown
 
-name: 'german flores'
-bio: I help organizations implement effective practices to manage work and grow people. I support teams at Leapfrog Online Direct Marketing. My opinions only.
-author_image: "/assets/images/author.jpg"
-twitter_username: germanflores
-github_username:  germanflores
+# Sass
+sass:
+  style:            :compressed
 
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
-# Build settings
-markdown: kramdown
-
-kramdown:
-  parse_block_html: true
-
-plugins:
-  - jekyll-paginate
-
-excerpt_separator: ""
+title: "German Flores"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/germanflores\">@germanflores on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/germanflores\">@germanflores on Micro.blog</a>."
+baseurl: ""
+url: "http://germanflores.com"
+markdown: "kramdown"
+username: "germanflores"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "German Flores"
+name: "German Flores"
+gravatar_hash: "366c20b75000715ee9ea80edabff9614"
+avatar: "https://micro.blog/germanflores/avatar.jpg"
+full_name: "German Flores"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Indiana-Starke"
+site_id: "3687"
+gems: ["jekyll-paginate"]
