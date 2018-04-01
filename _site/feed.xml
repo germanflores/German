@@ -4,8 +4,8 @@
     <title>German Flores</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/germanflores&quot;&gt;@germanflores on Micro.blog&lt;/a&gt;.</description>
     <link>http://germanflores.com/</link>
-    <pubDate>Sun, 01 Apr 2018 08:28:48 -0500</pubDate>
-    <lastBuildDate>Sun, 01 Apr 2018 08:28:48 -0500</lastBuildDate>
+    <pubDate>Sun, 01 Apr 2018 08:43:33 -0500</pubDate>
+    <lastBuildDate>Sun, 01 Apr 2018 08:43:33 -0500</lastBuildDate>
     
       <item>
       	
@@ -102,88 +102,75 @@
       	
         <title>What Is a Story</title>
         
-        <description>&lt;p&gt;&lt;amp-img width=&quot;4032&quot; height=&quot;3024&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/stories-2017-06-07.jpg&quot;&gt;&lt;/amp-img&gt;nn&lt;/p&gt;
-&lt;p&gt;On a previous post titled Why We Write Stories I took a light-hearted approach to the value we get from writing stories, in this post I want to write about why we write stories, the components of a story, when we don’t write stories, and how we use stories in our Scrum implementation at Leapfrog.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+        <description>&lt;p&gt;On a previous post titled Why We Write Stories I took a light-hearted approach to the value we get from writing stories, in this post I want to write about why we write stories, the components of a story, when we don’t write stories, and how we use stories in our Scrum implementation at Leapfrog.&lt;/p&gt;
+
 &lt;h2 id=&quot;components-of-a-story&quot;&gt;Components of a Story&lt;/h2&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;h3 id=&quot;why-we-write-stories&quot;&gt;Why We Write Stories&lt;/h3&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;Let’s start with “why” we write stories.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;Stories are a ‘simple’ format to articulate and communicate requests for work; they can also be a placeholder for people to have conversations about work.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;Stories also provide a common language for folks to align and have an agreed definition of done. They mitigate sticky situations of “that is not what I asked for” or “I forgot to add this to the request.”&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;n  &lt;/p&gt;
-&lt;p&gt;Acting Agile does not mean evergreen or daily changing requirements, it means building and delivering software incrementally, reflecting, and learning.&lt;/p&gt;
-&lt;p&gt;n&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Acting Agile does not mean evergreen or daily changing requirements, it means building and delivering software incrementally, reflecting, and learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;Stories help the team gain a shared understanding of the work and reach a shared definition of “done.” Stories are foundational in estimating and when the team plans work.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;h3 id=&quot;story-titles&quot;&gt;Story Titles&lt;/h3&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;The title should describe an activity. Let the story name be the starting point for determining what “done” looks like. Ideally, the story title should describe actual behavior by a person in the system.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;h3 id=&quot;story&quot;&gt;Story&lt;/h3&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;As a &amp;lt;person/role&amp;gt;, I want &amp;lt;goal&amp;gt;, so that &amp;lt;reason&amp;gt;.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;p&gt;Stories provide us with the person or the role that is making a request, the feature or requirement the business wants, and the problem solved. Stories should encapsulate what the business wants and why it is of value.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
+&lt;p&gt;Stories provide us with the person or the role that is making a request, the feature or requirement the business wants, and the problem solved. Stories should encapsulate what the business wants and why it is of value.&lt;/p&gt;
+
 &lt;h3 id=&quot;acceptance-criteria&quot;&gt;Acceptance Criteria&lt;/h3&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;p&gt;A story is not “done” unless the Acceptance Criteria is met, or the team and Product Owner have agreed that the criteria have changed since the commitment to the story.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
+&lt;p&gt;A story is not “done” unless the Acceptance Criteria is met, or the team and Product Owner have agreed that the criteria have changed since the commitment to the story.&lt;/p&gt;
+
 &lt;h4 id=&quot;acceptance-criteria-characteristics&quot;&gt;Acceptance Criteria Characteristics&lt;/h4&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;ul&gt;n  &amp;lt;/p&amp;gt;
-&lt;li&gt;Set of statements, each with a clear pass/fail result&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;There is no partial acceptance: either a criterion is met, or it is not&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;They must be actionable&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Criteria should be independent of the implementation&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Helps the team deliver&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Helps the team build or implement QA tests&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Helps the Product Owner perform User Acceptance Testing&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;They are not the technical details or steps for completing a story&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;They are not the equivalent of how the story will progress through User Acceptance Testing&lt;/li&gt;
-&lt;p&gt;n&amp;lt;/ul&amp;gt;
-&lt;p&gt;nn&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set of statements, each with a clear pass/fail result&lt;/li&gt;
+  &lt;li&gt;There is no partial acceptance: either a criterion is met, or it is not&lt;/li&gt;
+  &lt;li&gt;They must be actionable&lt;/li&gt;
+  &lt;li&gt;Criteria should be independent of the implementation&lt;/li&gt;
+  &lt;li&gt;Helps the team deliver&lt;/li&gt;
+  &lt;li&gt;Helps the team build or implement QA tests&lt;/li&gt;
+  &lt;li&gt;Helps the Product Owner perform User Acceptance Testing&lt;/li&gt;
+  &lt;li&gt;They are not the technical details or steps for completing a story&lt;/li&gt;
+  &lt;li&gt;They are not the equivalent of how the story will progress through User Acceptance Testing&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;implementation-details&quot;&gt;Implementation Details&lt;/h3&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;p&gt;Some of our teams prefer implementation details for additional details or guidance on delivering the work, but these are always defined and written by the development team. Sometimes they are non-obvious system complications, a sequence of events needed to complete the story or comments from the discussion of the story that the development team needs for reference during development.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
+&lt;p&gt;Some of our teams prefer implementation details for additional details or guidance on delivering the work, but these are always defined and written by the development team. Sometimes they are non-obvious system complications, a sequence of events needed to complete the story or comments from the discussion of the story that the development team needs for reference during development.&lt;/p&gt;
+
 &lt;h2 id=&quot;when-we-do-not-write-stories&quot;&gt;When We Do Not Write Stories&lt;/h2&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;When the work is either too small or does not fit into the story format, in those cases, we write Chores/Tasks.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;“As a &amp;lt;&amp;gt;, I want &amp;lt;&amp;gt;, so that &amp;lt;&amp;gt;.&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;We write chores/tasks because it is work that needs prioritization and visibility and to add to an iteration. It may be a stepping stone to get a story to “done,” or it could be a cleanup task that needs attention.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;h3 id=&quot;chorestasks-characteristics&quot;&gt;Chores/Tasks Characteristics&lt;/h3&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;ul&gt;n  &amp;lt;/p&amp;gt;
-&lt;li&gt;Chores/Tasks can include acceptance criteria for clarity&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Receive zero story point value&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Typically used for documentation or straight forward work&lt;/li&gt;
-&lt;p&gt;n&amp;lt;/ul&amp;gt;
-&lt;p&gt;nn&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chores/Tasks can include acceptance criteria for clarity&lt;/li&gt;
+  &lt;li&gt;Receive zero story point value&lt;/li&gt;
+  &lt;li&gt;Typically used for documentation or straight forward work&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;how-we-use-stories-in-the-technology-team&quot;&gt;How We Use Stories in the Technology Team&lt;/h2&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;We use stories to break down work into demonstrable pieces of work that we can then estimate and plan for our teams to deliver valuable software to the business.&lt;/p&gt;
-&lt;p&gt;n&lt;/p&gt;
-&lt;/p&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/ul&gt;
 </description>
         <pubDate>Wed, 07 Jun 2017 00:00:00 -0500</pubDate>
         <link>http://germanflores.com/2017/06/07/what-is-a.html</link>
@@ -194,42 +181,25 @@
       	
         <title>When I Watch Youtube Videos With The Kids</title>
         
-        <description>&lt;p&gt;&lt;amp-img width=&quot;1600&quot; height=&quot;1200&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/chicago-Oct-2010-6.jpg&quot;&gt;&lt;/amp-img&gt;nn&lt;/p&gt;
-&lt;p&gt;I watch these and I thought you might like them:&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;ul&gt;n  &amp;lt;/p&amp;gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q&quot;&gt;Great Big Story&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw&quot;&gt;I Like To Make Stuff&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA&quot;&gt;Life Where I’m From&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q&quot;&gt;Tasty&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A&quot;&gt;Nat and Friends&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A&quot;&gt;Numberphile&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ&quot;&gt;Wendover Productions&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC-3SbfTPJsL8fJAPKiVqBLg&quot;&gt;Deep Look&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ&quot;&gt;Practical Engineering&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA&quot;&gt;Primitive Technology&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCvGMGQC8gNkd4gwxSbABIlw&quot;&gt;Quirkology&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC9XMqG5uOWHXjUUH6sXeGCA&quot;&gt;ScienceC&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA&quot;&gt;SpaceX&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA&quot;&gt;Tested&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw&quot;&gt;WIRED&lt;/a&gt;&lt;/li&gt;
-&lt;p&gt;n&amp;lt;/ul&amp;gt;
-&lt;p&gt;n&lt;/p&gt;
-&lt;/p&gt;&lt;/ul&gt;
+        <description>&lt;p&gt;I watch these and I thought you might like them:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q&quot;&gt;Great Big Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw&quot;&gt;I Like To Make Stuff&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA&quot;&gt;Life Where I’m From&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q&quot;&gt;Tasty&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A&quot;&gt;Nat and Friends&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A&quot;&gt;Numberphile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ&quot;&gt;Wendover Productions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC-3SbfTPJsL8fJAPKiVqBLg&quot;&gt;Deep Look&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ&quot;&gt;Practical Engineering&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA&quot;&gt;Primitive Technology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCvGMGQC8gNkd4gwxSbABIlw&quot;&gt;Quirkology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC9XMqG5uOWHXjUUH6sXeGCA&quot;&gt;ScienceC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA&quot;&gt;SpaceX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA&quot;&gt;Tested&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw&quot;&gt;WIRED&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sat, 27 May 2017 00:00:00 -0500</pubDate>
         <link>http://germanflores.com/2017/05/27/when-i-watch.html</link>
@@ -240,22 +210,16 @@
       	
         <title>What Does The Scrum Master Role Do in a Team?</title>
         
-        <description>&lt;p&gt;&lt;amp-img width=&quot;4224&quot; height=&quot;2376&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/2017-05-19-scrum-master-in-a-team.jpg&quot;&gt;&lt;/amp-img&gt;nn&lt;/p&gt;
-&lt;p&gt;What do folks in the Scrum Master role do in Leapfrog Technology Teams?&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;ul&gt;n  &amp;lt;/p&amp;gt;
-&lt;li&gt;We ensure and facilitate the Scrum. When I say to ensure, we ensure that Stands, Story Writing &amp;amp; Estimation, Retrospective, and Planning sessions happen and are effective and efficient. We have recent evidence that when teams operate with parts of the Scrum framework, they deliver software.&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Champion and protect the team. We know that when teams have good working conditions and focus they are happier.&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Surface situations in the team to team leads or leadership. Sometimes I ask is that a thing? Sometimes it is a thing, and sometimes it is not a thing.&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;We care about delivery during the sprint. We ideally find and share with the team opportunities to work efficiently.&lt;/li&gt;
-&lt;p&gt;n&amp;lt;/ul&amp;gt;
-&lt;p&gt;nn&lt;/p&gt;
+        <description>&lt;p&gt;What do folks in the Scrum Master role do in Leapfrog Technology Teams?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We ensure and facilitate the Scrum. When I say to ensure, we ensure that Stands, Story Writing &amp;amp; Estimation, Retrospective, and Planning sessions happen and are effective and efficient. We have recent evidence that when teams operate with parts of the Scrum framework, they deliver software.&lt;/li&gt;
+  &lt;li&gt;Champion and protect the team. We know that when teams have good working conditions and focus they are happier.&lt;/li&gt;
+  &lt;li&gt;Surface situations in the team to team leads or leadership. Sometimes I ask is that a thing? Sometimes it is a thing, and sometimes it is not a thing.&lt;/li&gt;
+  &lt;li&gt;We care about delivery during the sprint. We ideally find and share with the team opportunities to work efficiently.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;There’s a lot more depending on your experience and level of the role, but the above is a beginning expectation.&lt;/p&gt;
-&lt;p&gt;n&lt;/p&gt;
-&lt;/p&gt;&lt;/ul&gt;
 </description>
         <pubDate>Fri, 19 May 2017 00:00:00 -0500</pubDate>
         <link>http://germanflores.com/2017/05/19/what-does-the.html</link>
@@ -266,29 +230,22 @@
       	
         <title>The Way I talk about Scrum</title>
         
-        <description>&lt;p&gt;&lt;amp-img width=&quot;4032&quot; height=&quot;3024&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/2017-05-13-words.jpg&quot;&gt;&lt;/amp-img&gt;nn&lt;/p&gt;
-&lt;p&gt;The last few years in the Scrum Master role my perspective about Scrum related words has changed. Here are a few words that I’m trying to change in my vocabulary when I’m teaching others about Agile philosophies and the Scrum framework.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+        <description>&lt;p&gt;The last few years in the Scrum Master role my perspective about Scrum related words has changed. Here are a few words that I’m trying to change in my vocabulary when I’m teaching others about Agile philosophies and the Scrum framework.&lt;/p&gt;
+
 &lt;h2 id=&quot;iteration&quot;&gt;Iteration&lt;/h2&gt;
-&lt;p&gt;n&lt;/p&gt;
 &lt;p&gt;Instead of Sprint I prefer &lt;em&gt;iteration&lt;/em&gt;. Sounds and reads more sustainable. Teams iterate on work every two weeks.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;h2 id=&quot;forecasting&quot;&gt;Forecasting&lt;/h2&gt;
-&lt;p&gt;n&lt;/p&gt;
 &lt;p&gt;Instead of Planning I prefer &lt;em&gt;forecasting&lt;/em&gt;. Sounds realistic. The team forecast work they believe they can deliver over the next two weeks. Things change, a forecast changes.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;h2 id=&quot;meetings&quot;&gt;Meetings&lt;/h2&gt;
-&lt;p&gt;n&lt;/p&gt;
 &lt;p&gt;Instead of rituals, e.g. Scrum rituals I prefer &lt;em&gt;Team Meetings&lt;/em&gt;. Ritual sounds too religious, cultish.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;h2 id=&quot;sustainable&quot;&gt;Sustainable&lt;/h2&gt;
-&lt;p&gt;n&lt;/p&gt;
 &lt;p&gt;When a team is in a bad situation I ask myself, is this sustainable.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;h2 id=&quot;backlog-refinement&quot;&gt;Backlog Refinement&lt;/h2&gt;
-&lt;p&gt;n&lt;/p&gt;
 &lt;p&gt;Instead Backlog Grooming I’ve been using &lt;em&gt;Backlog Refinement&lt;/em&gt; and &lt;em&gt;Backlog Discovery&lt;/em&gt;. Every week the team refines the backlog or they discover and ideate about features or problems that exist at the Epic level.&lt;/p&gt;
-&lt;p&gt;n&lt;/p&gt;
 </description>
         <pubDate>Sat, 13 May 2017 00:00:00 -0500</pubDate>
         <link>http://germanflores.com/2017/05/13/the-way-i.html</link>
@@ -299,40 +256,27 @@
       	
         <title>Minding the Team Expectations for Folks in the Scrum Master Role</title>
         
-        <description>&lt;p&gt;&lt;amp-img width=&quot;3967&quot; height=&quot;2231&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/2017-05-12-inwards.png&quot;&gt;&lt;/amp-img&gt;nn&lt;/p&gt;
-&lt;p&gt;For folks new to the Scrum Masters role, I am not expecting expert knowledge on Technology, Scrum, or Software Development.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+        <description>&lt;p&gt;For folks new to the Scrum Masters role, I am not expecting expert knowledge on Technology, Scrum, or Software Development.&lt;/p&gt;
+
 &lt;p&gt;I am expecting:&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;ul&gt;n  &amp;lt;/p&amp;gt;
-&lt;li&gt;Follow through&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Work ethic&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Effort&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Attitude&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Passion&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Being coachable&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Doing extra&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Being prepared&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Curiosity&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Not to procrastinate and to ask when unclear&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Being authentic so we can make progress and talk about the areas that you need growth on&lt;/li&gt;
-&lt;p&gt;n&amp;lt;/ul&amp;gt;
-&lt;p&gt;nn&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Follow through&lt;/li&gt;
+  &lt;li&gt;Work ethic&lt;/li&gt;
+  &lt;li&gt;Effort&lt;/li&gt;
+  &lt;li&gt;Attitude&lt;/li&gt;
+  &lt;li&gt;Passion&lt;/li&gt;
+  &lt;li&gt;Being coachable&lt;/li&gt;
+  &lt;li&gt;Doing extra&lt;/li&gt;
+  &lt;li&gt;Being prepared&lt;/li&gt;
+  &lt;li&gt;Curiosity&lt;/li&gt;
+  &lt;li&gt;Not to procrastinate and to ask when unclear&lt;/li&gt;
+  &lt;li&gt;Being authentic so we can make progress and talk about the areas that you need growth on&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;Across-the-board, the Technology Team I work for, exhibits these behaviors which in turn sets the expectation for how I operate and inspires me to be the best in the role. This cycle of expectations across roles is what keeps me engaged, challenged, and coming back to the job every day.&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+
 &lt;p&gt;I set these expectations because I care, I care for the person growing in the role and I care for the teams they support. If I don’t care mediocrity seeps in.&lt;/p&gt;
-&lt;p&gt;n&lt;/p&gt;
-&lt;/p&gt;&lt;/ul&gt;
 </description>
         <pubDate>Fri, 12 May 2017 00:00:00 -0500</pubDate>
         <link>http://germanflores.com/2017/05/12/minding-the-team.html</link>
@@ -343,56 +287,35 @@
       	
         <title>Why We Write Stories</title>
         
-        <description>&lt;p&gt;&lt;amp-img width=&quot;3967&quot; height=&quot;2231&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/2017-05-10-stories.png&quot;&gt;&lt;/amp-img&gt;nn&lt;/p&gt;
-&lt;p&gt;In the Leapfrog Technology Team, we use the Scrum framework method to deliver software. The Scrum framework has an artifact called “Stories” sometimes also referred to as “User Stories” too. Stories represent work, the “what” and the “why.”&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
+        <description>&lt;p&gt;In the Leapfrog Technology Team, we use the Scrum framework method to deliver software. The Scrum framework has an artifact called “Stories” sometimes also referred to as “User Stories” too. Stories represent work, the “what” and the “why.”&lt;/p&gt;
+
 &lt;h2 id=&quot;we-write-stories&quot;&gt;We Write Stories&lt;/h2&gt;
-&lt;p&gt;n&lt;/p&gt;
-&lt;ul&gt;n  &amp;lt;/p&amp;gt;
-&lt;li&gt;To articulate and communicate requests for work&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To be transparent about what we are working on&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To ensure people asking the work and people doing the work are aligned&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;As a placeholder for people to have conversations&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To mitigate building the wrong &lt;em&gt;thing&lt;/em&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To break work down into deliverable pieces and identify dependencies&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To have discipline around capturing the &lt;em&gt;what&lt;/em&gt; and &lt;em&gt;why&lt;/em&gt;&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Self-discipline. Don’t take on too much. Deliver one thing at a time&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;So the team is aligned with the work and help in case someone is sick&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Keep track and understand how much effort we are spending on initiatives&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Define what the team will deliver every two weeks&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To have useful Stands aligned on stories the team is working on&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To reflect on the work we produced in team Retrospectives&lt;/li&gt;
-&lt;p&gt;n&amp;lt;/ul&amp;gt;
-&lt;p&gt;nn&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To articulate and communicate requests for work&lt;/li&gt;
+  &lt;li&gt;To be transparent about what we are working on&lt;/li&gt;
+  &lt;li&gt;To ensure people asking the work and people doing the work are aligned&lt;/li&gt;
+  &lt;li&gt;As a placeholder for people to have conversations&lt;/li&gt;
+  &lt;li&gt;To mitigate building the wrong &lt;em&gt;thing&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;To break work down into deliverable pieces and identify dependencies&lt;/li&gt;
+  &lt;li&gt;To have discipline around capturing the &lt;em&gt;what&lt;/em&gt; and &lt;em&gt;why&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Self-discipline. Don’t take on too much. Deliver one thing at a time&lt;/li&gt;
+  &lt;li&gt;So the team is aligned with the work and help in case someone is sick&lt;/li&gt;
+  &lt;li&gt;Keep track and understand how much effort we are spending on initiatives&lt;/li&gt;
+  &lt;li&gt;Define what the team will deliver every two weeks&lt;/li&gt;
+  &lt;li&gt;To have useful Stands aligned on stories the team is working on&lt;/li&gt;
+  &lt;li&gt;To reflect on the work we produced in team Retrospectives&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;we-do-not-write-stories&quot;&gt;We Do Not Write Stories&lt;/h2&gt;
-&lt;p&gt;n&lt;/p&gt;
-&lt;ul&gt;n  &amp;lt;/p&amp;gt;
-&lt;li&gt;For when having a conversation and agreement is faster and easier than writing a story&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;For process sake&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Because Workfront is fun to use&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To compete with other teams&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To show managers we are busy&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;To manage people&lt;/li&gt;
-&lt;p&gt;n&amp;lt;/ul&amp;gt;
-&lt;p&gt;n&lt;/p&gt;
-&lt;/p&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/ul&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For when having a conversation and agreement is faster and easier than writing a story&lt;/li&gt;
+  &lt;li&gt;For process sake&lt;/li&gt;
+  &lt;li&gt;Because Workfront is fun to use&lt;/li&gt;
+  &lt;li&gt;To compete with other teams&lt;/li&gt;
+  &lt;li&gt;To show managers we are busy&lt;/li&gt;
+  &lt;li&gt;To manage people&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 10 May 2017 00:00:00 -0500</pubDate>
         <link>http://germanflores.com/2017/05/10/why-we-write.html</link>
@@ -403,8 +326,7 @@
       	
         <title>Favorite tracks 2016</title>
         
-        <description>&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/brakeless/sets/best2016&quot;&gt;Soundcloud Favorite Tracks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;nn&lt;amp-img width=&quot;2732&quot; height=&quot;2048&quot; layout=&quot;responsive&quot; src=&quot;/assets/images/2016-12-24-favorite-tracks.jpg&quot;&gt;&lt;/amp-img&gt;n&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/brakeless/sets/best2016&quot;&gt;soundcloud.com/brakeless…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Dec 2016 00:00:00 -0600</pubDate>
         <link>http://germanflores.com/2016/12/24/favorite-tracks.html</link>
@@ -413,9 +335,9 @@
     
       <item>
       	
-        <title>Simon Sinek Understanding The Game We&amp;#039;re Playing - One of my favorite videos of the year</title>
+        <title>Simon Sinek Understanding The Game We're Playing - One of my favorite videos of the year</title>
         
-        <description>&lt;p&gt;&lt;amp-youtube data-videoid=&quot;sjxNTcsquG8&quot; layout=&quot;responsive&quot; width=&quot;480&quot; height=&quot;270&quot;&gt;&lt;/amp-youtube&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sjxNTcsquG8&quot;&gt;www.youtube.com/watch&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Dec 2016 00:00:00 -0600</pubDate>
         <link>http://germanflores.com/2016/12/16/simon-sinek-understanding.html</link>
@@ -426,32 +348,11 @@
       	
         <title>psychological safety</title>
         
-        <description>&lt;p&gt;&lt;amp-twitter width=&quot;390&quot; height=&quot;50&quot; layout=&quot;responsive&quot; data-tweetid=&quot;804298131529605120&quot;&gt;&lt;/amp-twitter&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/manisha72617183/status/804298131529605120&quot;&gt;twitter.com/manisha72…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Dec 2016 00:00:00 -0600</pubDate>
         <link>http://germanflores.com/2016/12/16/psychological-safety.html</link>
         <guid isPermaLink="true">http://germanflores.micro.blog/2016/12/16/psychological-safety.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>Hello World!</title>
-        
-        <description>&lt;p&gt;This is the new version of my personal space, it’s built using:&lt;/p&gt;
-&lt;p&gt;nn&lt;/p&gt;
-&lt;ul&gt;n  &amp;lt;/p&amp;gt;
-&lt;li&gt;Github pages for hosting&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Jekyll for CMS&lt;/li&gt;
-&lt;p&gt;n  &lt;/p&gt;
-&lt;li&gt;Jekyll amplyfy theme by Adam Geitgey&lt;/li&gt;
-&lt;p&gt;n&amp;lt;/ul&amp;gt;
-&lt;p&gt;n&lt;/p&gt;
-&lt;/p&gt;&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 13 Mar 2016 00:00:00 -0600</pubDate>
-        <link>http://germanflores.com/2016/03/13/hello-world.html</link>
-        <guid isPermaLink="true">http://germanflores.micro.blog/2016/03/13/hello-world.html</guid>
       </item>
     
   </channel>
