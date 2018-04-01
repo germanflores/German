@@ -14,43 +14,13 @@
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/03/30/waves.html",
-	      	
-			"title": "Waves",
-			
-			"content_html": "<p>2018-03-30-lake-michigan-waves.jpg</p>\n",
-			"date_published": "2018-03-30T00:00:00-05:00",
-			"url": "http://germanflores.com/2018/03/30/waves.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/02/14/winter.html",
-	      	
-			"title": "Winter",
-			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2018-02-14-lake-michigan-winter.jpg\"></amp-img>n</p>\n",
-			"date_published": "2018-02-14T00:00:00-06:00",
-			"url": "http://germanflores.com/2018/02/14/winter.html"
-		},
-		
-		{
 			"id": "http://germanflores.micro.blog/2017/12/08/car-amp-team.html",
 	      	
 			"title": "Car & Team Analogies",
 			
-			"content_html": "<blockquote>\n“Your engine light came on for a reason, and these things do not fix themselves. Often engine lights come on because something in the engine failed at least three times”, the mechanic replied. “Just because the light is off does not mean that the problem has fixed itself.” – Ken Doyle\n</blockquote>\n",
+			"content_html": "<blockquote>\n“Your engine light came on for a reason, and these things do not fix themselves. Often engine lights come on because something in the engine failed at least three times”, the mechanic replied. “Just because the light is off does not mean that the problem has fixed itself.”\n</blockquote>\n<p>– Ken Doyle</p>\n",
 			"date_published": "2017-12-08T00:00:00-06:00",
 			"url": "http://germanflores.com/2017/12/08/car-amp-team.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/12/04/060000.html",
-	      	
-			"title": "This Is the Time",
-			
-			"content_html": "<p><amp-img width=\"3868\" height=\"2899\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-12-04-lake-michigan.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-12-04T00:00:00-06:00",
-			"url": "http://germanflores.com/2017/12/04/060000.html"
 		},
 		
 		{
@@ -58,19 +28,9 @@
 	      	
 			"title": "This Is the Time",
 			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-11-19-lake-michigan.jpg\"></amp-img>nn</p>\n<p>I have a job, stable family life, health. This is the time to think ahead, put the effort in, work on the big thing.</p>\n<p>n</p>\n",
+			"content_html": "<p>I have a job, stable family life, health. This is the time to think ahead, put the effort in, work on the big thing.</p>\n",
 			"date_published": "2017-11-19T00:00:00-06:00",
 			"url": "http://germanflores.com/2017/11/19/this-is-the.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/11/13/lake-michigan.html",
-	      	
-			"title": "Lake Michigan",
-			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-11-13-lake-michigan.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-11-13T00:00:00-06:00",
-			"url": "http://germanflores.com/2017/11/13/lake-michigan.html"
 		},
 		
 		{
@@ -78,19 +38,9 @@
 	      	
 			"title": "Not Convinced I Should Attend",
 			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-11-02-chicago-river.jpg\"></amp-img>nn</p>\n<p>Today I received a meeting request that did not convince me that I should attend. This is how I responded before accepting the meeting:</p>\n<p>nn</p>\n<p>Could you help me understand why we need to meet? The title of the meeting does not help me</p>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li>What questions do you have?</li>\n<p>n  </p>\n<li>Why do we need to meet?</li>\n<p>n  </p>\n<li>What problem are we meeting to solve?</li>\n<p>n  </p>\n<li>How should I prepare for this conversation?</li>\n<p>n  </p>\n<li>What is the agenda?</li>\n<p>n  </p>\n<li>What decision are we meeting to make?</li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul>\n",
+			"content_html": "<p>Today I received a meeting request that did not convince me that I should attend. This is how I responded before accepting the meeting:</p>\n\n<p>Could you help me understand why we need to meet? The title of the meeting does not help me</p>\n\n<ul>\n  <li>What questions do you have?</li>\n  <li>Why do we need to meet?</li>\n  <li>What problem are we meeting to solve?</li>\n  <li>How should I prepare for this conversation?</li>\n  <li>What is the agenda?</li>\n  <li>What decision are we meeting to make?</li>\n</ul>\n",
 			"date_published": "2017-11-02T00:00:00-05:00",
 			"url": "http://germanflores.com/2017/11/02/not-convinced-i.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/10/30/morning-in-lake.html",
-	      	
-			"title": "Morning in Lake Michigan",
-			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-10-26-lake-michigan.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-10-30T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/10/30/morning-in-lake.html"
 		},
 		
 		{
@@ -98,59 +48,9 @@
 	      	
 			"title": "Small Software Development Teams",
 			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-10-19-team-doughnuts.jpg\"></amp-img>nn</p>\n<p>Besides a lower capacity there other downsides to small (e.g. three) engineering teams.</p>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li><strong>Coverage</strong>, e.g., Depending on the work they are doing and applications they support there is a risk of not having enough folks to provide support during a crisis while continuing iteration development, then add someone being out sick, and someone on vacation and velocity and morale tank. You can mitigate by staggering vacations but not much you can do about people being sick or bugs</li>\n<p>n  </p>\n<li><strong>People moving on</strong>. The proverbial getting hit by a bus situation where someone in the team leaves, and now you are down to only two people</li>\n<p>n  </p>\n<li><strong>Onboarding efficiencies</strong>. Supporting the onboarding of a new engineer is much easier and takes less time when you an optimal sized team</li>\n<p>n  </p>\n<li><strong>Engineering progression</strong>. It is likely that there will be more instances in a larger team for folks to develop their leadership skills than in a smaller team. The larger the team, the more capacity, i.e., more variation of work, which in turn exposes engineers to more types of problems to solve</li>\n<p>n  </p>\n<li><strong>Scale</strong>. If we are staffing our teams with the three roles: Development, Product Owner, and Scrum Master having a group of only three means that the Product Owner role and Scrum Master role will have additional time. Not a downside, just an adjustment for the smaller group</li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul>\n",
+			"content_html": "<p>Besides a lower capacity there other downsides to small (e.g. three) engineering teams.</p>\n\n<ul>\n  <li>Coverage, e.g., Depending on the work they are doing and applications they support there is a risk of not having enough folks to provide support during a crisis while continuing iteration development, then add someone being out sick, and someone on vacation and velocity and morale tank. You can mitigate by staggering vacations but not much you can do about people being sick or bugs</li>\n  <li>People moving on. The proverbial getting hit by a bus situation where someone in the team leaves, and now you are down to only two people</li>\n  <li>Onboarding efficiencies. Supporting the onboarding of a new engineer is much easier and takes less time when you an optimal sized team</li>\n  <li>Engineering progression. It is likely that there will be more instances in a larger team for folks to develop their leadership skills than in a smaller team. The larger the team, the more capacity, i.e., more variation of work, which in turn exposes engineers to more types of problems to solve</li>\n  <li>Scale. If we are staffing our teams with the three roles: Development, Product Owner, and Scrum Master having a group of only three means that the Product Owner role and Scrum Master role will have additional time. Not a downside, just an adjustment for the smaller group</li>\n</ul>\n",
 			"date_published": "2017-10-19T00:00:00-05:00",
 			"url": "http://germanflores.com/2017/10/19/small-software-development.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/10/14/050000.html",
-	      	
-			"title": "Lake Michigan",
-			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/lake-michigan-2017-10-14.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-10-14T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/10/14/050000.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/09/15/gotham.html",
-	      	
-			"title": "Gotham",
-			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-09-15-gotham.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-09-15T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/09/15/gotham.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/08/07/retrospective-starters.html",
-	      	
-			"title": "Retrospective Starters",
-			
-			"content_html": "<p><amp-img width=\"3758\" height=\"2818\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-08-07-retrospective-starters.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-08-07T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/08/07/retrospective-starters.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/06/23/do-not-follow.html",
-	      	
-			"title": "Do Not Follow",
-			
-			"content_html": "<p><amp-img width=\"3758\" height=\"2818\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/2017-06-23-do-not-follow.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-06-23T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/06/23/do-not-follow.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/06/11/trees.html",
-	      	
-			"title": "Trees",
-			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/trees-2017-06-11.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-06-11T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/06/11/trees.html"
 		},
 		
 		{
@@ -158,7 +58,7 @@
 	      	
 			"title": "Workplace Fiction",
 			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"http://localhost:4000/assets/images/workplace-fiction-2017-06-10.jpg\"></amp-img>nn</p>\n<blockquote><p>n  </p>\n<p>Fiction can help us here, this time in its form, not its content. It can help us to clarify our own thoughts, help us test our ideas before we build them, and help our teams stay focused on the things that matter.</p>\n<p>n</p></blockquote>\n<p>nn</p>\n<h2 id=\"resources\">Resources</h2>\n<p>n</p>\n<ul>n  &lt;/p&gt;\n<li><a href=\"https://medium.com/hackerpreneur-magazine/science-fiction-and-design-866178c1739e\">(Science) Fiction and Design</a></li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul>\n",
+			"content_html": "<blockquote>\n  <p>Fiction can help us here, this time in its form, not its content. It can help us to clarify our own thoughts, help us test our ideas before we build them, and help our teams stay focused on the things that matter.</p>\n</blockquote>\n\n<p>Resources\n<a href=\"https://medium.com/hackerpreneur-magazine/science-fiction-and-design-866178c1739e\">(Science) Fiction and Design</a></p>\n",
 			"date_published": "2017-06-10T00:00:00-05:00",
 			"url": "http://germanflores.com/2017/06/10/workplace-fiction.html"
 		},
@@ -224,33 +124,43 @@
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/03/03/cynefin-framework.html",
+			"id": "http://germanflores.micro.blog/2016/12/24/favorite-tracks.html",
 	      	
-			"title": "CYNEFIN Framework",
+			"title": "Favorite tracks 2016",
 			
-			"content_html": "<p><amp-twitter width=\"390\" height=\"50\" layout=\"responsive\" data-tweetid=\"836121947541028864\"></amp-twitter></p>\n",
-			"date_published": "2017-03-03T00:00:00-06:00",
-			"url": "http://germanflores.com/2017/03/03/cynefin-framework.html"
+			"content_html": "<p><a href=\"https://soundcloud.com/brakeless/sets/best2016\">Soundcloud Favorite Tracks</a></p>\n<p>nn<amp-img width=\"2732\" height=\"2048\" layout=\"responsive\" src=\"/assets/images/2016-12-24-favorite-tracks.jpg\"></amp-img>n</p>\n",
+			"date_published": "2016-12-24T00:00:00-06:00",
+			"url": "http://germanflores.com/2016/12/24/favorite-tracks.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/02/17/water.html",
+			"id": "http://germanflores.micro.blog/2016/12/16/simon-sinek-understanding.html",
 	      	
-			"title": "Water",
+			"title": "Simon Sinek Understanding The Game We&#039;re Playing - One of my favorite videos of the year",
 			
-			"content_html": "<p><amp-img width=\"600\" height=\"300\" layout=\"responsive\" src=\"/assets/images/water-2017-02-17.jpg\"></amp-img>n</p>\n",
-			"date_published": "2017-02-17T00:00:00-06:00",
-			"url": "http://germanflores.com/2017/02/17/water.html"
+			"content_html": "<p><amp-youtube data-videoid=\"sjxNTcsquG8\" layout=\"responsive\" width=\"480\" height=\"270\"></amp-youtube></p>\n",
+			"date_published": "2016-12-16T00:00:00-06:00",
+			"url": "http://germanflores.com/2016/12/16/simon-sinek-understanding.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/01/27/gender-neutral-restrooms.html",
+			"id": "http://germanflores.micro.blog/2016/12/16/psychological-safety.html",
 	      	
-			"title": "Gender Neutral Restrooms",
+			"title": "psychological safety",
 			
-			"content_html": "<p><amp-img width=\"4032\" height=\"3024\" layout=\"responsive\" src=\"/assets/images/2017-01-27-gender-neutral-restroom.jpg\"></amp-img></p>\n",
-			"date_published": "2017-01-27T00:00:00-06:00",
-			"url": "http://germanflores.com/2017/01/27/gender-neutral-restrooms.html"
+			"content_html": "<p><amp-twitter width=\"390\" height=\"50\" layout=\"responsive\" data-tweetid=\"804298131529605120\"></amp-twitter></p>\n",
+			"date_published": "2016-12-16T00:00:00-06:00",
+			"url": "http://germanflores.com/2016/12/16/psychological-safety.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2016/03/13/hello-world.html",
+	      	
+			"title": "Hello World!",
+			
+			"content_html": "<p>This is the new version of my personal space, it’s built using:</p>\n<p>nn</p>\n<ul>n  &lt;/p&gt;\n<li>Github pages for hosting</li>\n<p>n  </p>\n<li>Jekyll for CMS</li>\n<p>n  </p>\n<li>Jekyll amplyfy theme by Adam Geitgey</li>\n<p>n&lt;/ul&gt;\n<p>n</p>\n</p></ul>\n",
+			"date_published": "2016-03-13T00:00:00-06:00",
+			"url": "http://germanflores.com/2016/03/13/hello-world.html"
 		}
 		
 	]
