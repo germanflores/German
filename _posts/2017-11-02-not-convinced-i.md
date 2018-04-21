@@ -3,7 +3,7 @@ layout: post
 title: "Not Convinced I Should Attend"
 microblog: false
 audio: 
-date: 2017-11-02 00:00 -0500
+date: 2017-11-02 00:00:00 -0500
 guid: http://germanflores.micro.blog/2017/11/02/not-convinced-i.html
 ---
 Today I received a meeting request that did not convince me that I should attend. This is how I responded before accepting the meeting:
