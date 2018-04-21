@@ -3,7 +3,7 @@ layout: post
 title: "What Does The Scrum Master Role Do in a Team?"
 microblog: false
 audio: 
-date: 2017-05-19 00:00 -0500
+date: 2017-05-19 00:00:00 -0500
 guid: http://germanflores.micro.blog/2017/05/19/what-does-the.html
 ---
 What do folks in the Scrum Master role do in Leapfrog Technology Teams?
