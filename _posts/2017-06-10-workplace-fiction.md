@@ -3,7 +3,7 @@ layout: post
 title: "Workplace Fiction"
 microblog: false
 audio: 
-date: 2017-06-10 00:00 -0500
+date: 2017-06-10 00:00:00 -0500
 guid: http://germanflores.micro.blog/2017/06/10/workplace-fiction.html
 ---
 > Fiction can help us here, this time in its form, not its content. It can help us to clarify our own thoughts, help us test our ideas before we build them, and help our teams stay focused on the things that matter.
