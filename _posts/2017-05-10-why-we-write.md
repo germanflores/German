@@ -3,7 +3,7 @@ layout: post
 title: "Why We Write Stories"
 microblog: false
 audio: 
-date: 2017-05-10 00:00 -0500
+date: 2017-05-10 00:00:00 -0500
 guid: http://germanflores.micro.blog/2017/05/10/why-we-write.html
 ---
 In the Leapfrog Technology Team, we use the Scrum framework method to deliver software. The Scrum framework has an artifact called “Stories” sometimes also referred to as “User Stories” too. Stories represent work, the “what” and the “why.”
