@@ -31,6 +31,7 @@ baseurl: ""
 url: "http://germanflores.com"
 markdown: "kramdown"
 username: "germanflores"
+microblog_user: "germanflores"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "German Flores"
@@ -47,3 +48,5 @@ paginate_path: "/page/:num/"
 timezone: "US/Indiana-Starke"
 site_id: "3687"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
