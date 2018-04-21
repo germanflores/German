@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/04/21/my-conjecture-is.html",
+	      	
+			"content_html": "<blockquote>\n  <p>My conjecture is that this reality will soon shift. Simply put, knowledge work organizations that prioritize helping brains operate at peak effectiveness over other priorities will be more profitable.</p>\n</blockquote>\n",
+			"date_published": "2018-04-21T08:21:11-05:00",
+			"url": "http://germanflores.com/2018/04/21/my-conjecture-is.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/04/10/chicago-illinois.html",
 	      	
 			"content_html": "<p>Chicago Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/ada4aff62d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-09T19:45:00-05:00",
+			"date_published": "2018-04-09T19:45:46-05:00",
 			"url": "http://germanflores.com/2018/04/09/chicago-illinois.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://germanflores.micro.blog/2018/04/07/morning-ride-cool.html",
 	      	
 			"content_html": "<p>Morning ride, cool but sunny. 30 miles 17F</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/1113cddcc5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-07T11:28:00-05:00",
+			"date_published": "2018-04-07T11:28:45-05:00",
 			"url": "http://germanflores.com/2018/04/07/morning-ride-cool.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://germanflores.micro.blog/2018/04/02/for-any-meeting.html",
 	      	
 			"content_html": "<p>For any meeting <a href=\"http://sethgodin.typepad.com/seths_blog/2018/04/whos-meeting-is-this-a-simple-checklist.html\">sethgodin.typepad.com</a></p>\n\n<blockquote>\n  <p>Who’s meeting is this? A simple checklist</p>\n</blockquote>\n",
-			"date_published": "2018-04-02T06:25:00-05:00",
+			"date_published": "2018-04-02T06:25:20-05:00",
 			"url": "http://germanflores.com/2018/04/02/for-any-meeting.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://germanflores.micro.blog/2018/03/30/195507.html",
 	      	
 			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/7166885991.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-30T14:55:00-05:00",
+			"date_published": "2018-03-30T14:55:07-05:00",
 			"url": "http://germanflores.com/2018/03/30/195507.html"
 		},
 		
