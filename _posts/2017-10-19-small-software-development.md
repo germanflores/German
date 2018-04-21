@@ -3,7 +3,7 @@ layout: post
 title: "Small Software Development Teams"
 microblog: false
 audio: 
-date: 2017-10-19 00:00 -0500
+date: 2017-10-19 00:00:00 -0500
 guid: http://germanflores.micro.blog/2017/10/19/small-software-development.html
 ---
 Besides a lower capacity there other downsides to small (e.g. three) engineering teams.
