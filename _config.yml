@@ -50,3 +50,4 @@ site_id: "3687"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
+itunes_author: "German Flores"
