@@ -6,6 +6,46 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/06/22/chris-sims-chrissims.html",
+	      	
+			"content_html": "<p>Chris Sims @ChrisSims writes about the definition of done. A critical conversation the team should have every time someone joins\n<a href=\"http://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/\">www.agilelearninglabs.com/2018/02/h…</a></p>\n",
+			"date_published": "2018-06-22T15:38:57-05:00",
+			"url": "http://germanflores.com/2018/06/22/chris-sims-chrissims.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/06/22/203754.html",
+	      	
+			"content_html": "<p>Parul Singh @parulia writes about the mindset of prioritization, specifically strategic prioritization, “It’s ruthlessly focusing on ‘do less, not more.’” she defines ten principles to follow\n<a href=\"https://medium.com/swlh/the-art-of-the-lazy-product-manager-fc6e5385a00b\">medium.com/swlh/the-…</a></p>\n",
+			"date_published": "2018-06-22T15:37:54-05:00",
+			"url": "http://germanflores.com/2018/06/22/203754.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/06/22/parul-singh-parulia.html",
+	      	
+			"content_html": "<p>Parul Singh @parulia writes about the mindset of prioritization, specifically strategic prioritization, “It’s ruthlessly focusing on ‘do less, not more.’” she defines ten principles to follow\n<a href=\"https://medium.com/swlh/the-art-of-the-lazy-product-manager-fc6e5385a00b\">medium.com/swlh/the-…</a></p>\n",
+			"date_published": "2018-06-22T15:37:28-05:00",
+			"url": "http://germanflores.com/2018/06/22/parul-singh-parulia.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/06/22/jake-calabrese-jcalabrese.html",
+	      	
+			"content_html": "<p>Jake Calabrese @jcalabrese writes about teams “self-manages the work” vs. “self-organizes to deliver the work.” Also, the support they need\n<a href=\"https://agileforall.com/agile-leadership-myth-2-self-organizing-teams-dont-need-any-help/\">agileforall.com/agile-lea…</a></p>\n",
+			"date_published": "2018-06-22T15:20:34-05:00",
+			"url": "http://germanflores.com/2018/06/22/jake-calabrese-jcalabrese.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/06/22/john-allspaw-allspaw.html",
+	      	
+			"content_html": "<p>John Allspaw @allspaw writes about facilitating debriefs about incidents, gives examples of how a facilitator can leverage the incident as a learning opportunity for the team</p>\n\n<p><a href=\"https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/\">codeascraft.com/2016/11/1…</a></p>\n",
+			"date_published": "2018-06-22T14:50:39-05:00",
+			"url": "http://germanflores.com/2018/06/22/john-allspaw-allspaw.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/05/20/kenosha-port-washington.html",
 	      	
 			"content_html": "<p>Kenosha ➡️ Port Washington WI, 70 miles</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/1ef18c2266.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -185,36 +225,6 @@
 			"content_html": "<p>In the Leapfrog Technology Team, we use the Scrum framework method to deliver software. The Scrum framework has an artifact called “Stories” sometimes also referred to as “User Stories” too. Stories represent work, the “what” and the “why.”</p>\n\n<h2 id=\"we-write-stories\">We Write Stories</h2>\n<ul>\n  <li>To articulate and communicate requests for work</li>\n  <li>To be transparent about what we are working on</li>\n  <li>To ensure people asking the work and people doing the work are aligned</li>\n  <li>As a placeholder for people to have conversations</li>\n  <li>To mitigate building the wrong <em>thing</em></li>\n  <li>To break work down into deliverable pieces and identify dependencies</li>\n  <li>To have discipline around capturing the <em>what</em> and <em>why</em></li>\n  <li>Self-discipline. Don’t take on too much. Deliver one thing at a time</li>\n  <li>So the team is aligned with the work and help in case someone is sick</li>\n  <li>Keep track and understand how much effort we are spending on initiatives</li>\n  <li>Define what the team will deliver every two weeks</li>\n  <li>To have useful Stands aligned on stories the team is working on</li>\n  <li>To reflect on the work we produced in team Retrospectives</li>\n</ul>\n\n<h2 id=\"we-do-not-write-stories\">We Do Not Write Stories</h2>\n\n<ul>\n  <li>For when having a conversation and agreement is faster and easier than writing a story</li>\n  <li>For process sake</li>\n  <li>Because Workfront is fun to use</li>\n  <li>To compete with other teams</li>\n  <li>To show managers we are busy</li>\n  <li>To manage people</li>\n</ul>\n",
 			"date_published": "2017-05-10T00:00:00-05:00",
 			"url": "http://germanflores.com/2017/05/10/why-we-write.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2016/12/24/favorite-tracks.html",
-	      	
-			"title": "Favorite tracks 2016",
-			
-			"content_html": "<p><a href=\"https://soundcloud.com/brakeless/sets/best2016\">soundcloud.com/brakeless…</a></p>\n",
-			"date_published": "2016-12-24T00:00:00-06:00",
-			"url": "http://germanflores.com/2016/12/24/favorite-tracks.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2016/12/16/simon-sinek-understanding.html",
-	      	
-			"title": "Simon Sinek Understanding The Game We're Playing - One of my favorite videos of the year",
-			
-			"content_html": "<p><a href=\"https://www.youtube.com/watch?v=sjxNTcsquG8\">www.youtube.com/watch</a></p>\n",
-			"date_published": "2016-12-16T00:00:00-06:00",
-			"url": "http://germanflores.com/2016/12/16/simon-sinek-understanding.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2016/12/16/psychological-safety.html",
-	      	
-			"title": "psychological safety",
-			
-			"content_html": "<p><a href=\"https://twitter.com/manisha72617183/status/804298131529605120\">twitter.com/manisha72…</a></p>\n",
-			"date_published": "2016-12-16T00:00:00-06:00",
-			"url": "http://germanflores.com/2016/12/16/psychological-safety.html"
 		}
 		
 	]
