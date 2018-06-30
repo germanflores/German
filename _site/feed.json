@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/06/22/john-cutler-johnpcutler.html",
+	      	
+			"content_html": "<p>John Cutler @johnpcutler makes a case for shipping small, interesting ideas for teams struggling with shipping \n<a href=\"https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a\">hackernoon.com/work-smal…</a></p>\n",
+			"date_published": "2018-06-22T16:40:33-05:00",
+			"url": "http://germanflores.com/2018/06/22/john-cutler-johnpcutler.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/06/22/chris-sims-chrissims.html",
 	      	
 			"content_html": "<p>Chris Sims @ChrisSims writes about the definition of done. A critical conversation the team should have every time someone joins\n<a href=\"http://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/\">www.agilelearninglabs.com/2018/02/h…</a></p>\n",
@@ -215,16 +223,6 @@
 			"content_html": "<p>For folks new to the Scrum Masters role, I am not expecting expert knowledge on Technology, Scrum, or Software Development.</p>\n\n<p>I am expecting:</p>\n\n<ul>\n  <li>Follow through</li>\n  <li>Work ethic</li>\n  <li>Effort</li>\n  <li>Attitude</li>\n  <li>Passion</li>\n  <li>Being coachable</li>\n  <li>Doing extra</li>\n  <li>Being prepared</li>\n  <li>Curiosity</li>\n  <li>Not to procrastinate and to ask when unclear</li>\n  <li>Being authentic so we can make progress and talk about the areas that you need growth on</li>\n</ul>\n\n<p>Across-the-board, the Technology Team I work for, exhibits these behaviors which in turn sets the expectation for how I operate and inspires me to be the best in the role. This cycle of expectations across roles is what keeps me engaged, challenged, and coming back to the job every day.</p>\n\n<p>I set these expectations because I care, I care for the person growing in the role and I care for the teams they support. If I don’t care mediocrity seeps in.</p>\n",
 			"date_published": "2017-05-12T00:00:00-05:00",
 			"url": "http://germanflores.com/2017/05/12/minding-the-team.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/05/10/why-we-write.html",
-	      	
-			"title": "Why We Write Stories",
-			
-			"content_html": "<p>In the Leapfrog Technology Team, we use the Scrum framework method to deliver software. The Scrum framework has an artifact called “Stories” sometimes also referred to as “User Stories” too. Stories represent work, the “what” and the “why.”</p>\n\n<h2 id=\"we-write-stories\">We Write Stories</h2>\n<ul>\n  <li>To articulate and communicate requests for work</li>\n  <li>To be transparent about what we are working on</li>\n  <li>To ensure people asking the work and people doing the work are aligned</li>\n  <li>As a placeholder for people to have conversations</li>\n  <li>To mitigate building the wrong <em>thing</em></li>\n  <li>To break work down into deliverable pieces and identify dependencies</li>\n  <li>To have discipline around capturing the <em>what</em> and <em>why</em></li>\n  <li>Self-discipline. Don’t take on too much. Deliver one thing at a time</li>\n  <li>So the team is aligned with the work and help in case someone is sick</li>\n  <li>Keep track and understand how much effort we are spending on initiatives</li>\n  <li>Define what the team will deliver every two weeks</li>\n  <li>To have useful Stands aligned on stories the team is working on</li>\n  <li>To reflect on the work we produced in team Retrospectives</li>\n</ul>\n\n<h2 id=\"we-do-not-write-stories\">We Do Not Write Stories</h2>\n\n<ul>\n  <li>For when having a conversation and agreement is faster and easier than writing a story</li>\n  <li>For process sake</li>\n  <li>Because Workfront is fun to use</li>\n  <li>To compete with other teams</li>\n  <li>To show managers we are busy</li>\n  <li>To manage people</li>\n</ul>\n",
-			"date_published": "2017-05-10T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/10/why-we-write.html"
 		}
 		
 	]
