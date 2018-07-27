@@ -10,6 +10,7 @@
 
 	<link rel="shortcut icon" href="https://micro.blog/germanflores/favicon.png" type="image/x-icon" />
   <link rel="alternate" type="application/rss+xml" title="German Flores" href="http://germanflores.com/feed.xml" />
+  
   <link rel="alternate" type="application/json" title="German Flores" href="http://germanflores.com/feed.json" />
   <link rel="EditURI" type="application/rsd+xml" href="/rsd.xml" />
 
@@ -17,8 +18,8 @@
   
   
   
-  <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
-  <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+  <link rel="authorization_endpoint" href="https://micro.blog/indieauth/auth" />
+  <link rel="token_endpoint" href="https://micro.blog/indieauth/token" />
   <link rel="micropub" href="https://micro.blog/micropub" />
   <link rel="webmention" href="https://micro.blog/webmention" />
   <link rel="subscribe" href="https://micro.blog/users/follow" />
@@ -50,12 +51,28 @@
 			<a class="page-link" href="/about/">About</a>
 		
 	
+		
+			<a class="page-link" href="/archive/">Archive</a>
+		
+	
 
 	<a class="page-link" href="/feed.xml">RSS</a>
   </nav>
 </header>
 <div class="content list h-feed">
 
+
+  <div class="list-item h-entry">
+	
+    <div class="content post e-content">
+      <p>Anna Goss @annagoss writes about techniques to build high performing teams, the feedback techniques, and mindset are interesting and if the team is ready
+<a href="https://www.mindtheproduct.com/2018/02/techniques-help-build-high-performing-team/">www.mindtheproduct.com/2018/02/t…</a></p>
+
+    </div>
+    <div class="list-post-date">
+      <a href="/2018/07/27/anna-goss-annagoss.html" class="u-url"><time class="dt-published" datetime="2018-07-27 16:40:48 -0500">27 Jul 2018</time></a>
+    </div>
+  </div>
 
   <div class="list-item h-entry">
 	
@@ -333,26 +350,176 @@
     </div>
   </div>
 
+  <div class="list-item h-entry">
+	
+		<h1 class="home-title">What Is a Story</h1>
+	
+    <div class="content post e-content">
+      <p>On a previous post titled Why We Write Stories I took a light-hearted approach to the value we get from writing stories, in this post I want to write about why we write stories, the components of a story, when we don’t write stories, and how we use stories in our Scrum implementation at Leapfrog.</p>
+
+<h2 id="components-of-a-story">Components of a Story</h2>
+
+<h3 id="why-we-write-stories">Why We Write Stories</h3>
+
+<p>Let’s start with “why” we write stories.</p>
+
+<p>Stories are a ‘simple’ format to articulate and communicate requests for work; they can also be a placeholder for people to have conversations about work.</p>
+
+<p>Stories also provide a common language for folks to align and have an agreed definition of done. They mitigate sticky situations of “that is not what I asked for” or “I forgot to add this to the request.”</p>
+
+<blockquote>
+  <p>Acting Agile does not mean evergreen or daily changing requirements, it means building and delivering software incrementally, reflecting, and learning.</p>
+</blockquote>
+
+<p>Stories help the team gain a shared understanding of the work and reach a shared definition of “done.” Stories are foundational in estimating and when the team plans work.</p>
+
+<h3 id="story-titles">Story Titles</h3>
+
+<p>The title should describe an activity. Let the story name be the starting point for determining what “done” looks like. Ideally, the story title should describe actual behavior by a person in the system.</p>
+
+<h3 id="story">Story</h3>
+
+<p><code class="highlighter-rouge">As a &lt;person/role&gt;, I want &lt;goal&gt;, so that &lt;reason&gt;.</code></p>
+
+<p>Stories provide us with the person or the role that is making a request, the feature or requirement the business wants, and the problem solved. Stories should encapsulate what the business wants and why it is of value.</p>
+
+<h3 id="acceptance-criteria">Acceptance Criteria</h3>
+
+<p>A story is not “done” unless the Acceptance Criteria is met, or the team and Product Owner have agreed that the criteria have changed since the commitment to the story.</p>
+
+<h4 id="acceptance-criteria-characteristics">Acceptance Criteria Characteristics</h4>
+
+<ul>
+  <li>Set of statements, each with a clear pass/fail result</li>
+  <li>There is no partial acceptance: either a criterion is met, or it is not</li>
+  <li>They must be actionable</li>
+  <li>Criteria should be independent of the implementation</li>
+  <li>Helps the team deliver</li>
+  <li>Helps the team build or implement QA tests</li>
+  <li>Helps the Product Owner perform User Acceptance Testing</li>
+  <li>They are not the technical details or steps for completing a story</li>
+  <li>They are not the equivalent of how the story will progress through User Acceptance Testing</li>
+</ul>
+
+<h3 id="implementation-details">Implementation Details</h3>
+
+<p>Some of our teams prefer implementation details for additional details or guidance on delivering the work, but these are always defined and written by the development team. Sometimes they are non-obvious system complications, a sequence of events needed to complete the story or comments from the discussion of the story that the development team needs for reference during development.</p>
+
+<h2 id="when-we-do-not-write-stories">When We Do Not Write Stories</h2>
+
+<p>When the work is either too small or does not fit into the story format, in those cases, we write Chores/Tasks.</p>
+
+<p><code class="highlighter-rouge">“As a &lt;&gt;, I want &lt;&gt;, so that &lt;&gt;.</code></p>
+
+<p>We write chores/tasks because it is work that needs prioritization and visibility and to add to an iteration. It may be a stepping stone to get a story to “done,” or it could be a cleanup task that needs attention.</p>
+
+<h3 id="chorestasks-characteristics">Chores/Tasks Characteristics</h3>
+
+<ul>
+  <li>Chores/Tasks can include acceptance criteria for clarity</li>
+  <li>Receive zero story point value</li>
+  <li>Typically used for documentation or straight forward work</li>
+</ul>
+
+<h2 id="how-we-use-stories-in-the-technology-team">How We Use Stories in the Technology Team</h2>
+
+<p>We use stories to break down work into demonstrable pieces of work that we can then estimate and plan for our teams to deliver valuable software to the business.</p>
+
+    </div>
+    <div class="list-post-date">
+      <a href="/2017/06/07/what-is-a.html" class="u-url"><time class="dt-published" datetime="2017-06-07 00:00:00 -0500">07 Jun 2017</time></a>
+    </div>
+  </div>
+
+  <div class="list-item h-entry">
+	
+		<h1 class="home-title">When I Watch Youtube Videos With The Kids</h1>
+	
+    <div class="content post e-content">
+      <p>I watch these and I thought you might like them:</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q">Great Big Story</a></li>
+  <li><a href="https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw">I Like To Make Stuff</a></li>
+  <li><a href="https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA">Life Where I’m From</a></li>
+  <li><a href="https://www.youtube.com/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q">Tasty</a></li>
+  <li><a href="https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A">Nat and Friends</a></li>
+  <li><a href="https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A">Numberphile</a></li>
+  <li><a href="https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ">Wendover Productions</a></li>
+  <li><a href="https://www.youtube.com/channel/UC-3SbfTPJsL8fJAPKiVqBLg">Deep Look</a></li>
+  <li><a href="https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ">Practical Engineering</a></li>
+  <li><a href="https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA">Primitive Technology</a></li>
+  <li><a href="https://www.youtube.com/channel/UCvGMGQC8gNkd4gwxSbABIlw">Quirkology</a></li>
+  <li><a href="https://www.youtube.com/channel/UC9XMqG5uOWHXjUUH6sXeGCA">ScienceC</a></li>
+  <li><a href="https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA">SpaceX</a></li>
+  <li><a href="https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA">Tested</a></li>
+  <li><a href="https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw">WIRED</a></li>
+</ul>
+
+    </div>
+    <div class="list-post-date">
+      <a href="/2017/05/27/when-i-watch.html" class="u-url"><time class="dt-published" datetime="2017-05-27 00:00:00 -0500">27 May 2017</time></a>
+    </div>
+  </div>
+
+  <div class="list-item h-entry">
+	
+		<h1 class="home-title">What Does The Scrum Master Role Do in a Team?</h1>
+	
+    <div class="content post e-content">
+      <p>What do folks in the Scrum Master role do in Leapfrog Technology Teams?</p>
+
+<ul>
+  <li>We ensure and facilitate the Scrum. When I say to ensure, we ensure that Stands, Story Writing &amp; Estimation, Retrospective, and Planning sessions happen and are effective and efficient. We have recent evidence that when teams operate with parts of the Scrum framework, they deliver software.</li>
+  <li>Champion and protect the team. We know that when teams have good working conditions and focus they are happier.</li>
+  <li>Surface situations in the team to team leads or leadership. Sometimes I ask is that a thing? Sometimes it is a thing, and sometimes it is not a thing.</li>
+  <li>We care about delivery during the sprint. We ideally find and share with the team opportunities to work efficiently.</li>
+</ul>
+
+<p>There’s a lot more depending on your experience and level of the role, but the above is a beginning expectation.</p>
+
+    </div>
+    <div class="list-post-date">
+      <a href="/2017/05/19/what-does-the.html" class="u-url"><time class="dt-published" datetime="2017-05-19 00:00:00 -0500">19 May 2017</time></a>
+    </div>
+  </div>
+
+  <div class="list-item h-entry">
+	
+		<h1 class="home-title">The Way I talk about Scrum</h1>
+	
+    <div class="content post e-content">
+      <p>The last few years in the Scrum Master role my perspective about Scrum related words has changed. Here are a few words that I’m trying to change in my vocabulary when I’m teaching others about Agile philosophies and the Scrum framework.</p>
+
+<h2 id="iteration">Iteration</h2>
+<p>Instead of Sprint I prefer <em>iteration</em>. Sounds and reads more sustainable. Teams iterate on work every two weeks.</p>
+
+<h2 id="forecasting">Forecasting</h2>
+<p>Instead of Planning I prefer <em>forecasting</em>. Sounds realistic. The team forecast work they believe they can deliver over the next two weeks. Things change, a forecast changes.</p>
+
+<h2 id="meetings">Meetings</h2>
+<p>Instead of rituals, e.g. Scrum rituals I prefer <em>Team Meetings</em>. Ritual sounds too religious, cultish.</p>
+
+<h2 id="sustainable">Sustainable</h2>
+<p>When a team is in a bad situation I ask myself, is this sustainable.</p>
+
+<h2 id="backlog-refinement">Backlog Refinement</h2>
+<p>Instead Backlog Grooming I’ve been using <em>Backlog Refinement</em> and <em>Backlog Discovery</em>. Every week the team refines the backlog or they discover and ideate about features or problems that exist at the Epic level.</p>
+
+    </div>
+    <div class="list-post-date">
+      <a href="/2017/05/13/the-way-i.html" class="u-url"><time class="dt-published" datetime="2017-05-13 00:00:00 -0500">13 May 2017</time></a>
+    </div>
+  </div>
+
 
 </div>
-
-
-    <nav id="post-nav">
-    
-    
-        <span class="next">
-            <a href="/page/2/">
-                Older Posts <span class="arrow">→</span>
-            </a>
-        </span>
-    
-</nav>
-
 
 <footer class="site-footer">
 	<p class="text">Follow <a href="https://micro.blog/germanflores">@germanflores on Micro.blog</a>.</p>
 </footer>
 
   </div>
+  
 </body>
 </html>
