@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/07/27/anna-goss-annagoss.html",
+	      	
+			"content_html": "<p>Anna Goss @annagoss writes about techniques to build high performing teams, the feedback techniques, and mindset are interesting and if the team is ready\n<a href=\"https://www.mindtheproduct.com/2018/02/techniques-help-build-high-performing-team/\">www.mindtheproduct.com/2018/02/t…</a></p>\n",
+			"date_published": "2018-07-27T16:40:48-05:00",
+			"url": "http://germanflores.com/2018/07/27/anna-goss-annagoss.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/06/22/john-cutler-johnpcutler.html",
 	      	
 			"content_html": "<p>John Cutler @johnpcutler makes a case for shipping small, interesting ideas for teams struggling with shipping \n<a href=\"https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a\">hackernoon.com/work-smal…</a></p>\n",
@@ -213,16 +221,6 @@
 			"content_html": "<p>The last few years in the Scrum Master role my perspective about Scrum related words has changed. Here are a few words that I’m trying to change in my vocabulary when I’m teaching others about Agile philosophies and the Scrum framework.</p>\n\n<h2 id=\"iteration\">Iteration</h2>\n<p>Instead of Sprint I prefer <em>iteration</em>. Sounds and reads more sustainable. Teams iterate on work every two weeks.</p>\n\n<h2 id=\"forecasting\">Forecasting</h2>\n<p>Instead of Planning I prefer <em>forecasting</em>. Sounds realistic. The team forecast work they believe they can deliver over the next two weeks. Things change, a forecast changes.</p>\n\n<h2 id=\"meetings\">Meetings</h2>\n<p>Instead of rituals, e.g. Scrum rituals I prefer <em>Team Meetings</em>. Ritual sounds too religious, cultish.</p>\n\n<h2 id=\"sustainable\">Sustainable</h2>\n<p>When a team is in a bad situation I ask myself, is this sustainable.</p>\n\n<h2 id=\"backlog-refinement\">Backlog Refinement</h2>\n<p>Instead Backlog Grooming I’ve been using <em>Backlog Refinement</em> and <em>Backlog Discovery</em>. Every week the team refines the backlog or they discover and ideate about features or problems that exist at the Epic level.</p>\n",
 			"date_published": "2017-05-13T00:00:00-05:00",
 			"url": "http://germanflores.com/2017/05/13/the-way-i.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/05/12/minding-the-team.html",
-	      	
-			"title": "Minding the Team Expectations for Folks in the Scrum Master Role",
-			
-			"content_html": "<p>For folks new to the Scrum Masters role, I am not expecting expert knowledge on Technology, Scrum, or Software Development.</p>\n\n<p>I am expecting:</p>\n\n<ul>\n  <li>Follow through</li>\n  <li>Work ethic</li>\n  <li>Effort</li>\n  <li>Attitude</li>\n  <li>Passion</li>\n  <li>Being coachable</li>\n  <li>Doing extra</li>\n  <li>Being prepared</li>\n  <li>Curiosity</li>\n  <li>Not to procrastinate and to ask when unclear</li>\n  <li>Being authentic so we can make progress and talk about the areas that you need growth on</li>\n</ul>\n\n<p>Across-the-board, the Technology Team I work for, exhibits these behaviors which in turn sets the expectation for how I operate and inspires me to be the best in the role. This cycle of expectations across roles is what keeps me engaged, challenged, and coming back to the job every day.</p>\n\n<p>I set these expectations because I care, I care for the person growing in the role and I care for the teams they support. If I don’t care mediocrity seeps in.</p>\n",
-			"date_published": "2017-05-12T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/12/minding-the-team.html"
 		}
 		
 	]
