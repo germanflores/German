@@ -1,0 +1,19 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+order: 0
+---
+
+{% for post in site.posts %}
+	<p>
+		<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.date | date: "%Y-%m-%d" }}</a>:
+
+		{% if post.microblog == false %}
+			<span><b>{{ post.title }}</b></span> 
+			<span>{{ post.content | strip_html | truncatewords: 10 }}</span>
+		{% else %}
+			<span>{{ post.content | strip_html | truncatewords: 10 }}</span>
+		{% endif %}
+	</p>
+{% endfor %}
