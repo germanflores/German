@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/07/30/michael-robert-bernstein.html",
+	      	
+			"content_html": "<p>Michael Robert Bernstein @mrbbk writes about the value of teams blogging about their technical work, as a recruiting tool and other not so apparent reasons.</p>\n\n<p><a href=\"http://michaelrbernste.in/2016/11/02/blog-blog-blog.html\">michaelrbernste.in/2016/11/0…</a></p>\n",
+			"date_published": "2018-07-30T06:32:51-05:00",
+			"url": "http://germanflores.com/2018/07/30/michael-robert-bernstein.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/07/30/steve-shogren-steveshogren.html",
+	      	
+			"content_html": "<p>Steve Shogren @steveshogren writes about pair programming, great perspective on what pair programming can be when embraced, helped me understand what is possible</p>\n\n<p><a href=\"http://deliberate-software.com/pairprogramming/\">deliberate-software.com/pairprogr…</a></p>\n",
+			"date_published": "2018-07-29T21:11:21-05:00",
+			"url": "http://germanflores.com/2018/07/29/steve-shogren-steveshogren.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/07/30/pat-kua-patkua.html",
+	      	
+			"content_html": "<p>Pat Kua @patkua writes about folks transitioning to the Tech Lead role, how difficult it can be and three behaviors that prevent people from being effective in the role</p>\n\n<p><a href=\"https://www.thekua.com/atwork/2018/04/three-common-mistakes-of-the-first-time-tech-lead/\">www.thekua.com/atwork/20…</a></p>\n",
+			"date_published": "2018-07-29T21:10:07-05:00",
+			"url": "http://germanflores.com/2018/07/29/pat-kua-patkua.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/07/30/matthew-mamet-writes.html",
 	      	
 			"content_html": "<p>Matthew Mamet writes about Directly Responsible Individuals (DRI) and the idea of clarity for about who is responsible for doing something, typically after meetings\n<a href=\"https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4\">medium.com/@mmamet/d…</a></p>\n",
@@ -189,36 +213,6 @@
 			"content_html": "<blockquote>\n  <p>Fiction can help us here, this time in its form, not its content. It can help us to clarify our own thoughts, help us test our ideas before we build them, and help our teams stay focused on the things that matter.</p>\n</blockquote>\n\n<p>Resources\n<a href=\"https://medium.com/hackerpreneur-magazine/science-fiction-and-design-866178c1739e\">(Science) Fiction and Design</a></p>\n",
 			"date_published": "2017-06-10T00:00:00-05:00",
 			"url": "http://germanflores.com/2017/06/10/workplace-fiction.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/06/07/what-is-a.html",
-	      	
-			"title": "What Is a Story",
-			
-			"content_html": "<p>On a previous post titled Why We Write Stories I took a light-hearted approach to the value we get from writing stories, in this post I want to write about why we write stories, the components of a story, when we don’t write stories, and how we use stories in our Scrum implementation at Leapfrog.</p>\n\n<h2 id=\"components-of-a-story\">Components of a Story</h2>\n\n<h3 id=\"why-we-write-stories\">Why We Write Stories</h3>\n\n<p>Let’s start with “why” we write stories.</p>\n\n<p>Stories are a ‘simple’ format to articulate and communicate requests for work; they can also be a placeholder for people to have conversations about work.</p>\n\n<p>Stories also provide a common language for folks to align and have an agreed definition of done. They mitigate sticky situations of “that is not what I asked for” or “I forgot to add this to the request.”</p>\n\n<blockquote>\n  <p>Acting Agile does not mean evergreen or daily changing requirements, it means building and delivering software incrementally, reflecting, and learning.</p>\n</blockquote>\n\n<p>Stories help the team gain a shared understanding of the work and reach a shared definition of “done.” Stories are foundational in estimating and when the team plans work.</p>\n\n<h3 id=\"story-titles\">Story Titles</h3>\n\n<p>The title should describe an activity. Let the story name be the starting point for determining what “done” looks like. Ideally, the story title should describe actual behavior by a person in the system.</p>\n\n<h3 id=\"story\">Story</h3>\n\n<p><code class=\"highlighter-rouge\">As a &lt;person/role&gt;, I want &lt;goal&gt;, so that &lt;reason&gt;.</code></p>\n\n<p>Stories provide us with the person or the role that is making a request, the feature or requirement the business wants, and the problem solved. Stories should encapsulate what the business wants and why it is of value.</p>\n\n<h3 id=\"acceptance-criteria\">Acceptance Criteria</h3>\n\n<p>A story is not “done” unless the Acceptance Criteria is met, or the team and Product Owner have agreed that the criteria have changed since the commitment to the story.</p>\n\n<h4 id=\"acceptance-criteria-characteristics\">Acceptance Criteria Characteristics</h4>\n\n<ul>\n  <li>Set of statements, each with a clear pass/fail result</li>\n  <li>There is no partial acceptance: either a criterion is met, or it is not</li>\n  <li>They must be actionable</li>\n  <li>Criteria should be independent of the implementation</li>\n  <li>Helps the team deliver</li>\n  <li>Helps the team build or implement QA tests</li>\n  <li>Helps the Product Owner perform User Acceptance Testing</li>\n  <li>They are not the technical details or steps for completing a story</li>\n  <li>They are not the equivalent of how the story will progress through User Acceptance Testing</li>\n</ul>\n\n<h3 id=\"implementation-details\">Implementation Details</h3>\n\n<p>Some of our teams prefer implementation details for additional details or guidance on delivering the work, but these are always defined and written by the development team. Sometimes they are non-obvious system complications, a sequence of events needed to complete the story or comments from the discussion of the story that the development team needs for reference during development.</p>\n\n<h2 id=\"when-we-do-not-write-stories\">When We Do Not Write Stories</h2>\n\n<p>When the work is either too small or does not fit into the story format, in those cases, we write Chores/Tasks.</p>\n\n<p><code class=\"highlighter-rouge\">“As a &lt;&gt;, I want &lt;&gt;, so that &lt;&gt;.</code></p>\n\n<p>We write chores/tasks because it is work that needs prioritization and visibility and to add to an iteration. It may be a stepping stone to get a story to “done,” or it could be a cleanup task that needs attention.</p>\n\n<h3 id=\"chorestasks-characteristics\">Chores/Tasks Characteristics</h3>\n\n<ul>\n  <li>Chores/Tasks can include acceptance criteria for clarity</li>\n  <li>Receive zero story point value</li>\n  <li>Typically used for documentation or straight forward work</li>\n</ul>\n\n<h2 id=\"how-we-use-stories-in-the-technology-team\">How We Use Stories in the Technology Team</h2>\n\n<p>We use stories to break down work into demonstrable pieces of work that we can then estimate and plan for our teams to deliver valuable software to the business.</p>\n",
-			"date_published": "2017-06-07T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/06/07/what-is-a.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/05/27/when-i-watch.html",
-	      	
-			"title": "When I Watch Youtube Videos With The Kids",
-			
-			"content_html": "<p>I watch these and I thought you might like them:</p>\n\n<ul>\n  <li><a href=\"https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q\">Great Big Story</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw\">I Like To Make Stuff</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCqwxJts-6yF33rupyF_DCsA\">Life Where I’m From</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCJFp8uSYCjXOMnkUyb3CQ3Q\">Tasty</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A\">Nat and Friends</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A\">Numberphile</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ\">Wendover Productions</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UC-3SbfTPJsL8fJAPKiVqBLg\">Deep Look</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ\">Practical Engineering</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA\">Primitive Technology</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCvGMGQC8gNkd4gwxSbABIlw\">Quirkology</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UC9XMqG5uOWHXjUUH6sXeGCA\">ScienceC</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA\">SpaceX</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA\">Tested</a></li>\n  <li><a href=\"https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw\">WIRED</a></li>\n</ul>\n",
-			"date_published": "2017-05-27T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/27/when-i-watch.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/05/19/what-does-the.html",
-	      	
-			"title": "What Does The Scrum Master Role Do in a Team?",
-			
-			"content_html": "<p>What do folks in the Scrum Master role do in Leapfrog Technology Teams?</p>\n\n<ul>\n  <li>We ensure and facilitate the Scrum. When I say to ensure, we ensure that Stands, Story Writing &amp; Estimation, Retrospective, and Planning sessions happen and are effective and efficient. We have recent evidence that when teams operate with parts of the Scrum framework, they deliver software.</li>\n  <li>Champion and protect the team. We know that when teams have good working conditions and focus they are happier.</li>\n  <li>Surface situations in the team to team leads or leadership. Sometimes I ask is that a thing? Sometimes it is a thing, and sometimes it is not a thing.</li>\n  <li>We care about delivery during the sprint. We ideally find and share with the team opportunities to work efficiently.</li>\n</ul>\n\n<p>There’s a lot more depending on your experience and level of the role, but the above is a beginning expectation.</p>\n",
-			"date_published": "2017-05-19T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/19/what-does-the.html"
 		}
 		
 	]
