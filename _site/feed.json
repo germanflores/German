@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/08/02/jean-hsu-jyhsu.html",
+	      	
+			"content_html": "<p>Jean Hsu @jyhsu writes about getting buy-in for work that is about reducing technical debt; “follow the thread of impact.”</p>\n\n<p><a href=\"https://blog.coleadership.com/how-to-get-buy-in-for-reducing-technical-debt/\">blog.coleadership.com/how-to-ge…</a></p>\n",
+			"date_published": "2018-08-02T16:19:03-05:00",
+			"url": "http://germanflores.com/2018/08/02/jean-hsu-jyhsu.html"
+		},
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/08/02/found-this-team.html",
+	      	
+			"content_html": "<p>Found this team activity interesting</p>\n<blockquote>\n  <p>tottinge - I had a team that was “sick of talking about our feelings” so I made something up. I had them use sticky notes to list the skills that they used in the past few sprints that saved their bacon or made big jobs easy. They held onto these. Then on a different color, list the skills they wish they had because it might have made their lives easier. They put their names on all their cards. Then they posted them on a white board, “have” side and “want” side.  At the end, they looked for needs that they could fill in their teammates, and scheduled pair programming and lunch-n-learn sessions to teach each other, and adjourned. They said the following few weeks they learned more than prior several months and it helped them all.</p>\n</blockquote>\n",
+			"date_published": "2018-08-02T15:42:11-05:00",
+			"url": "http://germanflores.com/2018/08/02/found-this-team.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/07/30/michael-robert-bernstein.html",
 	      	
 			"content_html": "<p>Michael Robert Bernstein @mrbbk writes about the value of teams blogging about their technical work, as a recruiting tool and other not so apparent reasons.</p>\n\n<p><a href=\"http://michaelrbernste.in/2016/11/02/blog-blog-blog.html\">michaelrbernste.in/2016/11/0…</a></p>\n",
@@ -193,26 +209,6 @@
 			"content_html": "<p>Today I received a meeting request that did not convince me that I should attend. This is how I responded before accepting the meeting:</p>\n\n<p>Could you help me understand why we need to meet? The title of the meeting does not help me</p>\n\n<ul>\n  <li>What questions do you have?</li>\n  <li>Why do we need to meet?</li>\n  <li>What problem are we meeting to solve?</li>\n  <li>How should I prepare for this conversation?</li>\n  <li>What is the agenda?</li>\n  <li>What decision are we meeting to make?</li>\n</ul>\n",
 			"date_published": "2017-11-02T00:00:00-05:00",
 			"url": "http://germanflores.com/2017/11/02/not-convinced-i.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/10/19/small-software-development.html",
-	      	
-			"title": "Small Software Development Teams",
-			
-			"content_html": "<p>Besides a lower capacity there other downsides to small (e.g. three) engineering teams.</p>\n\n<ul>\n  <li>Coverage, e.g., Depending on the work they are doing and applications they support there is a risk of not having enough folks to provide support during a crisis while continuing iteration development, then add someone being out sick, and someone on vacation and velocity and morale tank. You can mitigate by staggering vacations but not much you can do about people being sick or bugs</li>\n  <li>People moving on. The proverbial getting hit by a bus situation where someone in the team leaves, and now you are down to only two people</li>\n  <li>Onboarding efficiencies. Supporting the onboarding of a new engineer is much easier and takes less time when you an optimal sized team</li>\n  <li>Engineering progression. It is likely that there will be more instances in a larger team for folks to develop their leadership skills than in a smaller team. The larger the team, the more capacity, i.e., more variation of work, which in turn exposes engineers to more types of problems to solve</li>\n  <li>Scale. If we are staffing our teams with the three roles: Development, Product Owner, and Scrum Master having a group of only three means that the Product Owner role and Scrum Master role will have additional time. Not a downside, just an adjustment for the smaller group</li>\n</ul>\n",
-			"date_published": "2017-10-19T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/10/19/small-software-development.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2017/06/10/workplace-fiction.html",
-	      	
-			"title": "Workplace Fiction",
-			
-			"content_html": "<blockquote>\n  <p>Fiction can help us here, this time in its form, not its content. It can help us to clarify our own thoughts, help us test our ideas before we build them, and help our teams stay focused on the things that matter.</p>\n</blockquote>\n\n<p>Resources\n<a href=\"https://medium.com/hackerpreneur-magazine/science-fiction-and-design-866178c1739e\">(Science) Fiction and Design</a></p>\n",
-			"date_published": "2017-06-10T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/06/10/workplace-fiction.html"
 		}
 		
 	]
