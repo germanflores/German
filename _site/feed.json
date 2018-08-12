@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/08/12/im-giving-you.html",
+	      	
+			"content_html": "<blockquote>\n  <p>“I’m giving you these comments because I have very high expectations and I know that you can reach them.” \n― Daniel Coyle, The Culture Code: The Secrets of Highly Successful Groups</p>\n</blockquote>\n",
+			"date_published": "2018-08-12T07:09:19-05:00",
+			"url": "http://germanflores.com/2018/08/12/im-giving-you.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/08/06/roberto-dip-roperzh.html",
 	      	
 			"content_html": "<p>Roberto Dip @roperzh writes about communication and tactics he has used to communicate while working remotely.</p>\n\n<p><a href=\"https://monades.roperzh.com/getting-better-at-team-communication/\">monades.roperzh.com/getting-b…</a></p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>For any meeting <a href=\"http://sethgodin.typepad.com/seths_blog/2018/04/whos-meeting-is-this-a-simple-checklist.html\">sethgodin.typepad.com</a></p>\n\n<blockquote>\n  <p>Who’s meeting is this? A simple checklist</p>\n</blockquote>\n",
 			"date_published": "2018-04-02T06:25:20-05:00",
 			"url": "http://germanflores.com/2018/04/02/for-any-meeting.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/03/30/195507.html",
-	      	
-			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/7166885991.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-30T14:55:07-05:00",
-			"url": "http://germanflores.com/2018/03/30/195507.html"
 		}
 		
 	]
