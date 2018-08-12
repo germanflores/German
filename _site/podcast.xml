@@ -2,17 +2,23 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>German Flores</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/germanflores&quot;&gt;@germanflores on Micro.blog&lt;/a&gt;.</description>
+    <description>I help teams implement effective practices to manage work and grow people using Agile principles and frameworks. I’m passionate about working with folks and helping them fulfill their potential.</description>
     <link>http://germanflores.com/</link>
-    <pubDate>Mon, 06 Aug 2018 12:06:58 -0500</pubDate>
-    <lastBuildDate>Mon, 06 Aug 2018 12:06:58 -0500</lastBuildDate>
+    <pubDate>Sun, 12 Aug 2018 07:09:24 -0500</pubDate>
+    <lastBuildDate>Sun, 12 Aug 2018 07:09:24 -0500</lastBuildDate>
 	<itunes:image href="https://micro.blog/germanflores/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>German Flores</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>German Flores</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
+    
+		
     
 		
     
