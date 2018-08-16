@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/08/16/today-i-learned.html",
+	      	
+			"content_html": "<p>Today I learned these acronyms \nFOLO: Fear of Living Off-line.\nFOMU: Fear of Messing Up.\nFOJO: Fear of Judgment On-line.\nFOMIRL: Fear of Meeting in Real Life.\nAnd to balance things\nJOMO: joy of missing out.</p>\n",
+			"date_published": "2018-08-16T06:43:04-05:00",
+			"url": "http://germanflores.com/2018/08/16/today-i-learned.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/08/12/im-giving-you.html",
 	      	
 			"content_html": "<blockquote>\n  <p>“I’m giving you these comments because I have very high expectations and I know that you can reach them.” \n― Daniel Coyle, The Culture Code: The Secrets of Highly Successful Groups</p>\n</blockquote>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Morning ride, cool but sunny. 30 miles 17F</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/1113cddcc5.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-07T11:28:45-05:00",
 			"url": "http://germanflores.com/2018/04/07/morning-ride-cool.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/04/02/for-any-meeting.html",
-	      	
-			"content_html": "<p>For any meeting <a href=\"http://sethgodin.typepad.com/seths_blog/2018/04/whos-meeting-is-this-a-simple-checklist.html\">sethgodin.typepad.com</a></p>\n\n<blockquote>\n  <p>Who’s meeting is this? A simple checklist</p>\n</blockquote>\n",
-			"date_published": "2018-04-02T06:25:20-05:00",
-			"url": "http://germanflores.com/2018/04/02/for-any-meeting.html"
 		}
 		
 	]
