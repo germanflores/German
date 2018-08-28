@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/08/28/roman-pichler-writes.html",
+	      	
+			"content_html": "<p>Roman Pichler writes about digital transformations in the context of having a useful Product role, great insight and topics for companies transforming</p>\n\n<p><a href=\"https://www.romanpichler.com/blog/digital-transformation-and-product-management/\">www.romanpichler.com/blog/digi…</a></p>\n",
+			"date_published": "2018-08-28T10:48:52-05:00",
+			"url": "http://germanflores.com/2018/08/28/roman-pichler-writes.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/08/16/today-i-learned.html",
 	      	
 			"content_html": "<p>Today I learned these acronyms \nFOLO: Fear of Living Off-line.\nFOMU: Fear of Messing Up.\nFOJO: Fear of Judgment On-line.\nFOMIRL: Fear of Meeting in Real Life.\nAnd to balance things\nJOMO: joy of missing out.</p>\n",
@@ -195,14 +203,6 @@
 			"content_html": "<p>Chicago Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/ada4aff62d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-09T19:45:46-05:00",
 			"url": "http://germanflores.com/2018/04/09/chicago-illinois.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/04/07/morning-ride-cool.html",
-	      	
-			"content_html": "<p>Morning ride, cool but sunny. 30 miles 17F</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/1113cddcc5.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-07T11:28:45-05:00",
-			"url": "http://germanflores.com/2018/04/07/morning-ride-cool.html"
 		}
 		
 	]
