@@ -3,7 +3,8 @@ layout: post
 title: "Car & Team Analogies"
 microblog: false
 audio: 
-date: 2017-12-08 01:00:00 -0500
+photo: 
+date: 2017-12-08 00:00:00 -0600
 guid: http://germanflores.micro.blog/2017/12/08/car-amp-team.html
 ---
 <blockquote>
