@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-02 15:42:11 -0500
+photo: 
+date: 2018-08-02 14:42:11 -0600
 guid: http://germanflores.micro.blog/2018/08/02/found-this-team.html
 ---
 Found this team activity interesting
