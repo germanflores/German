@@ -1,0 +1,98 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "German Flores",
+	"icon": "https://micro.blog/germanflores/avatar.jpg",
+	"home_page_url": "https://germanflores.com/",
+	"feed_url": "https://germanflores.com/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://germanflores.micro.blog/2018/08/05/114253.html",
+			
+			"content_text": "<p><img src=\"http://germanflores.com/uploads/2018/0239a90fbc.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-08-05T06:42:53-05:00",
+			"url": "https://germanflores.com/2018/08/05/114253.html",
+			"image": "http://germanflores.com/uploads/2018/0239a90fbc.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://germanflores.com/uploads/2018/0239a90fbc.jpg"
+			}
+		},
+		{
+			"id": "http://germanflores.micro.blog/2018/05/20/kenosha-port-washington.html",
+			
+			"content_text": "<p>Kenosha ➡️ Port Washington WI, 70 miles</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/1ef18c2266.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-05-19T22:23:27-05:00",
+			"url": "https://germanflores.com/2018/05/19/kenosha-port-washington.html",
+			"image": "http://germanflores.com/uploads/2018/1ef18c2266.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://germanflores.com/uploads/2018/1ef18c2266.jpg"
+			}
+		},
+		{
+			"id": "http://germanflores.micro.blog/2018/05/06/124556.html",
+			
+			"content_text": "<p><img src=\"http://germanflores.com/uploads/2018/8d4b4cecc7.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-05-06T07:45:56-05:00",
+			"url": "https://germanflores.com/2018/05/06/124556.html",
+			"image": "http://germanflores.com/uploads/2018/8d4b4cecc7.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://germanflores.com/uploads/2018/8d4b4cecc7.jpg"
+			}
+		},
+		{
+			"id": "http://germanflores.micro.blog/2018/05/01/115247.html",
+			
+			"content_text": "<p><img src=\"http://germanflores.com/uploads/2018/b543aa2ed3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-01T06:52:47-05:00",
+			"url": "https://germanflores.com/2018/05/01/115247.html",
+			"image": "http://germanflores.com/uploads/2018/b543aa2ed3.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://germanflores.com/uploads/2018/b543aa2ed3.jpg"
+			}
+		},
+		{
+			"id": "http://germanflores.micro.blog/2018/04/21/134734.html",
+			
+			"content_text": "<p>Chicago, Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/5e7db671eb.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-04-21T08:47:34-05:00",
+			"url": "https://germanflores.com/2018/04/21/134734.html",
+			"image": "http://germanflores.com/uploads/2018/5e7db671eb.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://germanflores.com/uploads/2018/5e7db671eb.jpg"
+			}
+		},
+		{
+			"id": "http://germanflores.micro.blog/2018/04/10/chicago-illinois.html",
+			
+			"content_text": "<p>Chicago Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/ada4aff62d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-09T19:45:46-05:00",
+			"url": "https://germanflores.com/2018/04/09/chicago-illinois.html",
+			"image": "http://germanflores.com/uploads/2018/ada4aff62d.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://germanflores.com/uploads/2018/ada4aff62d.jpg"
+			}
+		},
+		{
+			"id": "http://germanflores.micro.blog/2018/04/07/morning-ride-cool.html",
+			
+			"content_text": "<p>Morning ride, cool but sunny. 30 miles 17F</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/1113cddcc5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-07T11:28:45-05:00",
+			"url": "https://germanflores.com/2018/04/07/morning-ride-cool.html",
+			"image": "http://germanflores.com/uploads/2018/1113cddcc5.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://germanflores.com/uploads/2018/1113cddcc5.jpg"
+			}
+		},
+		{
+			"id": "http://germanflores.micro.blog/2018/03/30/195507.html",
+			
+			"content_text": "<p><img src=\"http://germanflores.com/uploads/2018/7166885991.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-30T14:55:07-05:00",
+			"url": "https://germanflores.com/2018/03/30/195507.html",
+			"image": "http://germanflores.com/uploads/2018/7166885991.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://germanflores.com/uploads/2018/7166885991.jpg"
+			}
+		}
+	]
+}
