@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-27 16:40:48 -0500
+photo: 
+date: 2018-07-27 15:40:48 -0600
 guid: http://germanflores.micro.blog/2018/07/27/anna-goss-annagoss.html
 ---
 Anna Goss @annagoss writes about techniques to build high performing teams, the feedback techniques, and mindset are interesting and if the team is ready
