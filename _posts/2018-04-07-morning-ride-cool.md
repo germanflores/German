@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-07 11:28:45 -0500
+photo: http://germanflores.com/uploads/2018/1113cddcc5.jpg
+date: 2018-04-07 10:28:45 -0600
 guid: http://germanflores.micro.blog/2018/04/07/morning-ride-cool.html
 ---
 Morning ride, cool but sunny. 30 miles 17F
