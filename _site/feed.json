@@ -1,8 +1,9 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "German Flores",
-	"home_page_url": "http://germanflores.com/",
-	"feed_url": "http://germanflores.com/feed.json",
+	"icon": "https://micro.blog/germanflores/avatar.jpg",
+	"home_page_url": "https://germanflores.com/",
+	"feed_url": "https://germanflores.com/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +11,7 @@
 	      	
 			"content_html": "<p>Roman Pichler writes about digital transformations in the context of having a useful Product role, great insight and topics for companies transforming</p>\n\n<p><a href=\"https://www.romanpichler.com/blog/digital-transformation-and-product-management/\">www.romanpichler.com/blog/digi…</a></p>\n",
 			"date_published": "2018-08-28T10:48:52-05:00",
-			"url": "http://germanflores.com/2018/08/28/roman-pichler-writes.html"
+			"url": "https://germanflores.com/2018/08/28/roman-pichler-writes.html"
 		},
 		
 		{
@@ -18,7 +19,7 @@
 	      	
 			"content_html": "<p>Today I learned these acronyms \nFOLO: Fear of Living Off-line.\nFOMU: Fear of Messing Up.\nFOJO: Fear of Judgment On-line.\nFOMIRL: Fear of Meeting in Real Life.\nAnd to balance things\nJOMO: joy of missing out.</p>\n",
 			"date_published": "2018-08-16T06:43:04-05:00",
-			"url": "http://germanflores.com/2018/08/16/today-i-learned.html"
+			"url": "https://germanflores.com/2018/08/16/today-i-learned.html"
 		},
 		
 		{
@@ -26,7 +27,7 @@
 	      	
 			"content_html": "<blockquote>\n  <p>“I’m giving you these comments because I have very high expectations and I know that you can reach them.” \n― Daniel Coyle, The Culture Code: The Secrets of Highly Successful Groups</p>\n</blockquote>\n",
 			"date_published": "2018-08-12T07:09:19-05:00",
-			"url": "http://germanflores.com/2018/08/12/im-giving-you.html"
+			"url": "https://germanflores.com/2018/08/12/im-giving-you.html"
 		},
 		
 		{
@@ -34,7 +35,7 @@
 	      	
 			"content_html": "<p>Roberto Dip @roperzh writes about communication and tactics he has used to communicate while working remotely.</p>\n\n<p><a href=\"https://monades.roperzh.com/getting-better-at-team-communication/\">monades.roperzh.com/getting-b…</a></p>\n",
 			"date_published": "2018-08-06T12:06:18-05:00",
-			"url": "http://germanflores.com/2018/08/06/roberto-dip-roperzh.html"
+			"url": "https://germanflores.com/2018/08/06/roberto-dip-roperzh.html"
 		},
 		
 		{
@@ -42,7 +43,7 @@
 	      	
 			"content_html": "<p>Avi Revivo @Avi_Revivo writes about business process and three questions people should consider asking around processes. It also contains nuggets like “The more functions we have in the organization the more need we have for coordination.”</p>\n\n<p><a href=\"https://www.linkedin.com/pulse/fear-process-how-scale-team-without-getting-corporate-avi-revivo/\">www.linkedin.com/pulse/fea…</a></p>\n",
 			"date_published": "2018-08-05T15:37:33-05:00",
-			"url": "http://germanflores.com/2018/08/05/avi-revivo-avirevivo.html"
+			"url": "https://germanflores.com/2018/08/05/avi-revivo-avirevivo.html"
 		},
 		
 		{
@@ -50,7 +51,7 @@
 	      	
 			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/0239a90fbc.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-08-05T06:42:53-05:00",
-			"url": "http://germanflores.com/2018/08/05/114253.html"
+			"url": "https://germanflores.com/2018/08/05/114253.html"
 		},
 		
 		{
@@ -58,7 +59,7 @@
 	      	
 			"content_html": "<p>Jean Hsu @jyhsu writes about getting buy-in for work that is about reducing technical debt; “follow the thread of impact.”</p>\n\n<p><a href=\"https://blog.coleadership.com/how-to-get-buy-in-for-reducing-technical-debt/\">blog.coleadership.com/how-to-ge…</a></p>\n",
 			"date_published": "2018-08-02T16:19:03-05:00",
-			"url": "http://germanflores.com/2018/08/02/jean-hsu-jyhsu.html"
+			"url": "https://germanflores.com/2018/08/02/jean-hsu-jyhsu.html"
 		},
 		
 		{
@@ -66,7 +67,7 @@
 	      	
 			"content_html": "<p>Found this team activity interesting</p>\n<blockquote>\n  <p>tottinge - I had a team that was “sick of talking about our feelings” so I made something up. I had them use sticky notes to list the skills that they used in the past few sprints that saved their bacon or made big jobs easy. They held onto these. Then on a different color, list the skills they wish they had because it might have made their lives easier. They put their names on all their cards. Then they posted them on a white board, “have” side and “want” side.  At the end, they looked for needs that they could fill in their teammates, and scheduled pair programming and lunch-n-learn sessions to teach each other, and adjourned. They said the following few weeks they learned more than prior several months and it helped them all.</p>\n</blockquote>\n",
 			"date_published": "2018-08-02T15:42:11-05:00",
-			"url": "http://germanflores.com/2018/08/02/found-this-team.html"
+			"url": "https://germanflores.com/2018/08/02/found-this-team.html"
 		},
 		
 		{
@@ -74,7 +75,7 @@
 	      	
 			"content_html": "<p>Michael Robert Bernstein @mrbbk writes about the value of teams blogging about their technical work, as a recruiting tool and other not so apparent reasons.</p>\n\n<p><a href=\"http://michaelrbernste.in/2016/11/02/blog-blog-blog.html\">michaelrbernste.in/2016/11/0…</a></p>\n",
 			"date_published": "2018-07-30T06:32:51-05:00",
-			"url": "http://germanflores.com/2018/07/30/michael-robert-bernstein.html"
+			"url": "https://germanflores.com/2018/07/30/michael-robert-bernstein.html"
 		},
 		
 		{
@@ -82,7 +83,7 @@
 	      	
 			"content_html": "<p>Steve Shogren @steveshogren writes about pair programming, great perspective on what pair programming can be when embraced, helped me understand what is possible</p>\n\n<p><a href=\"http://deliberate-software.com/pairprogramming/\">deliberate-software.com/pairprogr…</a></p>\n",
 			"date_published": "2018-07-29T21:11:21-05:00",
-			"url": "http://germanflores.com/2018/07/29/steve-shogren-steveshogren.html"
+			"url": "https://germanflores.com/2018/07/29/steve-shogren-steveshogren.html"
 		},
 		
 		{
@@ -90,7 +91,7 @@
 	      	
 			"content_html": "<p>Pat Kua @patkua writes about folks transitioning to the Tech Lead role, how difficult it can be and three behaviors that prevent people from being effective in the role</p>\n\n<p><a href=\"https://www.thekua.com/atwork/2018/04/three-common-mistakes-of-the-first-time-tech-lead/\">www.thekua.com/atwork/20…</a></p>\n",
 			"date_published": "2018-07-29T21:10:07-05:00",
-			"url": "http://germanflores.com/2018/07/29/pat-kua-patkua.html"
+			"url": "https://germanflores.com/2018/07/29/pat-kua-patkua.html"
 		},
 		
 		{
@@ -98,7 +99,7 @@
 	      	
 			"content_html": "<p>Matthew Mamet writes about Directly Responsible Individuals (DRI) and the idea of clarity for about who is responsible for doing something, typically after meetings\n<a href=\"https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4\">medium.com/@mmamet/d…</a></p>\n",
 			"date_published": "2018-07-29T20:53:18-05:00",
-			"url": "http://germanflores.com/2018/07/29/matthew-mamet-writes.html"
+			"url": "https://germanflores.com/2018/07/29/matthew-mamet-writes.html"
 		},
 		
 		{
@@ -106,7 +107,7 @@
 	      	
 			"content_html": "<p>Anna Goss @annagoss writes about techniques to build high performing teams, the feedback techniques, and mindset are interesting and if the team is ready\n<a href=\"https://www.mindtheproduct.com/2018/02/techniques-help-build-high-performing-team/\">www.mindtheproduct.com/2018/02/t…</a></p>\n",
 			"date_published": "2018-07-27T16:40:48-05:00",
-			"url": "http://germanflores.com/2018/07/27/anna-goss-annagoss.html"
+			"url": "https://germanflores.com/2018/07/27/anna-goss-annagoss.html"
 		},
 		
 		{
@@ -114,7 +115,7 @@
 	      	
 			"content_html": "<p>John Cutler @johnpcutler makes a case for shipping small, interesting ideas for teams struggling with shipping \n<a href=\"https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a\">hackernoon.com/work-smal…</a></p>\n",
 			"date_published": "2018-06-22T16:40:33-05:00",
-			"url": "http://germanflores.com/2018/06/22/john-cutler-johnpcutler.html"
+			"url": "https://germanflores.com/2018/06/22/john-cutler-johnpcutler.html"
 		},
 		
 		{
@@ -122,7 +123,7 @@
 	      	
 			"content_html": "<p>Chris Sims @ChrisSims writes about the definition of done. A critical conversation the team should have every time someone joins\n<a href=\"http://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/\">www.agilelearninglabs.com/2018/02/h…</a></p>\n",
 			"date_published": "2018-06-22T15:38:57-05:00",
-			"url": "http://germanflores.com/2018/06/22/chris-sims-chrissims.html"
+			"url": "https://germanflores.com/2018/06/22/chris-sims-chrissims.html"
 		},
 		
 		{
@@ -130,7 +131,7 @@
 	      	
 			"content_html": "<p>Parul Singh @parulia writes about the mindset of prioritization, specifically strategic prioritization, “It’s ruthlessly focusing on ‘do less, not more.’” she defines ten principles to follow\n<a href=\"https://medium.com/swlh/the-art-of-the-lazy-product-manager-fc6e5385a00b\">medium.com/swlh/the-…</a></p>\n",
 			"date_published": "2018-06-22T15:37:54-05:00",
-			"url": "http://germanflores.com/2018/06/22/203754.html"
+			"url": "https://germanflores.com/2018/06/22/203754.html"
 		},
 		
 		{
@@ -138,7 +139,7 @@
 	      	
 			"content_html": "<p>Parul Singh @parulia writes about the mindset of prioritization, specifically strategic prioritization, “It’s ruthlessly focusing on ‘do less, not more.’” she defines ten principles to follow\n<a href=\"https://medium.com/swlh/the-art-of-the-lazy-product-manager-fc6e5385a00b\">medium.com/swlh/the-…</a></p>\n",
 			"date_published": "2018-06-22T15:37:28-05:00",
-			"url": "http://germanflores.com/2018/06/22/parul-singh-parulia.html"
+			"url": "https://germanflores.com/2018/06/22/parul-singh-parulia.html"
 		},
 		
 		{
@@ -146,7 +147,7 @@
 	      	
 			"content_html": "<p>Jake Calabrese @jcalabrese writes about teams “self-manages the work” vs. “self-organizes to deliver the work.” Also, the support they need\n<a href=\"https://agileforall.com/agile-leadership-myth-2-self-organizing-teams-dont-need-any-help/\">agileforall.com/agile-lea…</a></p>\n",
 			"date_published": "2018-06-22T15:20:34-05:00",
-			"url": "http://germanflores.com/2018/06/22/jake-calabrese-jcalabrese.html"
+			"url": "https://germanflores.com/2018/06/22/jake-calabrese-jcalabrese.html"
 		},
 		
 		{
@@ -154,7 +155,7 @@
 	      	
 			"content_html": "<p>John Allspaw @allspaw writes about facilitating debriefs about incidents, gives examples of how a facilitator can leverage the incident as a learning opportunity for the team</p>\n\n<p><a href=\"https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/\">codeascraft.com/2016/11/1…</a></p>\n",
 			"date_published": "2018-06-22T14:50:39-05:00",
-			"url": "http://germanflores.com/2018/06/22/john-allspaw-allspaw.html"
+			"url": "https://germanflores.com/2018/06/22/john-allspaw-allspaw.html"
 		},
 		
 		{
@@ -162,7 +163,7 @@
 	      	
 			"content_html": "<p>Kenosha ➡️ Port Washington WI, 70 miles</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/1ef18c2266.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-05-19T22:23:27-05:00",
-			"url": "http://germanflores.com/2018/05/19/kenosha-port-washington.html"
+			"url": "https://germanflores.com/2018/05/19/kenosha-port-washington.html"
 		},
 		
 		{
@@ -170,7 +171,7 @@
 	      	
 			"content_html": "<p>The way you do anything, is the way you do everything — Terri Savelle Foy</p>\n",
 			"date_published": "2018-05-06T20:02:14-05:00",
-			"url": "http://germanflores.com/2018/05/06/the-way-you.html"
+			"url": "https://germanflores.com/2018/05/06/the-way-you.html"
 		},
 		
 		{
@@ -178,7 +179,7 @@
 	      	
 			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/8d4b4cecc7.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-05-06T07:45:56-05:00",
-			"url": "http://germanflores.com/2018/05/06/124556.html"
+			"url": "https://germanflores.com/2018/05/06/124556.html"
 		},
 		
 		{
@@ -186,7 +187,7 @@
 	      	
 			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/b543aa2ed3.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-01T06:52:47-05:00",
-			"url": "http://germanflores.com/2018/05/01/115247.html"
+			"url": "https://germanflores.com/2018/05/01/115247.html"
 		},
 		
 		{
@@ -194,7 +195,7 @@
 	      	
 			"content_html": "<p>Chicago, Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/5e7db671eb.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-04-21T08:47:34-05:00",
-			"url": "http://germanflores.com/2018/04/21/134734.html"
+			"url": "https://germanflores.com/2018/04/21/134734.html"
 		},
 		
 		{
@@ -202,7 +203,7 @@
 	      	
 			"content_html": "<p>Chicago Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/ada4aff62d.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-09T19:45:46-05:00",
-			"url": "http://germanflores.com/2018/04/09/chicago-illinois.html"
+			"url": "https://germanflores.com/2018/04/09/chicago-illinois.html"
 		}
 		
 	]
