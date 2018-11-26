@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-22 16:40:33 -0500
+photo: 
+date: 2018-06-22 15:40:33 -0600
 guid: http://germanflores.micro.blog/2018/06/22/john-cutler-johnpcutler.html
 ---
 John Cutler @johnpcutler makes a case for shipping small, interesting ideas for teams struggling with shipping 
