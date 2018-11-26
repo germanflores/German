@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-07-29 21:10:07 -0500
+photo: 
+date: 2018-07-29 20:10:07 -0600
 guid: http://germanflores.micro.blog/2018/07/30/pat-kua-patkua.html
 ---
 Pat Kua @patkua writes about folks transitioning to the Tech Lead role, how difficult it can be and three behaviors that prevent people from being effective in the role
