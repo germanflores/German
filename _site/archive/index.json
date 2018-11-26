@@ -1,8 +1,9 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "German Flores",
-	"home_page_url": "http://germanflores.com/",
-	"feed_url": "http://germanflores.com/archive/index.json",
+	"icon": "https://micro.blog/germanflores/avatar.jpg",
+	"home_page_url": "https://germanflores.com/",
+	"feed_url": "https://germanflores.com/archive/index.json",
 	"items": [
 		
 		{
@@ -10,7 +11,7 @@
 	      	
 			"content_text": "Roman Pichler writes about digital transformations in the context of...",
 			"date_published": "2018-08-28T10:48:52-05:00",
-			"url": "http://germanflores.com/2018/08/28/roman-pichler-writes.html"
+			"url": "https://germanflores.com/2018/08/28/roman-pichler-writes.html"
 		},
 		
 		{
@@ -18,7 +19,7 @@
 	      	
 			"content_text": "Today I learned these acronyms FOLO: Fear of Living Off-line....",
 			"date_published": "2018-08-16T06:43:04-05:00",
-			"url": "http://germanflores.com/2018/08/16/today-i-learned.html"
+			"url": "https://germanflores.com/2018/08/16/today-i-learned.html"
 		},
 		
 		{
@@ -26,7 +27,7 @@
 	      	
 			"content_text": "“I’m giving you these comments because I have very high...",
 			"date_published": "2018-08-12T07:09:19-05:00",
-			"url": "http://germanflores.com/2018/08/12/im-giving-you.html"
+			"url": "https://germanflores.com/2018/08/12/im-giving-you.html"
 		},
 		
 		{
@@ -34,7 +35,7 @@
 	      	
 			"content_text": "Roberto Dip @roperzh writes about communication and tactics he has...",
 			"date_published": "2018-08-06T12:06:18-05:00",
-			"url": "http://germanflores.com/2018/08/06/roberto-dip-roperzh.html"
+			"url": "https://germanflores.com/2018/08/06/roberto-dip-roperzh.html"
 		},
 		
 		{
@@ -42,7 +43,7 @@
 	      	
 			"content_text": "Avi Revivo @Avi_Revivo writes about business process and three questions...",
 			"date_published": "2018-08-05T15:37:33-05:00",
-			"url": "http://germanflores.com/2018/08/05/avi-revivo-avirevivo.html"
+			"url": "https://germanflores.com/2018/08/05/avi-revivo-avirevivo.html"
 		},
 		
 		{
@@ -50,7 +51,7 @@
 	      	
 			"content_text": "\n",
 			"date_published": "2018-08-05T06:42:53-05:00",
-			"url": "http://germanflores.com/2018/08/05/114253.html"
+			"url": "https://germanflores.com/2018/08/05/114253.html"
 		},
 		
 		{
@@ -58,7 +59,7 @@
 	      	
 			"content_text": "Jean Hsu @jyhsu writes about getting buy-in for work that...",
 			"date_published": "2018-08-02T16:19:03-05:00",
-			"url": "http://germanflores.com/2018/08/02/jean-hsu-jyhsu.html"
+			"url": "https://germanflores.com/2018/08/02/jean-hsu-jyhsu.html"
 		},
 		
 		{
@@ -66,7 +67,7 @@
 	      	
 			"content_text": "Found this team activity interesting tottinge - I had a...",
 			"date_published": "2018-08-02T15:42:11-05:00",
-			"url": "http://germanflores.com/2018/08/02/found-this-team.html"
+			"url": "https://germanflores.com/2018/08/02/found-this-team.html"
 		},
 		
 		{
@@ -74,7 +75,7 @@
 	      	
 			"content_text": "Michael Robert Bernstein @mrbbk writes about the value of teams...",
 			"date_published": "2018-07-30T06:32:51-05:00",
-			"url": "http://germanflores.com/2018/07/30/michael-robert-bernstein.html"
+			"url": "https://germanflores.com/2018/07/30/michael-robert-bernstein.html"
 		},
 		
 		{
@@ -82,7 +83,7 @@
 	      	
 			"content_text": "Steve Shogren @steveshogren writes about pair programming, great perspective on...",
 			"date_published": "2018-07-29T21:11:21-05:00",
-			"url": "http://germanflores.com/2018/07/29/steve-shogren-steveshogren.html"
+			"url": "https://germanflores.com/2018/07/29/steve-shogren-steveshogren.html"
 		},
 		
 		{
@@ -90,7 +91,7 @@
 	      	
 			"content_text": "Pat Kua @patkua writes about folks transitioning to the Tech...",
 			"date_published": "2018-07-29T21:10:07-05:00",
-			"url": "http://germanflores.com/2018/07/29/pat-kua-patkua.html"
+			"url": "https://germanflores.com/2018/07/29/pat-kua-patkua.html"
 		},
 		
 		{
@@ -98,7 +99,7 @@
 	      	
 			"content_text": "Matthew Mamet writes about Directly Responsible Individuals (DRI) and the...",
 			"date_published": "2018-07-29T20:53:18-05:00",
-			"url": "http://germanflores.com/2018/07/29/matthew-mamet-writes.html"
+			"url": "https://germanflores.com/2018/07/29/matthew-mamet-writes.html"
 		},
 		
 		{
@@ -106,7 +107,7 @@
 	      	
 			"content_text": "Anna Goss @annagoss writes about techniques to build high performing...",
 			"date_published": "2018-07-27T16:40:48-05:00",
-			"url": "http://germanflores.com/2018/07/27/anna-goss-annagoss.html"
+			"url": "https://germanflores.com/2018/07/27/anna-goss-annagoss.html"
 		},
 		
 		{
@@ -114,7 +115,7 @@
 	      	
 			"content_text": "John Cutler @johnpcutler makes a case for shipping small, interesting...",
 			"date_published": "2018-06-22T16:40:33-05:00",
-			"url": "http://germanflores.com/2018/06/22/john-cutler-johnpcutler.html"
+			"url": "https://germanflores.com/2018/06/22/john-cutler-johnpcutler.html"
 		},
 		
 		{
@@ -122,7 +123,7 @@
 	      	
 			"content_text": "Chris Sims @ChrisSims writes about the definition of done. A...",
 			"date_published": "2018-06-22T15:38:57-05:00",
-			"url": "http://germanflores.com/2018/06/22/chris-sims-chrissims.html"
+			"url": "https://germanflores.com/2018/06/22/chris-sims-chrissims.html"
 		},
 		
 		{
@@ -130,7 +131,7 @@
 	      	
 			"content_text": "Parul Singh @parulia writes about the mindset of prioritization, specifically...",
 			"date_published": "2018-06-22T15:37:54-05:00",
-			"url": "http://germanflores.com/2018/06/22/203754.html"
+			"url": "https://germanflores.com/2018/06/22/203754.html"
 		},
 		
 		{
@@ -138,7 +139,7 @@
 	      	
 			"content_text": "Parul Singh @parulia writes about the mindset of prioritization, specifically...",
 			"date_published": "2018-06-22T15:37:28-05:00",
-			"url": "http://germanflores.com/2018/06/22/parul-singh-parulia.html"
+			"url": "https://germanflores.com/2018/06/22/parul-singh-parulia.html"
 		},
 		
 		{
@@ -146,7 +147,7 @@
 	      	
 			"content_text": "Jake Calabrese @jcalabrese writes about teams “self-manages the work” vs....",
 			"date_published": "2018-06-22T15:20:34-05:00",
-			"url": "http://germanflores.com/2018/06/22/jake-calabrese-jcalabrese.html"
+			"url": "https://germanflores.com/2018/06/22/jake-calabrese-jcalabrese.html"
 		},
 		
 		{
@@ -154,7 +155,7 @@
 	      	
 			"content_text": "John Allspaw @allspaw writes about facilitating debriefs about incidents, gives...",
 			"date_published": "2018-06-22T14:50:39-05:00",
-			"url": "http://germanflores.com/2018/06/22/john-allspaw-allspaw.html"
+			"url": "https://germanflores.com/2018/06/22/john-allspaw-allspaw.html"
 		},
 		
 		{
@@ -162,7 +163,7 @@
 	      	
 			"content_text": "Kenosha ➡️ Port Washington WI, 70 miles\n\n\n",
 			"date_published": "2018-05-19T22:23:27-05:00",
-			"url": "http://germanflores.com/2018/05/19/kenosha-port-washington.html"
+			"url": "https://germanflores.com/2018/05/19/kenosha-port-washington.html"
 		},
 		
 		{
@@ -170,7 +171,7 @@
 	      	
 			"content_text": "The way you do anything, is the way you do...",
 			"date_published": "2018-05-06T20:02:14-05:00",
-			"url": "http://germanflores.com/2018/05/06/the-way-you.html"
+			"url": "https://germanflores.com/2018/05/06/the-way-you.html"
 		},
 		
 		{
@@ -178,7 +179,7 @@
 	      	
 			"content_text": "\n",
 			"date_published": "2018-05-06T07:45:56-05:00",
-			"url": "http://germanflores.com/2018/05/06/124556.html"
+			"url": "https://germanflores.com/2018/05/06/124556.html"
 		},
 		
 		{
@@ -186,7 +187,7 @@
 	      	
 			"content_text": "\n",
 			"date_published": "2018-05-01T06:52:47-05:00",
-			"url": "http://germanflores.com/2018/05/01/115247.html"
+			"url": "https://germanflores.com/2018/05/01/115247.html"
 		},
 		
 		{
@@ -194,7 +195,7 @@
 	      	
 			"content_text": "Chicago, Illinois\n\n\n",
 			"date_published": "2018-04-21T08:47:34-05:00",
-			"url": "http://germanflores.com/2018/04/21/134734.html"
+			"url": "https://germanflores.com/2018/04/21/134734.html"
 		},
 		
 		{
@@ -202,7 +203,7 @@
 	      	
 			"content_text": "Chicago Illinois\n\n\n",
 			"date_published": "2018-04-09T19:45:46-05:00",
-			"url": "http://germanflores.com/2018/04/09/chicago-illinois.html"
+			"url": "https://germanflores.com/2018/04/09/chicago-illinois.html"
 		},
 		
 		{
@@ -210,7 +211,7 @@
 	      	
 			"content_text": "Morning ride, cool but sunny. 30 miles 17F\n\n\n",
 			"date_published": "2018-04-07T11:28:45-05:00",
-			"url": "http://germanflores.com/2018/04/07/morning-ride-cool.html"
+			"url": "https://germanflores.com/2018/04/07/morning-ride-cool.html"
 		},
 		
 		{
@@ -218,7 +219,7 @@
 	      	
 			"content_text": "For any meeting sethgodin.typepad.com Who’s meeting is this? A simple...",
 			"date_published": "2018-04-02T06:25:20-05:00",
-			"url": "http://germanflores.com/2018/04/02/for-any-meeting.html"
+			"url": "https://germanflores.com/2018/04/02/for-any-meeting.html"
 		},
 		
 		{
@@ -226,7 +227,7 @@
 	      	
 			"content_text": "\n",
 			"date_published": "2018-03-30T14:55:07-05:00",
-			"url": "http://germanflores.com/2018/03/30/195507.html"
+			"url": "https://germanflores.com/2018/03/30/195507.html"
 		},
 		
 		{
@@ -236,7 +237,7 @@
 			
 			"content_text": "“Your engine light came on for a reason, and these...",
 			"date_published": "2017-12-08T00:00:00-06:00",
-			"url": "http://germanflores.com/2017/12/08/car-amp-team.html"
+			"url": "https://germanflores.com/2017/12/08/car-amp-team.html"
 		},
 		
 		{
@@ -246,7 +247,7 @@
 			
 			"content_text": "I have a job, stable family life, health. This is...",
 			"date_published": "2017-11-19T00:00:00-06:00",
-			"url": "http://germanflores.com/2017/11/19/this-is-the.html"
+			"url": "https://germanflores.com/2017/11/19/this-is-the.html"
 		},
 		
 		{
@@ -256,7 +257,7 @@
 			
 			"content_text": "Today I received a meeting request that did not convince...",
 			"date_published": "2017-11-02T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/11/02/not-convinced-i.html"
+			"url": "https://germanflores.com/2017/11/02/not-convinced-i.html"
 		},
 		
 		{
@@ -266,7 +267,7 @@
 			
 			"content_text": "Besides a lower capacity there other downsides to small (e.g....",
 			"date_published": "2017-10-19T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/10/19/small-software-development.html"
+			"url": "https://germanflores.com/2017/10/19/small-software-development.html"
 		},
 		
 		{
@@ -276,7 +277,7 @@
 			
 			"content_text": "Fiction can help us here, this time in its form,...",
 			"date_published": "2017-06-10T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/06/10/workplace-fiction.html"
+			"url": "https://germanflores.com/2017/06/10/workplace-fiction.html"
 		},
 		
 		{
@@ -286,7 +287,7 @@
 			
 			"content_text": "On a previous post titled Why We Write Stories I...",
 			"date_published": "2017-06-07T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/06/07/what-is-a.html"
+			"url": "https://germanflores.com/2017/06/07/what-is-a.html"
 		},
 		
 		{
@@ -296,7 +297,7 @@
 			
 			"content_text": "I watch these and I thought you might like them:...",
 			"date_published": "2017-05-27T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/27/when-i-watch.html"
+			"url": "https://germanflores.com/2017/05/27/when-i-watch.html"
 		},
 		
 		{
@@ -306,7 +307,7 @@
 			
 			"content_text": "What do folks in the Scrum Master role do in...",
 			"date_published": "2017-05-19T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/19/what-does-the.html"
+			"url": "https://germanflores.com/2017/05/19/what-does-the.html"
 		},
 		
 		{
@@ -316,7 +317,7 @@
 			
 			"content_text": "The last few years in the Scrum Master role my...",
 			"date_published": "2017-05-13T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/13/the-way-i.html"
+			"url": "https://germanflores.com/2017/05/13/the-way-i.html"
 		},
 		
 		{
@@ -326,7 +327,7 @@
 			
 			"content_text": "For folks new to the Scrum Masters role, I am...",
 			"date_published": "2017-05-12T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/12/minding-the-team.html"
+			"url": "https://germanflores.com/2017/05/12/minding-the-team.html"
 		},
 		
 		{
@@ -336,7 +337,7 @@
 			
 			"content_text": "In the Leapfrog Technology Team, we use the Scrum framework...",
 			"date_published": "2017-05-10T00:00:00-05:00",
-			"url": "http://germanflores.com/2017/05/10/why-we-write.html"
+			"url": "https://germanflores.com/2017/05/10/why-we-write.html"
 		},
 		
 		{
@@ -346,7 +347,7 @@
 			
 			"content_text": "soundcloud.com/brakeless…\n",
 			"date_published": "2016-12-24T00:00:00-06:00",
-			"url": "http://germanflores.com/2016/12/24/favorite-tracks.html"
+			"url": "https://germanflores.com/2016/12/24/favorite-tracks.html"
 		},
 		
 		{
@@ -356,7 +357,7 @@
 			
 			"content_text": "www.youtube.com/watch\n",
 			"date_published": "2016-12-16T00:00:00-06:00",
-			"url": "http://germanflores.com/2016/12/16/simon-sinek-understanding.html"
+			"url": "https://germanflores.com/2016/12/16/simon-sinek-understanding.html"
 		},
 		
 		{
@@ -366,7 +367,7 @@
 			
 			"content_text": "twitter.com/manisha72…\n",
 			"date_published": "2016-12-16T00:00:00-06:00",
-			"url": "http://germanflores.com/2016/12/16/psychological-safety.html"
+			"url": "https://germanflores.com/2016/12/16/psychological-safety.html"
 		}
 		
 	]
