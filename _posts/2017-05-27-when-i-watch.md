@@ -3,7 +3,8 @@ layout: post
 title: "When I Watch Youtube Videos With The Kids"
 microblog: false
 audio: 
-date: 2017-05-27 00:00:00 -0500
+photo: 
+date: 2017-05-26 23:00:00 -0600
 guid: http://germanflores.micro.blog/2017/05/27/when-i-watch.html
 ---
 
