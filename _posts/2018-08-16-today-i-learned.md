@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-16 06:43:04 -0500
+photo: 
+date: 2018-08-16 05:43:04 -0600
 guid: http://germanflores.micro.blog/2018/08/16/today-i-learned.html
 ---
 Today I learned these acronyms 
