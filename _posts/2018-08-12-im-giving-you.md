@@ -2,7 +2,8 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-12 07:09:19 -0500
+photo: 
+date: 2018-08-12 06:09:19 -0600
 guid: http://germanflores.micro.blog/2018/08/12/im-giving-you.html
 ---
 
