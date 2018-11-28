@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/11/28/get-your-spikes.html",
+	      	
+			"content_html": "<p>Get your spikes out, chilly 15F ⛄️</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/2bf4686120.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-11-28T10:49:41-06:00",
+			"url": "https://germanflores.com/2018/11/28/get-your-spikes.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/08/28/roman-pichler-writes.html",
 	      	
 			"content_html": "<p>Roman Pichler writes about digital transformations in the context of having a useful Product role, great insight and topics for companies transforming</p>\n\n<p><a href=\"https://www.romanpichler.com/blog/digital-transformation-and-product-management/\">www.romanpichler.com/blog/digi…</a></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>Chicago, Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/5e7db671eb.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-04-21T08:47:34-05:00",
 			"url": "https://germanflores.com/2018/04/21/134734.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/04/10/chicago-illinois.html",
-	      	
-			"content_html": "<p>Chicago Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/ada4aff62d.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-09T19:45:46-05:00",
-			"url": "https://germanflores.com/2018/04/09/chicago-illinois.html"
 		}
 		
 	]
