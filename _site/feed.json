@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/11/30/angi-english-carolinagal.html",
+	      	
+			"content_html": "<p>Angi English @Carolinagal14 explains the five principles of high reliability organizations, the principles can relate to software development teams.</p>\n\n<p><a href=\"https://medium.com/homeland-security/for-want-of-a-nail-learning-from-high-reliability-organizations-32d0c1995bc2\">medium.com/homeland-…</a></p>\n",
+			"date_published": "2018-11-30T06:34:45-06:00",
+			"url": "https://germanflores.com/2018/11/30/angi-english-carolinagal.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/11/28/get-your-spikes.html",
 	      	
 			"content_html": "<p>Get your spikes out, chilly 15F ⛄️</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/2bf4686120.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -57,7 +65,7 @@
 		{
 			"id": "http://germanflores.micro.blog/2018/08/05/114253.html",
 	      	
-			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/0239a90fbc.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"content_html": "<p><img src=\"https://germanflores.com/uploads/2018/0239a90fbc.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-08-05T06:42:53-05:00",
 			"url": "https://germanflores.com/2018/08/05/114253.html"
 		},
@@ -169,7 +177,7 @@
 		{
 			"id": "http://germanflores.micro.blog/2018/05/20/kenosha-port-washington.html",
 	      	
-			"content_html": "<p>Kenosha ➡️ Port Washington WI, 70 miles</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/1ef18c2266.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"content_html": "<p>Kenosha ➡️ Port Washington WI, 70 miles</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/1ef18c2266.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-05-19T22:23:27-05:00",
 			"url": "https://germanflores.com/2018/05/19/kenosha-port-washington.html"
 		},
@@ -185,7 +193,7 @@
 		{
 			"id": "http://germanflores.micro.blog/2018/05/06/124556.html",
 	      	
-			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/8d4b4cecc7.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"content_html": "<p><img src=\"https://germanflores.com/uploads/2018/8d4b4cecc7.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-05-06T07:45:56-05:00",
 			"url": "https://germanflores.com/2018/05/06/124556.html"
 		},
@@ -193,17 +201,9 @@
 		{
 			"id": "http://germanflores.micro.blog/2018/05/01/115247.html",
 	      	
-			"content_html": "<p><img src=\"http://germanflores.com/uploads/2018/b543aa2ed3.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p><img src=\"https://germanflores.com/uploads/2018/b543aa2ed3.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-01T06:52:47-05:00",
 			"url": "https://germanflores.com/2018/05/01/115247.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/04/21/134734.html",
-	      	
-			"content_html": "<p>Chicago, Illinois</p>\n\n<p><img src=\"http://germanflores.com/uploads/2018/5e7db671eb.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-04-21T08:47:34-05:00",
-			"url": "https://germanflores.com/2018/04/21/134734.html"
 		}
 		
 	]
