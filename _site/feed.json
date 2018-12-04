@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/12/03/today-i-updated.html",
+	      	
+			"content_html": "<p>Today I updated my Certified ScrumMaster® and Certified Scrum Product Owner® certifications from the Scrum Alliance</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/841ef27189.jpg\" width=\"300\" height=\"300\" /><img src=\"https://germanflores.com/uploads/2018/f5bf51e240.jpg\" width=\"300\" height=\"300\" /></p>\n",
+			"date_published": "2018-12-03T13:54:54-06:00",
+			"url": "https://germanflores.com/2018/12/03/today-i-updated.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/12/03/i-run-in.html",
 	      	
 			"content_html": "<p>I run in the darkness 🏃🏾🔦</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/51bee234cc.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>The way you do anything, is the way you do everything — Terri Savelle Foy</p>\n",
 			"date_published": "2018-05-06T20:02:14-05:00",
 			"url": "https://germanflores.com/2018/05/06/the-way-you.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/05/06/124556.html",
-	      	
-			"content_html": "<p><img src=\"https://germanflores.com/uploads/2018/8d4b4cecc7.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-05-06T07:45:56-05:00",
-			"url": "https://germanflores.com/2018/05/06/124556.html"
 		}
 		
 	]
