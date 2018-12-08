@@ -7,6 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/12/08/last-day-at.html",
+			
+			"content_text": "<p>Last day at work for one of our software engineers, Slivovitz time</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/d1a31ba120.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-08T09:51:18-06:00",
+			"url": "https://germanflores.com/2018/12/08/last-day-at.html",
+			"image": "https://germanflores.com/uploads/2018/d1a31ba120.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://germanflores.com/uploads/2018/d1a31ba120.jpg"
+			}
+		},
+		{
 			"id": "http://germanflores.micro.blog/2018/12/03/today-i-updated.html",
 			
 			"content_text": "<p>Today I updated my Certified ScrumMaster® and Certified Scrum Product Owner® certifications from the Scrum Alliance</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/841ef27189.jpg\" width=\"300\" height=\"300\" /><img src=\"https://germanflores.com/uploads/2018/f5bf51e240.jpg\" width=\"300\" height=\"300\" /></p>\n",
