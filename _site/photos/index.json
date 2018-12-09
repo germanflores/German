@@ -7,6 +7,17 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/12/09/cold-roll.html",
+			
+			"content_text": "<p>Cold Roll 🚲</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/85304596b9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-09T09:02:37-06:00",
+			"url": "https://germanflores.com/2018/12/09/cold-roll.html",
+			"image": "https://germanflores.com/uploads/2018/85304596b9.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://germanflores.com/uploads/2018/85304596b9.jpg"
+			}
+		},
+		{
 			"id": "http://germanflores.micro.blog/2018/12/08/last-day-at.html",
 			
 			"content_text": "<p>Last day at work for one of our software engineers, Slivovitz time</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/d1a31ba120.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
