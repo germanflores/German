@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://germanflores.micro.blog/2018/12/09/cold-roll.html",
+	      	
+			"content_html": "<p>Cold Roll 🚲</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/85304596b9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+			"date_published": "2018-12-09T09:02:37-06:00",
+			"url": "https://germanflores.com/2018/12/09/cold-roll.html"
+		},
+		
+		{
 			"id": "http://germanflores.micro.blog/2018/12/08/last-day-at.html",
 	      	
 			"content_html": "<p>Last day at work for one of our software engineers, Slivovitz time</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/d1a31ba120.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
@@ -196,14 +204,6 @@
 			"content_html": "<p>John Allspaw @allspaw writes about facilitating debriefs about incidents, gives examples of how a facilitator can leverage the incident as a learning opportunity for the team</p>\n\n<p><a href=\"https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/\">codeascraft.com/2016/11/1…</a></p>\n",
 			"date_published": "2018-06-22T14:50:39-05:00",
 			"url": "https://germanflores.com/2018/06/22/john-allspaw-allspaw.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/05/20/kenosha-port-washington.html",
-	      	
-			"content_html": "<p>Kenosha ➡️ Port Washington WI, 70 miles</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/1ef18c2266.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-05-19T22:23:27-05:00",
-			"url": "https://germanflores.com/2018/05/19/kenosha-port-washington.html"
 		}
 		
 	]
