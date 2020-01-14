@@ -1,10 +1,8 @@
 ---
 layout: post
 title: The Way I talk about Scrum
-
 ---
-
-<amp-img width="4032" height="3024" layout="responsive" src="/assets/images/2017-05-13-words.jpg"></amp-img>
+<img src="/assets/images/2017-05-13-words.jpg">
 
 The last few years in the Scrum Master role my perspective about Scrum related words has changed. Here are a few words that I’m trying to change in my vocabulary when I’m teaching others about Agile philosophies and the Scrum framework.
 

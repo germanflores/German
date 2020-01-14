@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "Minding the Team Expectations for Folks in the Scrum Master Role"
-microblog: false
-audio: 
-photo: 
 date: 2017-05-11 23:00:00 -0600
-guid: http://germanflores.micro.blog/2017/05/12/minding-the-team.html
 ---
 For folks new to the Scrum Masters role, I am not expecting expert knowledge on Technology, Scrum, or Software Development. 
 

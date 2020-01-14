@@ -1,9 +1,8 @@
 ---
 layout: post
 title: When I Watch Youtube Videos With The Kids
-
 ---
-<amp-img width="1600" height="1200" layout="responsive" src="/assets/images/chicago-Oct-2010-6.jpg"></amp-img>
+<img src="/assets/images/chicago-Oct-2010-6.jpg">
 
 I watch these and I thought you might like them:
 

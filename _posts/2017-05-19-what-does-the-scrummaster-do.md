@@ -1,11 +1,9 @@
 ---
 layout: post
 title: What Does The Scrum Master Role Do in a Team?
-
 ---
 
-<amp-img width="4224" height="2376" layout="responsive" src="/assets/images/2017-05-19-scrum-master-in-a-team.jpg"></amp-img>
-
+<img src="/assets/images/2017-05-19-scrum-master-in-a-team.jpg">
 
 What do folks in the Scrum Master role do in Leapfrog Technology Teams?
 

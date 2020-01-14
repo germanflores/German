@@ -4,9 +4,9 @@ title: Minding the Team Expectations for Folks in the Scrum Master Role
 
 ---
 
-<amp-img width="3967" height="2231" layout="responsive" src="/assets/images/2017-05-12-inwards.png"></amp-img>
+<img src="/assets/images/2017-05-12-inwards.png">
 
-For folks new to the Scrum Masters role, I am not expecting expert knowledge on Technology, Scrum, or Software Development. 
+For folks new to the Scrum Masters role, I am not expecting expert knowledge on Technology, Scrum, or Software Development.
 
 I am expecting:
 
