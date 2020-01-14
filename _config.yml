@@ -47,7 +47,7 @@ paginate: 20
 paginate_path: "/page/:num/"
 timezone: "US/Indiana-Starke"
 site_id: "3687"
-gems: ["jekyll-paginate"]
+plugins: ["jekyll-paginate"]
 itunes_description: "I help teams implement effective practices to manage work and grow people using Agile principles and frameworks. I’m passionate about working with folks and helping them fulfill their potential."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
