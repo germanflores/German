@@ -25,10 +25,10 @@ defaults:
 
 title: "German Flores"
 tagline: ""
-description: "Follow <a href=\"https://micro.blog/germanflores\">@germanflores on Micro.blog</a>."
-credits: "Follow <a href=\"https://micro.blog/germanflores\">@germanflores on Micro.blog</a>."
+description: "Description"
+credits: "credits"
 baseurl: ""
-url: "https://germanflores.com"
+url: "https://germanflores.github.io"
 markdown: "kramdown"
 username: "germanflores"
 microblog_user: "germanflores"
