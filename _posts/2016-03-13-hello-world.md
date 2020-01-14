@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hello World!"
-microblog: false
 audio:
 date: 2016-03-13 01:00 -0500
 ---
