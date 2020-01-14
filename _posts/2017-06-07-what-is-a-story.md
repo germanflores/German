@@ -3,7 +3,7 @@ layout: post
 title: What Is a Story
 
 ---
-<amp-img width="4032" height="3024" layout="responsive" src="/assets/images/stories-2017-06-07.jpg"></amp-img>
+<img src="/assets/images/stories-2017-06-07.jpg">
 
 
 On a previous post titled Why We Write Stories I took a light-hearted approach to the value we get from writing stories, in this post I want to write about why we write stories, the components of a story, when we don’t write stories, and how we use stories in our Scrum implementation at Leapfrog.
@@ -12,11 +12,11 @@ On a previous post titled Why We Write Stories I took a light-hearted approach t
 
 ### Why We Write Stories
 
-Let’s start with "why" we write stories. 
+Let’s start with "why" we write stories.
 
 Stories are a ‘simple’ format to articulate and communicate requests for work; they can also be a placeholder for people to have conversations about work.
 
-Stories also provide a common language for folks to align and have an agreed definition of done. They mitigate sticky situations of “that is not what I asked for” or “I forgot to add this to the request.” 
+Stories also provide a common language for folks to align and have an agreed definition of done. They mitigate sticky situations of “that is not what I asked for” or “I forgot to add this to the request.”
 
 > Acting Agile does not mean evergreen or daily changing requirements, it means building and delivering software incrementally, reflecting, and learning.
 
@@ -24,7 +24,7 @@ Stories help the team gain a shared understanding of the work and reach a shared
 
 ### Story Titles
 
-The title should describe an activity. Let the story name be the starting point for determining what “done” looks like. Ideally, the story title should describe actual behavior by a person in the system. 
+The title should describe an activity. Let the story name be the starting point for determining what “done” looks like. Ideally, the story title should describe actual behavior by a person in the system.
 
 ### Story
 

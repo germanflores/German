@@ -3,7 +3,7 @@ layout: post
 title: Small Software Development Teams
 
 ---
-<amp-img width="4032" height="3024" layout="responsive" src="{{ site.url }}/assets/images/2017-10-19-team-doughnuts.jpg"></amp-img>
+<img src="{{ site.url }}/assets/images/2017-10-19-team-doughnuts.jpg">
 
 Besides a lower capacity there other downsides to small (e.g. three) engineering teams.
 

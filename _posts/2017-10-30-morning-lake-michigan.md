@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Morning in Lake Michigan
+date: 2017-10-30 23:00:00
 
 ---
-<amp-img width="4032" height="3024" layout="responsive" src="{{ site.url }}/assets/images/2017-10-26-lake-michigan.jpg"></amp-img>
+<img src="{{ site.url }}/assets/images/2017-10-26-lake-michigan.jpg">

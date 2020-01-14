@@ -3,7 +3,7 @@ layout: page
 title: Not Convinced I Should Attend
 
 ---
-<amp-img width="4032" height="3024" layout="responsive" src="{{ site.url }}/assets/images/2017-11-02-chicago-river.jpg"></amp-img>
+<img src="{{ site.url }}/assets/images/2017-11-02-chicago-river.jpg">
 
 Today I received a meeting request that did not convince me that I should attend. This is how I responded before accepting the meeting:
 
