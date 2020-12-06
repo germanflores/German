@@ -2,420 +2,720 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "German Flores",
 	"icon": "https://micro.blog/germanflores/avatar.jpg",
-	"home_page_url": "https://germanflores.com/",
-	"feed_url": "https://germanflores.com/archive/index.json",
+	"home_page_url": "http://localhost:4000/",
+	"feed_url": "http://localhost:4000/archive/index.json",
 	"items": [
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/12/09/cold-roll.html",
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2020-12-06T00:00:00-06:00",
+			"url": "http://localhost:4000/2020/12/06/mechanical-keyboard.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "We have all experienced changes in the last six months....",
+			"date_published": "2020-09-04T00:00:00-05:00",
+			"url": "http://localhost:4000/2020/09/04/dealing-with-the-changes.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Toby Sinclair shares a list of life coaching books he...",
+			"date_published": "2020-08-20T01:00:00-05:00",
+			"url": "http://localhost:4000/2020/08/20/life-coaching-books.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "The current situation for non-white people in our country is...",
+			"date_published": "2020-06-01T00:00:00-05:00",
+			"url": "http://localhost:4000/2020/06/01/equitable.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Black Lives Matter Week My kids elementary school is doing...",
+			"date_published": "2019-11-06T00:00:00-06:00",
+			"url": "http://localhost:4000/2019/11/06/black-lives-matter-week.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "On Learning “When one teaches, two learn.” — Robert Heinlein...",
+			"date_published": "2019-11-06T00:00:00-06:00",
+			"url": "http://localhost:4000/2019/11/06/on-learning.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Ego is the enemy Failure and adversity are relative and...",
+			"date_published": "2019-11-06T00:00:00-06:00",
+			"url": "http://localhost:4000/2019/11/06/ego-is-the-enemy.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "On Departures People leaving the company is not a cause...",
+			"date_published": "2019-10-28T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/10/28/on-departures.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Lake Michigan\n\n\n",
+			"date_published": "2019-10-08T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/10/08/lake-michigan.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Evanston, IL\n\n\n",
+			"date_published": "2019-09-19T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/09/19/evanston-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Chicago, IL\n\n\n",
+			"date_published": "2019-09-19T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/09/19/chicago-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Chicago, IL\n\n\n",
+			"date_published": "2019-06-12T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/06/12/chicago-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Highwood, IL\n\n\n",
+			"date_published": "2019-06-08T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/06/08/highwood-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Sunrise Run\n\n\n",
+			"date_published": "2019-06-07T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/06/07/sunrise-run.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Courage isn’t the opposite of fear, but of comfort. —...",
+			"date_published": "2019-06-05T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/06/05/courage.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Chicago, Il\n\n\n",
+			"date_published": "2019-05-30T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/05/30/chicago-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Evanston, Il\n\n\n",
+			"date_published": "2019-05-30T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/05/30/evanston-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Chicago, Il\n\n\n",
+			"date_published": "2019-05-29T16:09:47-05:00",
+			"url": "http://localhost:4000/2019/05/29/chicago-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "Evanston, IL\n\n\n",
+			"date_published": "2019-05-28T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/05/28/evanston-il.html"
+		},
+		
+		{
+			"id": "",
 	      	
 			"content_text": "Cold Roll 🚲\n\n\n",
 			"date_published": "2018-12-09T09:02:37-06:00",
-			"url": "https://germanflores.com/2018/12/09/cold-roll.html"
+			"url": "http://localhost:4000/2018/12/09/cold-roll.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/12/08/last-day-at.html",
+			"id": "",
 	      	
 			"content_text": "Last day at work for one of our software engineers,...",
 			"date_published": "2018-12-08T09:51:18-06:00",
-			"url": "https://germanflores.com/2018/12/08/last-day-at.html"
+			"url": "http://localhost:4000/2018/12/08/last-day-at.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/12/03/today-i-updated.html",
+			"id": "",
 	      	
 			"content_text": "Today I updated my Certified ScrumMaster® and Certified Scrum Product...",
 			"date_published": "2018-12-03T13:54:54-06:00",
-			"url": "https://germanflores.com/2018/12/03/today-i-updated.html"
+			"url": "http://localhost:4000/2018/12/03/today-i-updated.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/12/03/i-run-in.html",
+			"id": "",
 	      	
 			"content_text": "I run in the darkness 🏃🏾🔦\n\n\n",
 			"date_published": "2018-12-03T06:52:28-06:00",
-			"url": "https://germanflores.com/2018/12/03/i-run-in.html"
+			"url": "http://localhost:4000/2018/12/03/i-run-in.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/11/30/angi-english-carolinagal.html",
+			"id": "",
 	      	
 			"content_text": "Angi English @Carolinagal14 explains the five principles of high reliability...",
 			"date_published": "2018-11-30T06:34:45-06:00",
-			"url": "https://germanflores.com/2018/11/30/angi-english-carolinagal.html"
+			"url": "http://localhost:4000/2018/11/30/angi-english-carolinagal.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/11/28/get-your-spikes.html",
+			"id": "",
 	      	
 			"content_text": "Get your spikes out, chilly 15F ⛄️\n\n\n",
 			"date_published": "2018-11-28T10:49:41-06:00",
-			"url": "https://germanflores.com/2018/11/28/get-your-spikes.html"
+			"url": "http://localhost:4000/2018/11/28/get-your-spikes.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/08/28/roman-pichler-writes.html",
+			"id": "",
 	      	
 			"content_text": "Roman Pichler writes about digital transformations in the context of...",
 			"date_published": "2018-08-28T10:48:52-05:00",
-			"url": "https://germanflores.com/2018/08/28/roman-pichler-writes.html"
+			"url": "http://localhost:4000/2018/08/28/roman-pichler-writes.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/08/16/today-i-learned.html",
+			"id": "",
 	      	
 			"content_text": "Today I learned these acronyms FOLO: Fear of Living Off-line....",
 			"date_published": "2018-08-16T06:43:04-05:00",
-			"url": "https://germanflores.com/2018/08/16/today-i-learned.html"
+			"url": "http://localhost:4000/2018/08/16/today-i-learned.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/08/12/im-giving-you.html",
+			"id": "",
 	      	
 			"content_text": "“I’m giving you these comments because I have very high...",
 			"date_published": "2018-08-12T07:09:19-05:00",
-			"url": "https://germanflores.com/2018/08/12/im-giving-you.html"
+			"url": "http://localhost:4000/2018/08/12/im-giving-you.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/08/06/roberto-dip-roperzh.html",
+			"id": "",
 	      	
 			"content_text": "Roberto Dip @roperzh writes about communication and tactics he has...",
 			"date_published": "2018-08-06T12:06:18-05:00",
-			"url": "https://germanflores.com/2018/08/06/roberto-dip-roperzh.html"
+			"url": "http://localhost:4000/2018/08/06/roberto-dip-roperzh.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/08/05/avi-revivo-avirevivo.html",
+			"id": "",
 	      	
 			"content_text": "Avi Revivo @Avi_Revivo writes about business process and three questions...",
 			"date_published": "2018-08-05T15:37:33-05:00",
-			"url": "https://germanflores.com/2018/08/05/avi-revivo-avirevivo.html"
+			"url": "http://localhost:4000/2018/08/05/avi-revivo-avirevivo.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/08/05/114253.html",
+			"id": "",
 	      	
 			"content_text": "\n",
 			"date_published": "2018-08-05T06:42:53-05:00",
-			"url": "https://germanflores.com/2018/08/05/114253.html"
+			"url": "http://localhost:4000/2018/08/05/114253.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/08/02/jean-hsu-jyhsu.html",
+			"id": "",
 	      	
 			"content_text": "Jean Hsu @jyhsu writes about getting buy-in for work that...",
 			"date_published": "2018-08-02T16:19:03-05:00",
-			"url": "https://germanflores.com/2018/08/02/jean-hsu-jyhsu.html"
+			"url": "http://localhost:4000/2018/08/02/jean-hsu-jyhsu.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/08/02/found-this-team.html",
+			"id": "",
 	      	
 			"content_text": "Found this team activity interesting tottinge - I had a...",
 			"date_published": "2018-08-02T15:42:11-05:00",
-			"url": "https://germanflores.com/2018/08/02/found-this-team.html"
+			"url": "http://localhost:4000/2018/08/02/found-this-team.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/07/30/michael-robert-bernstein.html",
+			"id": "",
 	      	
 			"content_text": "Michael Robert Bernstein @mrbbk writes about the value of teams...",
 			"date_published": "2018-07-30T06:32:51-05:00",
-			"url": "https://germanflores.com/2018/07/30/michael-robert-bernstein.html"
+			"url": "http://localhost:4000/2018/07/30/michael-robert-bernstein.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/07/30/steve-shogren-steveshogren.html",
+			"id": "",
 	      	
 			"content_text": "Steve Shogren @steveshogren writes about pair programming, great perspective on...",
 			"date_published": "2018-07-29T21:11:21-05:00",
-			"url": "https://germanflores.com/2018/07/29/steve-shogren-steveshogren.html"
+			"url": "http://localhost:4000/2018/07/29/steve-shogren-steveshogren.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/07/30/pat-kua-patkua.html",
+			"id": "",
 	      	
 			"content_text": "Pat Kua @patkua writes about folks transitioning to the Tech...",
 			"date_published": "2018-07-29T21:10:07-05:00",
-			"url": "https://germanflores.com/2018/07/29/pat-kua-patkua.html"
+			"url": "http://localhost:4000/2018/07/29/pat-kua-patkua.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/07/30/matthew-mamet-writes.html",
+			"id": "",
 	      	
 			"content_text": "Matthew Mamet writes about Directly Responsible Individuals (DRI) and the...",
 			"date_published": "2018-07-29T20:53:18-05:00",
-			"url": "https://germanflores.com/2018/07/29/matthew-mamet-writes.html"
+			"url": "http://localhost:4000/2018/07/29/matthew-mamet-writes.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/07/27/anna-goss-annagoss.html",
+			"id": "",
 	      	
 			"content_text": "Anna Goss @annagoss writes about techniques to build high performing...",
 			"date_published": "2018-07-27T16:40:48-05:00",
-			"url": "https://germanflores.com/2018/07/27/anna-goss-annagoss.html"
+			"url": "http://localhost:4000/2018/07/27/anna-goss-annagoss.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/06/22/john-cutler-johnpcutler.html",
+			"id": "",
 	      	
 			"content_text": "John Cutler @johnpcutler makes a case for shipping small, interesting...",
 			"date_published": "2018-06-22T16:40:33-05:00",
-			"url": "https://germanflores.com/2018/06/22/john-cutler-johnpcutler.html"
+			"url": "http://localhost:4000/2018/06/22/john-cutler-johnpcutler.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/06/22/chris-sims-chrissims.html",
+			"id": "",
 	      	
 			"content_text": "Chris Sims @ChrisSims writes about the definition of done. A...",
 			"date_published": "2018-06-22T15:38:57-05:00",
-			"url": "https://germanflores.com/2018/06/22/chris-sims-chrissims.html"
+			"url": "http://localhost:4000/2018/06/22/chris-sims-chrissims.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/06/22/203754.html",
+			"id": "",
 	      	
 			"content_text": "Parul Singh @parulia writes about the mindset of prioritization, specifically...",
 			"date_published": "2018-06-22T15:37:54-05:00",
-			"url": "https://germanflores.com/2018/06/22/203754.html"
+			"url": "http://localhost:4000/2018/06/22/203754.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/06/22/parul-singh-parulia.html",
+			"id": "",
 	      	
 			"content_text": "Parul Singh @parulia writes about the mindset of prioritization, specifically...",
 			"date_published": "2018-06-22T15:37:28-05:00",
-			"url": "https://germanflores.com/2018/06/22/parul-singh-parulia.html"
+			"url": "http://localhost:4000/2018/06/22/parul-singh-parulia.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/06/22/jake-calabrese-jcalabrese.html",
+			"id": "",
 	      	
 			"content_text": "Jake Calabrese @jcalabrese writes about teams “self-manages the work” vs....",
 			"date_published": "2018-06-22T15:20:34-05:00",
-			"url": "https://germanflores.com/2018/06/22/jake-calabrese-jcalabrese.html"
+			"url": "http://localhost:4000/2018/06/22/jake-calabrese-jcalabrese.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/06/22/john-allspaw-allspaw.html",
+			"id": "",
 	      	
 			"content_text": "John Allspaw @allspaw writes about facilitating debriefs about incidents, gives...",
 			"date_published": "2018-06-22T14:50:39-05:00",
-			"url": "https://germanflores.com/2018/06/22/john-allspaw-allspaw.html"
+			"url": "http://localhost:4000/2018/06/22/john-allspaw-allspaw.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/05/20/kenosha-port-washington.html",
+			"id": "",
 	      	
 			"content_text": "Kenosha ➡️ Port Washington WI, 70 miles\n\n\n",
 			"date_published": "2018-05-19T22:23:27-05:00",
-			"url": "https://germanflores.com/2018/05/19/kenosha-port-washington.html"
+			"url": "http://localhost:4000/2018/05/19/kenosha-port-washington.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/05/07/the-way-you.html",
+			"id": "http://germanflores.micro.blog/2018/05/07/httpstwittercomgermanfloresstatus.html",
+	      	
+			"content_text": "twitter.com/germanflo…\n",
+			"date_published": "2018-05-07T14:31:35-05:00",
+			"url": "http://localhost:4000/2018/05/07/httpstwittercomgermanfloresstatus.html"
+		},
+		
+		{
+			"id": "",
 	      	
 			"content_text": "The way you do anything, is the way you do...",
 			"date_published": "2018-05-06T20:02:14-05:00",
-			"url": "https://germanflores.com/2018/05/06/the-way-you.html"
+			"url": "http://localhost:4000/2018/05/06/the-way-you.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/05/06/124556.html",
+			"id": "",
 	      	
 			"content_text": "\n",
 			"date_published": "2018-05-06T07:45:56-05:00",
-			"url": "https://germanflores.com/2018/05/06/124556.html"
+			"url": "http://localhost:4000/2018/05/06/124556.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/05/01/115247.html",
+			"id": "",
 	      	
 			"content_text": "\n",
 			"date_published": "2018-05-01T06:52:47-05:00",
-			"url": "https://germanflores.com/2018/05/01/115247.html"
+			"url": "http://localhost:4000/2018/05/01/115247.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/04/21/134734.html",
+			"id": "",
 	      	
-			"content_text": "Chicago, Illinois\n\n\n",
-			"date_published": "2018-04-21T08:47:34-05:00",
-			"url": "https://germanflores.com/2018/04/21/134734.html"
+			"content_text": "My conjecture is that this reality will soon shift. Simply...",
+			"date_published": "2018-04-21T08:21:11-05:00",
+			"url": "http://localhost:4000/2018/04/21/my-conjecture-is.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/04/10/chicago-illinois.html",
+			"id": "",
 	      	
 			"content_text": "Chicago Illinois\n\n\n",
 			"date_published": "2018-04-09T19:45:46-05:00",
-			"url": "https://germanflores.com/2018/04/09/chicago-illinois.html"
+			"url": "http://localhost:4000/2018/04/09/chicago-illinois.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/04/07/morning-ride-cool.html",
+			"id": "",
 	      	
 			"content_text": "Morning ride, cool but sunny. 30 miles 17F\n\n\n",
 			"date_published": "2018-04-07T11:28:45-05:00",
-			"url": "https://germanflores.com/2018/04/07/morning-ride-cool.html"
+			"url": "http://localhost:4000/2018/04/07/morning-ride-cool.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/04/02/for-any-meeting.html",
+			"id": "",
 	      	
 			"content_text": "For any meeting sethgodin.typepad.com Who’s meeting is this? A simple...",
 			"date_published": "2018-04-02T06:25:20-05:00",
-			"url": "https://germanflores.com/2018/04/02/for-any-meeting.html"
+			"url": "http://localhost:4000/2018/04/02/for-any-meeting.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/03/30/195507.html",
+			"id": "",
 	      	
 			"content_text": "\n",
-			"date_published": "2018-03-30T14:55:07-05:00",
-			"url": "https://germanflores.com/2018/03/30/195507.html"
+			"date_published": "2018-03-30T00:00:00-05:00",
+			"url": "http://localhost:4000/2018/03/30/lake-michigan-waves.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/12/08/car-amp-team.html",
+			"id": "",
 	      	
-			"title": "Car & Team Analogies",
-			
+			"content_text": "\n",
+			"date_published": "2018-02-14T00:00:00-06:00",
+			"url": "http://localhost:4000/2018/02/14/lake-michigan-winter.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "“Your engine light came on for a reason, and these...",
 			"date_published": "2017-12-08T00:00:00-06:00",
-			"url": "https://germanflores.com/2017/12/08/car-amp-team.html"
+			"url": "http://localhost:4000/2017/12/08/car-team-analogies.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/11/19/this-is-the.html",
+			"id": "",
 	      	
-			"title": "This Is the Time",
-			
+			"content_text": "\n",
+			"date_published": "2017-12-04T00:00:00-06:00",
+			"url": "http://localhost:4000/2017/12/04/morning-time.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "I have a job, stable family life, health. This is...",
 			"date_published": "2017-11-19T00:00:00-06:00",
-			"url": "https://germanflores.com/2017/11/19/this-is-the.html"
+			"url": "http://localhost:4000/2017/11/19/this-is-the-time.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/11/02/not-convinced-i.html",
+			"id": "",
 	      	
-			"title": "Not Convinced I Should Attend",
-			
+			"content_text": "\n",
+			"date_published": "2017-11-13T00:00:00-06:00",
+			"url": "http://localhost:4000/2017/11/13/lake-michigan.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "Today I received a meeting request that did not convince...",
 			"date_published": "2017-11-02T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/11/02/not-convinced-i.html"
+			"url": "http://localhost:4000/2017/11/02/attending-meeting.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/10/19/small-software-development.html",
+			"id": "",
 	      	
-			"title": "Small Software Development Teams",
-			
+			"content_text": "\n",
+			"date_published": "2017-10-30T18:00:00-05:00",
+			"url": "http://localhost:4000/2017/10/30/morning-lake-michigan.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "Besides a lower capacity there other downsides to small (e.g....",
 			"date_published": "2017-10-19T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/10/19/small-software-development.html"
+			"url": "http://localhost:4000/2017/10/19/small-software-development-teams.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/06/10/workplace-fiction.html",
+			"id": "",
 	      	
-			"title": "Workplace Fiction",
-			
+			"content_text": "\n",
+			"date_published": "2017-10-14T00:00:00-05:00",
+			"url": "http://localhost:4000/2017/10/14/lake-michigan.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-09-15T00:00:00-05:00",
+			"url": "http://localhost:4000/2017/09/15/gotham.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-08-07T00:00:00-05:00",
+			"url": "http://localhost:4000/2017/08/07/retrospective-starters.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-06-23T00:00:00-05:00",
+			"url": "http://localhost:4000/2017/06/23/do-not-follow.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-06-11T00:00:00-05:00",
+			"url": "http://localhost:4000/2017/06/11/trees.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "Fiction can help us here, this time in its form,...",
 			"date_published": "2017-06-10T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/06/10/workplace-fiction.html"
+			"url": "http://localhost:4000/2017/06/10/workplace-fiction.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/06/07/what-is-a.html",
+			"id": "",
 	      	
-			"title": "What Is a Story",
-			
 			"content_text": "On a previous post titled Why We Write Stories I...",
 			"date_published": "2017-06-07T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/06/07/what-is-a.html"
+			"url": "http://localhost:4000/2017/06/07/what-is-a-story.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/05/27/when-i-watch.html",
+			"id": "",
 	      	
-			"title": "When I Watch Youtube Videos With The Kids",
-			
 			"content_text": "I watch these and I thought you might like them:...",
 			"date_published": "2017-05-27T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/05/27/when-i-watch.html"
+			"url": "http://localhost:4000/2017/05/27/kids-youtubechannels.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/05/19/what-does-the.html",
+			"id": "",
 	      	
-			"title": "What Does The Scrum Master Role Do in a Team?",
-			
 			"content_text": "What do folks in the Scrum Master role do in...",
 			"date_published": "2017-05-19T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/05/19/what-does-the.html"
+			"url": "http://localhost:4000/2017/05/19/what-does-the.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/05/13/the-way-i.html",
+			"id": "",
 	      	
-			"title": "The Way I talk about Scrum",
-			
+			"content_text": "What do folks in the Scrum Master role do in...",
+			"date_published": "2017-05-19T00:00:00-05:00",
+			"url": "http://localhost:4000/2017/05/19/what-does-the-scrummaster-do.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "The last few years in the Scrum Master role my...",
 			"date_published": "2017-05-13T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/05/13/the-way-i.html"
+			"url": "http://localhost:4000/2017/05/13/the-way-i.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/05/12/minding-the-team.html",
+			"id": "",
 	      	
-			"title": "Minding the Team Expectations for Folks in the Scrum Master Role",
-			
+			"content_text": "The last few years in the Scrum Master role my...",
+			"date_published": "2017-05-13T00:00:00-05:00",
+			"url": "http://localhost:4000/2017/05/13/scrum-words.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "For folks new to the Scrum Masters role, I am...",
 			"date_published": "2017-05-12T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/05/12/minding-the-team.html"
+			"url": "http://localhost:4000/2017/05/12/minding-the-team.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2017/05/10/why-we-write.html",
+			"id": "",
 	      	
-			"title": "Why We Write Stories",
-			
+			"content_text": "For folks new to the Scrum Masters role, I am...",
+			"date_published": "2017-05-12T00:00:00-05:00",
+			"url": "http://localhost:4000/2017/05/12/expectations-from-new-scrum-masters.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "In the Leapfrog Technology Team, we use the Scrum framework...",
 			"date_published": "2017-05-10T00:00:00-05:00",
-			"url": "https://germanflores.com/2017/05/10/why-we-write.html"
+			"url": "http://localhost:4000/2017/05/10/stories.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2016/12/24/favorite-tracks.html",
+			"id": "",
 	      	
-			"title": "Favorite tracks 2016",
-			
+			"content_text": "https://mobile.twitter.com/helenbevan/status/836121947541028864\n",
+			"date_published": "2017-03-03T00:00:00-06:00",
+			"url": "http://localhost:4000/2017/03/03/cynefin-framework.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-02-17T00:00:00-06:00",
+			"url": "http://localhost:4000/2017/02/17/water.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2017-01-27T00:00:00-06:00",
+			"url": "http://localhost:4000/2017/01/27/gender-neutral.html"
+		},
+		
+		{
+			"id": "",
+	      	
 			"content_text": "soundcloud.com/brakeless…\n",
 			"date_published": "2016-12-24T00:00:00-06:00",
-			"url": "https://germanflores.com/2016/12/24/favorite-tracks.html"
+			"url": "http://localhost:4000/2016/12/24/favorite-tracks.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2016/12/16/simon-sinek-understanding.html",
+			"id": "",
 	      	
-			"title": "Simon Sinek Understanding The Game We're Playing - One of my favorite videos of the year",
-			
-			"content_text": "www.youtube.com/watch\n",
-			"date_published": "2016-12-16T00:00:00-06:00",
-			"url": "https://germanflores.com/2016/12/16/simon-sinek-understanding.html"
+			"content_text": "This is my iphone screens these days My favorite apps...",
+			"date_published": "2016-12-18T00:00:00-06:00",
+			"url": "http://localhost:4000/2016/12/18/my-iphone-screen.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2016/12/16/psychological-safety.html",
+			"id": "",
 	      	
-			"title": "psychological safety",
-			
-			"content_text": "twitter.com/manisha72…\n",
+			"content_text": "Simon Sinek Understanding The Game We’re Playing\n",
 			"date_published": "2016-12-16T00:00:00-06:00",
-			"url": "https://germanflores.com/2016/12/16/psychological-safety.html"
+			"url": "http://localhost:4000/2016/12/16/simon-sinek-understanding.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "https://twitter.com/manisha72617183/status/804298131529605120\n",
+			"date_published": "2016-12-16T00:00:00-06:00",
+			"url": "http://localhost:4000/2016/12/16/psychological-safety.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2016-12-09T00:00:00-06:00",
+			"url": "http://localhost:4000/2016/12/09/chicago-lakefront.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2016-09-30T00:00:00-05:00",
+			"url": "http://localhost:4000/2016/09/30/morning.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "\n",
+			"date_published": "2016-09-10T00:00:00-05:00",
+			"url": "http://localhost:4000/2016/09/10/saturday-morning.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "This is the new version of my personal space, it’s...",
+			"date_published": "2016-03-13T00:00:00-06:00",
+			"url": "http://localhost:4000/2016/03/13/my-new-post.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_text": "This is the new version of my personal space, it’s...",
+			"date_published": "2016-03-13T00:00:00-06:00",
+			"url": "http://localhost:4000/2016/03/13/hello-world.html"
 		}
 		
 	]

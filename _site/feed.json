@@ -2,208 +2,208 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "German Flores",
 	"icon": "https://micro.blog/germanflores/avatar.jpg",
-	"home_page_url": "https://germanflores.com/",
-	"feed_url": "https://germanflores.com/feed.json",
+	"home_page_url": "http://localhost:4000/",
+	"feed_url": "http://localhost:4000/feed.json",
 	"items": [
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/12/09/cold-roll.html",
+			"id": "",
 	      	
-			"content_html": "<p>Cold Roll 🚲</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/85304596b9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+			"content_html": "<p><img src=\"/assets/images/2020-12-06-mechanical-keyboard.jpeg\" /></p>\n",
+			"date_published": "2020-12-06T00:00:00-06:00",
+			"url": "http://localhost:4000/2020/12/06/mechanical-keyboard.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p><img src=\"/assets/images/nothing-is-static.png\" /></p>\n\n<p>We have all experienced changes in the last six months. Captain Obvious speaking to you here. Some of us are rolling with it and some of us feel overwhelmed, tired of the change, longing for the past.</p>\n\n<p>Now we have to wear masks, mind who we socialize with, no in-person events, no destination vacations, more talk about diversity, equality, politics, policing, un-employment.</p>\n\n<p>If the list of changes is wearing you down, the intention of this post is to help you.</p>\n\n<p>Here are some mindsets I’m trying to cultivate during these times.</p>\n\n<h3 id=\"what-can-i-control\">What Can I Control?</h3>\n\n<p>Sometimes it feels I cannot control anything, but if I look hard enough, I do have control over a few things.</p>\n\n<ul>\n  <li>Keeping a positive attitude in the face of uncertainty</li>\n  <li>Being nice to people</li>\n  <li>Helping my kids prepare for the school year/day</li>\n  <li>Keeping a constant connection with my family via weekly family calls</li>\n  <li>Helping relatives that need help during these times</li>\n</ul>\n\n<h3 id=\"one-day-at-a-time\">One Day at a Time</h3>\n\n<p>Some days, it is best to focus on just what’s infant of me and don’t let the week ahead overwhelm me.</p>\n\n<ul>\n  <li>Prepare for the meetings of the day and the kids schedule</li>\n  <li>Make a list for the day and get the essential things done</li>\n  <li>If I can, take a day-off to rest and catch-up</li>\n</ul>\n\n<h3 id=\"plan-for-the-future\">Plan for the Future</h3>\n\n<p>I look ahead, dream a bit.</p>\n\n<ul>\n  <li>Plan for that vacation, mini-trip, or weekend meal</li>\n  <li>I’ve set up for my winter bicycling equipment and schedule</li>\n  <li>Planning some home projects around the house, learning about hardwood flooring installation</li>\n</ul>\n\n<h3 id=\"doing-something-about-it\">Doing Something About It</h3>\n\n<p>Sometimes I feel that I’m in it for the ride, that I have no agency. If I can, I do something about it.</p>\n\n<ul>\n  <li>I’ve been contributing to my organizations inclusion, diversity, equity, and accountability team (IDEA) to help others</li>\n  <li>I’ve been getting the word out on voting with my family, friends, and neighbors (by the way are you registered to vote, got your mail-in ballot, or are you set up for early voting?)</li>\n  <li>Donated to organizations doing work for the causes that I care about</li>\n</ul>\n\n<h3 id=\"feeling-useful\">Feeling Useful</h3>\n\n<p>Who can I help directly, how can I be of value?</p>\n\n<ul>\n  <li>Supporting the teams at work to best of my ability</li>\n  <li>Helping my family</li>\n  <li>Helping my neighbors</li>\n  <li>Reaching out to friends and acquaintances to say hi</li>\n</ul>\n",
+			"date_published": "2020-09-04T00:00:00-05:00",
+			"url": "http://localhost:4000/2020/09/04/dealing-with-the-changes.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Toby Sinclair shares a <a href=\"https://www.tobysinclair.com/post/5-best-books-about-life-coaching\">list of life coaching books</a> he has read with summary of what he learned and what roles would benefit from reading the book. Great value when somebody does the curation.</p>\n\n<p>Toby Sinclair <a href=\"https://www.linkedin.com/in/tobysinclair/\">LinkedIn</a> - <a href=\"https://twitter.com/TobySinclair_\">Twitter</a> - <a href=\"https://www.tobysinclair.com/\">Blog</a></p>\n",
+			"date_published": "2020-08-20T01:00:00-05:00",
+			"url": "http://localhost:4000/2020/08/20/life-coaching-books.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>The current situation for non-white people in our country is deplorable. Non-white people face inequality in many fundamental ways, in our justice system, in the continued harassment by the police, and in access to opportunities.</p>\n\n<p>Our black employees are probably not surprised by the killings and the systemic racism because they have experienced it through their lives.</p>\n\n<p>Black people, you are loved.</p>\n\n<p>Our management should consider acknowledging the inequitable choices our country continues to make towards nonwhite people. In addition, if management feels compeled to do something beyond acknowledgement they can espouse how we as an organization treat our employees equitably with policies and facts.</p>\n",
+			"date_published": "2020-06-01T00:00:00-05:00",
+			"url": "http://localhost:4000/2020/06/01/equitable.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Black Lives Matter Week</p>\n\n<p><img src=\"/assets/images/2020-01-22-lake-michigan.jpeg\" /></p>\n\n<p>My kids elementary school is doing a Black Lives Matter at School Week of Action next week, topics for the week are</p>\n\n<ul>\n  <li>What is Black Lives Matter Week?</li>\n  <li>Restorative Justice, Empathy &amp; Loving Engagement</li>\n  <li>Diversity &amp; Globalism</li>\n  <li>Queer, Trans-Affirming &amp; Collective Value</li>\n  <li>Intergenerational, Black families &amp; Black villages</li>\n  <li>Black Women &amp; Unapologetically Black</li>\n</ul>\n\n<p>↑ Topics for K-2 grades. I’m sharing because it is encouraging to see these conversations happening in a school environment.</p>\n\n<p>source: <a href=\"blmweekd65.weebly.com\">blmweekd65.weebly.com</a></p>\n",
+			"date_published": "2019-11-06T00:00:00-06:00",
+			"url": "http://localhost:4000/2019/11/06/black-lives-matter-week.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>On Learning</p>\n\n<blockquote>\n  <p>“When one teaches, two learn.” — Robert Heinlein</p>\n</blockquote>\n",
+			"date_published": "2019-11-06T00:00:00-06:00",
+			"url": "http://localhost:4000/2019/11/06/on-learning.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Ego is the enemy</p>\n\n<blockquote>\n  <p>Failure and adversity are relative and unique to each of us. – Ryan Holiday</p>\n</blockquote>\n",
+			"date_published": "2019-11-06T00:00:00-06:00",
+			"url": "http://localhost:4000/2019/11/06/ego-is-the-enemy.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>On Departures</p>\n\n<p>People leaving the company is not a cause for celebration, but it should be acknowledged. When someone leaves the company we want to make sure that everyone knows, this is what the person contributed to the organization, this is how long they have worked here, and we thank them, we send them off with dignity.</p>\n",
+			"date_published": "2019-10-28T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/10/28/on-departures.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Lake Michigan</p>\n\n<p><img src=\"/assets/images/2019-10-08-lake-michigan.jpeg\" /></p>\n",
+			"date_published": "2019-10-08T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/10/08/lake-michigan.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Evanston, IL</p>\n\n<p><img src=\"/assets/images/2019-09-19-evanston-il.jpg\" /></p>\n",
+			"date_published": "2019-09-19T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/09/19/evanston-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Chicago, IL</p>\n\n<p><img src=\"/assets/images/2019-09-19-chicago-il.jpeg\" /></p>\n",
+			"date_published": "2019-09-19T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/09/19/chicago-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Chicago, IL</p>\n\n<p><img src=\"/assets/images/DE56AEC7-B068-475E-947F-E1360899CDFE.jpeg\" /></p>\n",
+			"date_published": "2019-06-12T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/06/12/chicago-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Highwood, IL</p>\n\n<p><img src=\"/assets/images/663E626B-9200-496E-A674-A3B68D6650A4.jpeg\" /></p>\n",
+			"date_published": "2019-06-08T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/06/08/highwood-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Sunrise Run</p>\n\n<p><img src=\"/assets/images/6F36671C-2F9F-417E-98EB-3DC89AE49F9B.jpeg\" /></p>\n",
+			"date_published": "2019-06-07T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/06/07/sunrise-run.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<blockquote>\n  <p>Courage isn’t the opposite of fear, but of comfort. — Nicole Antoinett</p>\n</blockquote>\n",
+			"date_published": "2019-06-05T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/06/05/courage.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Chicago, Il</p>\n\n<p><img src=\"/assets/images/F0507B11-0F9A-4753-9018-B13DFBF3E9B6.jpeg\" /></p>\n",
+			"date_published": "2019-05-30T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/05/30/chicago-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Evanston, Il</p>\n\n<p><img src=\"/assets/images/62A33133-7BE3-429A-97DE-5D0C100BD348.jpeg\" /></p>\n",
+			"date_published": "2019-05-30T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/05/30/evanston-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Chicago, Il</p>\n\n<p><img src=\"/assets/images/2F268AC0-69DC-4C5A-9CE3-883F8E83E1C2.jpeg\" /></p>\n",
+			"date_published": "2019-05-29T16:09:47-05:00",
+			"url": "http://localhost:4000/2019/05/29/chicago-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Evanston, IL</p>\n\n<p><img src=\"/assets/images/6C0C2CCA-5C0F-4155-97C7-96D4495F4BB2.jpeg\" /></p>\n",
+			"date_published": "2019-05-28T00:00:00-05:00",
+			"url": "http://localhost:4000/2019/05/28/evanston-il.html"
+		},
+		
+		{
+			"id": "",
+	      	
+			"content_html": "<p>Cold Roll 🚲</p>\n\n<p><img src=\"/assets/images/85304596b9.jpg\" /></p>\n",
 			"date_published": "2018-12-09T09:02:37-06:00",
-			"url": "https://germanflores.com/2018/12/09/cold-roll.html"
+			"url": "http://localhost:4000/2018/12/09/cold-roll.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/12/08/last-day-at.html",
+			"id": "",
 	      	
-			"content_html": "<p>Last day at work for one of our software engineers, Slivovitz time</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/d1a31ba120.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+			"content_html": "<p>Last day at work for one of our software engineers, Slivovitz time</p>\n\n<p><img src=\"/assets/images/d1a31ba120.jpg\" /></p>\n",
 			"date_published": "2018-12-08T09:51:18-06:00",
-			"url": "https://germanflores.com/2018/12/08/last-day-at.html"
+			"url": "http://localhost:4000/2018/12/08/last-day-at.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/12/03/today-i-updated.html",
+			"id": "",
 	      	
-			"content_html": "<p>Today I updated my Certified ScrumMaster® and Certified Scrum Product Owner® certifications from the Scrum Alliance</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/841ef27189.jpg\" width=\"300\" height=\"300\" /><img src=\"https://germanflores.com/uploads/2018/f5bf51e240.jpg\" width=\"300\" height=\"300\" /></p>\n",
+			"content_html": "<p>Today I updated my Certified ScrumMaster® and Certified Scrum Product Owner® certifications from the Scrum Alliance</p>\n\n<p><img src=\"/assets/images/841ef27189.jpg\" />\n<img src=\"/assets/images/f5bf51e240.jpg\" /></p>\n",
 			"date_published": "2018-12-03T13:54:54-06:00",
-			"url": "https://germanflores.com/2018/12/03/today-i-updated.html"
+			"url": "http://localhost:4000/2018/12/03/today-i-updated.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/12/03/i-run-in.html",
+			"id": "",
 	      	
-			"content_html": "<p>I run in the darkness 🏃🏾🔦</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/51bee234cc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>I run in the darkness 🏃🏾🔦</p>\n\n<p><img src=\"/assets/images/51bee234cc.jpg\" /></p>\n",
 			"date_published": "2018-12-03T06:52:28-06:00",
-			"url": "https://germanflores.com/2018/12/03/i-run-in.html"
+			"url": "http://localhost:4000/2018/12/03/i-run-in.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/11/30/angi-english-carolinagal.html",
+			"id": "",
 	      	
 			"content_html": "<p>Angi English @Carolinagal14 explains the five principles of high reliability organizations, the principles can relate to software development teams.</p>\n\n<p><a href=\"https://medium.com/homeland-security/for-want-of-a-nail-learning-from-high-reliability-organizations-32d0c1995bc2\">medium.com/homeland-…</a></p>\n",
 			"date_published": "2018-11-30T06:34:45-06:00",
-			"url": "https://germanflores.com/2018/11/30/angi-english-carolinagal.html"
+			"url": "http://localhost:4000/2018/11/30/angi-english-carolinagal.html"
 		},
 		
 		{
-			"id": "http://germanflores.micro.blog/2018/11/28/get-your-spikes.html",
+			"id": "",
 	      	
-			"content_html": "<p>Get your spikes out, chilly 15F ⛄️</p>\n\n<p><img src=\"https://germanflores.com/uploads/2018/2bf4686120.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"content_html": "<p>Get your spikes out, chilly 15F ⛄️</p>\n\n<p><img src=\"/assets/images/2bf4686120.jpg\" /></p>\n",
 			"date_published": "2018-11-28T10:49:41-06:00",
-			"url": "https://germanflores.com/2018/11/28/get-your-spikes.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/08/28/roman-pichler-writes.html",
-	      	
-			"content_html": "<p>Roman Pichler writes about digital transformations in the context of having a useful Product role, great insight and topics for companies transforming</p>\n\n<p><a href=\"https://www.romanpichler.com/blog/digital-transformation-and-product-management/\">www.romanpichler.com/blog/digi…</a></p>\n",
-			"date_published": "2018-08-28T10:48:52-05:00",
-			"url": "https://germanflores.com/2018/08/28/roman-pichler-writes.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/08/16/today-i-learned.html",
-	      	
-			"content_html": "<p>Today I learned these acronyms \nFOLO: Fear of Living Off-line.\nFOMU: Fear of Messing Up.\nFOJO: Fear of Judgment On-line.\nFOMIRL: Fear of Meeting in Real Life.\nAnd to balance things\nJOMO: joy of missing out.</p>\n",
-			"date_published": "2018-08-16T06:43:04-05:00",
-			"url": "https://germanflores.com/2018/08/16/today-i-learned.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/08/12/im-giving-you.html",
-	      	
-			"content_html": "<blockquote>\n  <p>“I’m giving you these comments because I have very high expectations and I know that you can reach them.” \n― Daniel Coyle, The Culture Code: The Secrets of Highly Successful Groups</p>\n</blockquote>\n",
-			"date_published": "2018-08-12T07:09:19-05:00",
-			"url": "https://germanflores.com/2018/08/12/im-giving-you.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/08/06/roberto-dip-roperzh.html",
-	      	
-			"content_html": "<p>Roberto Dip @roperzh writes about communication and tactics he has used to communicate while working remotely.</p>\n\n<p><a href=\"https://monades.roperzh.com/getting-better-at-team-communication/\">monades.roperzh.com/getting-b…</a></p>\n",
-			"date_published": "2018-08-06T12:06:18-05:00",
-			"url": "https://germanflores.com/2018/08/06/roberto-dip-roperzh.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/08/05/avi-revivo-avirevivo.html",
-	      	
-			"content_html": "<p>Avi Revivo @Avi_Revivo writes about business process and three questions people should consider asking around processes. It also contains nuggets like “The more functions we have in the organization the more need we have for coordination.”</p>\n\n<p><a href=\"https://www.linkedin.com/pulse/fear-process-how-scale-team-without-getting-corporate-avi-revivo/\">www.linkedin.com/pulse/fea…</a></p>\n",
-			"date_published": "2018-08-05T15:37:33-05:00",
-			"url": "https://germanflores.com/2018/08/05/avi-revivo-avirevivo.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/08/05/114253.html",
-	      	
-			"content_html": "<p><img src=\"https://germanflores.com/uploads/2018/0239a90fbc.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-08-05T06:42:53-05:00",
-			"url": "https://germanflores.com/2018/08/05/114253.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/08/02/jean-hsu-jyhsu.html",
-	      	
-			"content_html": "<p>Jean Hsu @jyhsu writes about getting buy-in for work that is about reducing technical debt; “follow the thread of impact.”</p>\n\n<p><a href=\"https://blog.coleadership.com/how-to-get-buy-in-for-reducing-technical-debt/\">blog.coleadership.com/how-to-ge…</a></p>\n",
-			"date_published": "2018-08-02T16:19:03-05:00",
-			"url": "https://germanflores.com/2018/08/02/jean-hsu-jyhsu.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/08/02/found-this-team.html",
-	      	
-			"content_html": "<p>Found this team activity interesting</p>\n<blockquote>\n  <p>tottinge - I had a team that was “sick of talking about our feelings” so I made something up. I had them use sticky notes to list the skills that they used in the past few sprints that saved their bacon or made big jobs easy. They held onto these. Then on a different color, list the skills they wish they had because it might have made their lives easier. They put their names on all their cards. Then they posted them on a white board, “have” side and “want” side.  At the end, they looked for needs that they could fill in their teammates, and scheduled pair programming and lunch-n-learn sessions to teach each other, and adjourned. They said the following few weeks they learned more than prior several months and it helped them all.</p>\n</blockquote>\n",
-			"date_published": "2018-08-02T15:42:11-05:00",
-			"url": "https://germanflores.com/2018/08/02/found-this-team.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/07/30/michael-robert-bernstein.html",
-	      	
-			"content_html": "<p>Michael Robert Bernstein @mrbbk writes about the value of teams blogging about their technical work, as a recruiting tool and other not so apparent reasons.</p>\n\n<p><a href=\"http://michaelrbernste.in/2016/11/02/blog-blog-blog.html\">michaelrbernste.in/2016/11/0…</a></p>\n",
-			"date_published": "2018-07-30T06:32:51-05:00",
-			"url": "https://germanflores.com/2018/07/30/michael-robert-bernstein.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/07/30/steve-shogren-steveshogren.html",
-	      	
-			"content_html": "<p>Steve Shogren @steveshogren writes about pair programming, great perspective on what pair programming can be when embraced, helped me understand what is possible</p>\n\n<p><a href=\"http://deliberate-software.com/pairprogramming/\">deliberate-software.com/pairprogr…</a></p>\n",
-			"date_published": "2018-07-29T21:11:21-05:00",
-			"url": "https://germanflores.com/2018/07/29/steve-shogren-steveshogren.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/07/30/pat-kua-patkua.html",
-	      	
-			"content_html": "<p>Pat Kua @patkua writes about folks transitioning to the Tech Lead role, how difficult it can be and three behaviors that prevent people from being effective in the role</p>\n\n<p><a href=\"https://www.thekua.com/atwork/2018/04/three-common-mistakes-of-the-first-time-tech-lead/\">www.thekua.com/atwork/20…</a></p>\n",
-			"date_published": "2018-07-29T21:10:07-05:00",
-			"url": "https://germanflores.com/2018/07/29/pat-kua-patkua.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/07/30/matthew-mamet-writes.html",
-	      	
-			"content_html": "<p>Matthew Mamet writes about Directly Responsible Individuals (DRI) and the idea of clarity for about who is responsible for doing something, typically after meetings\n<a href=\"https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4\">medium.com/@mmamet/d…</a></p>\n",
-			"date_published": "2018-07-29T20:53:18-05:00",
-			"url": "https://germanflores.com/2018/07/29/matthew-mamet-writes.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/07/27/anna-goss-annagoss.html",
-	      	
-			"content_html": "<p>Anna Goss @annagoss writes about techniques to build high performing teams, the feedback techniques, and mindset are interesting and if the team is ready\n<a href=\"https://www.mindtheproduct.com/2018/02/techniques-help-build-high-performing-team/\">www.mindtheproduct.com/2018/02/t…</a></p>\n",
-			"date_published": "2018-07-27T16:40:48-05:00",
-			"url": "https://germanflores.com/2018/07/27/anna-goss-annagoss.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/06/22/john-cutler-johnpcutler.html",
-	      	
-			"content_html": "<p>John Cutler @johnpcutler makes a case for shipping small, interesting ideas for teams struggling with shipping \n<a href=\"https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a\">hackernoon.com/work-smal…</a></p>\n",
-			"date_published": "2018-06-22T16:40:33-05:00",
-			"url": "https://germanflores.com/2018/06/22/john-cutler-johnpcutler.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/06/22/chris-sims-chrissims.html",
-	      	
-			"content_html": "<p>Chris Sims @ChrisSims writes about the definition of done. A critical conversation the team should have every time someone joins\n<a href=\"http://www.agilelearninglabs.com/2018/02/how-to-create-your-teams-definition-of-done/\">www.agilelearninglabs.com/2018/02/h…</a></p>\n",
-			"date_published": "2018-06-22T15:38:57-05:00",
-			"url": "https://germanflores.com/2018/06/22/chris-sims-chrissims.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/06/22/203754.html",
-	      	
-			"content_html": "<p>Parul Singh @parulia writes about the mindset of prioritization, specifically strategic prioritization, “It’s ruthlessly focusing on ‘do less, not more.’” she defines ten principles to follow\n<a href=\"https://medium.com/swlh/the-art-of-the-lazy-product-manager-fc6e5385a00b\">medium.com/swlh/the-…</a></p>\n",
-			"date_published": "2018-06-22T15:37:54-05:00",
-			"url": "https://germanflores.com/2018/06/22/203754.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/06/22/parul-singh-parulia.html",
-	      	
-			"content_html": "<p>Parul Singh @parulia writes about the mindset of prioritization, specifically strategic prioritization, “It’s ruthlessly focusing on ‘do less, not more.’” she defines ten principles to follow\n<a href=\"https://medium.com/swlh/the-art-of-the-lazy-product-manager-fc6e5385a00b\">medium.com/swlh/the-…</a></p>\n",
-			"date_published": "2018-06-22T15:37:28-05:00",
-			"url": "https://germanflores.com/2018/06/22/parul-singh-parulia.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/06/22/jake-calabrese-jcalabrese.html",
-	      	
-			"content_html": "<p>Jake Calabrese @jcalabrese writes about teams “self-manages the work” vs. “self-organizes to deliver the work.” Also, the support they need\n<a href=\"https://agileforall.com/agile-leadership-myth-2-self-organizing-teams-dont-need-any-help/\">agileforall.com/agile-lea…</a></p>\n",
-			"date_published": "2018-06-22T15:20:34-05:00",
-			"url": "https://germanflores.com/2018/06/22/jake-calabrese-jcalabrese.html"
-		},
-		
-		{
-			"id": "http://germanflores.micro.blog/2018/06/22/john-allspaw-allspaw.html",
-	      	
-			"content_html": "<p>John Allspaw @allspaw writes about facilitating debriefs about incidents, gives examples of how a facilitator can leverage the incident as a learning opportunity for the team</p>\n\n<p><a href=\"https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/\">codeascraft.com/2016/11/1…</a></p>\n",
-			"date_published": "2018-06-22T14:50:39-05:00",
-			"url": "https://germanflores.com/2018/06/22/john-allspaw-allspaw.html"
+			"url": "http://localhost:4000/2018/11/28/get-your-spikes.html"
 		}
 		
 	]
