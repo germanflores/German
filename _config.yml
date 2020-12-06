@@ -25,13 +25,12 @@ defaults:
 
 title: "German Flores"
 tagline: ""
-description: "Description"
+description: "Germán Flores helps teams implement effective practices to manage work and grow people using Agile principles and frameworks. I’m passionate about working with folks and helping them fulfill their potential."
 credits: "credits"
 baseurl: ""
 url: "https://germanflores.github.io"
 markdown: "kramdown"
 username: "germanflores"
-microblog_user: "germanflores"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "German Flores"
@@ -40,7 +39,7 @@ gravatar_hash: "366c20b75000715ee9ea80edabff9614"
 avatar: "https://micro.blog/germanflores/avatar.jpg"
 full_name: "German Flores"
 bio: ""
-twitter_username: ""
+twitter_username: "germanflores"
 github_username: ""
 instagram_username: ""
 paginate: 20
